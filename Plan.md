@@ -1,4 +1,4 @@
-# Canvas & Clove — Product Plan (Final)
+# Canvas & Clove — Product Plan
 
 A cross-platform cooking recipe collection app (iPhone, iPad). **Online only** — no offline mode, no sync layer. 
 
@@ -18,13 +18,12 @@ A cross-platform cooking recipe collection app (iPhone, iPad). **Online only** �
 
 | Layer | Choice | Notes |
 |-------|--------|------|
-| **App** | Expo (React Native) | Single codebase for iOS + Android |
+| **App** | Expo (React Native) | Single codebase for iOS + Web |
 | **Auth** | ios only, use iphone sign in with apple |
-| **Database** | Cloudflare D1 (single shared DB) | SQLite-compatible; one database for all users |
+| **Database** | Cloudflare D1 (single shared DB) | SQLite-compatible; one database for one user |
 | **File storage** | Cloudflare R2 | Images, video |
 | **AI (text/recipe)** | Gemini via Cloudflare Worker + AI Gateway | Token usage returned per request for billing |
 | **AI (voice)** | OpenAI gpt-audio-mini via Cloudflare Worker | Voice-to-text; token counted toward user limit |
-| **Payments** |iOS payment | iOS uses StoreKit to purchase “2000 credit” product. iOS sends to Worker the StoreKit 2 signed transaction info (or transaction id), Worker verifies with Apple (App Store Server API).If verified and not already credited → write ledger|
 | **i18n** | Lingui | All supported locales (see section 9.3) |
 | **Error tracking** | Sentry | Logging and error monitoring |
 
@@ -134,7 +133,8 @@ menu - user need to select which way to import. it will always output in the app
 | **From URL** | User pastes URL; device fetches page content and sends to Gemini Worker; try JSON-LD structured data first, then AI parse; AI review; user edits and saves. Records `forked_from_url`. User can configure default cooking site URLs for quick access |
 | **From paste** | User pastes plain text or markdown; parsed into recipe fields; user edits and saves |
 
-- **Cover & step images**: if photo scan, use the scan, if from url, use the image from url. user can replace the cover image and step images from camera/library OR generate via Gemini (one image at a time; credits cost).
+- **Cover & step images**: if photo scan, use the scan, if from url, use the image from url. if no cover image, ai generated cover image. imgae will use one of the default prompt styles. No automatic step images generation.
+    user can replace the cover image and step images from camera/library OR generate via Gemini (one image at a time; credits cost).
 
 ### 6.3 Recipe editing
 

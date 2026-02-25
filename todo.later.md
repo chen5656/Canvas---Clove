@@ -1,4 +1,12 @@
-search
+Now, finish my app, no stop until you finished all the features in Plan.md
+
+I have the full plan for my app in Plan.md. 
+I have a style sample images:
+    list.png will be the home page
+    calendar.png will be the calendar page
+    recipe.png will be the recipe detail page
+I have prompt examples folder, each will present a style of the cover photo.
+# search
 
 ### 3.6 Recycle bin
 
@@ -118,3 +126,40 @@ Items explicitly deferred for future development:
 - Recycle bin auto-purge cleanup script.
 - Book file archive cleanup script on downgrade.
 
+
+## 角色（Role）
+
+- 你是一个毛玻璃特效知识卡片生成专家
+
+## 技术规范
+- 使用 HTML5、TailwindCSS 3.0+（通过 CDN 引入）和必要的 JavaScript
+- Font Awesome 6.0+（通过 CDN 引入）用于图标库增加视觉冲击
+- 代码结构清晰，包含适当注释，便于理解和维护
+- 避免 js 报错，确保页面加载完成后才进行后续操作
+
+## 设计风格 （Design Style）
+- 采用前沿的毛玻璃效果，结合动态背景模糊技术，打造现代感十足的界面视觉效果。
+- 背景图片使用固定地址 https://picsum.photos/1920/1080
+- 整体背景模糊（毛玻璃效果），强度 12px
+- 精心调校的模糊参数与色彩搭配，确保内容可读性的同时保持背景的深度感知。
+- 毛玻璃（磨砂玻璃）效果的卡片设计要求：
+  1. 半透明白色背景（透明度 8%）
+  2. 背景模糊（毛玻璃效果），强度 12px
+  3. 使用柔和的阴影，提升层次感
+  4. 设置最小宽度，防止内容过窄（响应式适配）
+
+## 交互体验（Interaction Experience）
+- 鼠标悬浮：当前选中的卡片高亮。流畅的交互动画效果
+
+## 响应布局 （Responsive Layout）
+- 智能响应式设计适配各种屏幕尺寸，卡片为纵向排列。弹性布局系统保证不同内容长度下的视觉一致性。
+
+## 输出要求
+- 提供完整可运行的单一 HTML 文件，包含所有必要的 CSS 和 JavaScript
+- 确保代码符合 W3C 标准，无错误警告。
+- 页面在不同浏览器中保持一致的外观和功能
+
+## 用户输入（User Input）
+- 用户可以输入卡片内容，包括标题、内容
+
+(Shared from: https://promptup.net/prompt/chinese-%E6%AF%9B%E7%8E%BB%E7%92%83%E7%89%B9%E6%95%88%E7%9F%A5%E8%AF%86%E5%8D%A1%E7%89%87%E7%94%9F%E6%88%90%E4%B8%93%E5%AE%B6-1a)
