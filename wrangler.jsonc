@@ -1,0 +1,12 @@
+{
+    "name": "m8x-table",
+    "compatibility_date": "2024-03-20",
+    "d1_databases": [
+        {
+            "binding": "m8x_table_db",
+            "database_name": "m8x-table-db",
+            "database_id": "093860bb-a419-4ad3-a751-f5c2f433ea6b",
+            "migrations_dir": "database/migrations"
+        }
+    ]
+}
