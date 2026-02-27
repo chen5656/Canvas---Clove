@@ -5,7 +5,7 @@
 		{
 			"binding": "m8x_table_db",
 			"database_name": "m8x-table-db",
-			"database_id": "093860bb-a419-4ad3-a751-f5c2f433ea6b",
+			"database_id": "3199dfb3-5fc3-4411-b5c5-50fd42a83b85",
 			"migrations_dir": "database/migrations"
 		}
 	],
