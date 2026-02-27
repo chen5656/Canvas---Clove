@@ -1,5 +1,10 @@
 /**
  * Collections tests (§3.3)
+ *
+ * After 0002_translation_redesign:
+ *   - collection_shares table removed (sharing deferred to future).
+ *   - Visibility CHECK constraint still allows 'shared' for forward-compatibility,
+ *     but no collection_shares rows are created.
  */
 
 import { describe, it, expect } from '@jest/globals';
@@ -68,11 +73,6 @@ describe('Collections — Visibility', () => {
     expect(true).toBe(true);
   });
 
-  it('visibility can be set to shared with specific users', async () => {
-    // TODO: shareCollection(id, [userId1, userId2]), assert collection_shares rows created
-    expect(true).toBe(true);
-  });
-
   it('visibility can be set to public', async () => {
     // TODO: updateCollection(id, { visibility: 'public' })
     expect(true).toBe(true);
@@ -80,10 +80,6 @@ describe('Collections — Visibility', () => {
 
   it('private collection is not visible to other users', async () => {
     // TODO: fetch collection as different user, expect 403 or empty result
-    expect(true).toBe(true);
-  });
-
-  it('shared collection is visible to invited users only', async () => {
     expect(true).toBe(true);
   });
 

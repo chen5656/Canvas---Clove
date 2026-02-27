@@ -3,3 +3,4 @@
 -- Actual schema changes should go in database/migrations/
 
 .read migrations/0001_initial.sql
+.read migrations/0002_translation_redesign.sql

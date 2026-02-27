@@ -1,17 +1,25 @@
 /**
  * Search and filter tests (§6.6)
+ *
+ * After 0002_translation_redesign:
+ *   - Recipe title/description are in recipe_translations, so keyword search
+ *     must join through recipe_translations for the current locale.
+ *   - Ingredient names are in ingredient_translations, so ingredient search
+ *     must join through ingredient_translations.
  */
 
 import { describe, it, expect } from '@jest/globals';
 
 describe('Search', () => {
-  it('keyword search returns recipes matching title', async () => {
-    // TODO: searchRecipes(userId, 'pasta'), assert matching recipes returned
+  it('keyword search returns recipes matching title in recipe_translations', async () => {
+    // TODO: searchRecipes(userId, 'pasta', locale), assert matching recipes returned
+    //       (searches recipe_translations.title for the given locale)
     expect(true).toBe(true);
   });
 
-  it('keyword search returns recipes matching ingredient name', async () => {
-    // TODO: searchRecipes(userId, 'garlic'), assert recipes containing garlic returned
+  it('keyword search returns recipes matching ingredient name in ingredient_translations', async () => {
+    // TODO: searchRecipes(userId, 'garlic', locale),
+    //       assert recipes containing garlic in ingredient_translations returned
     expect(true).toBe(true);
   });
 
@@ -25,8 +33,10 @@ describe('Search', () => {
     expect(true).toBe(true);
   });
 
-  it('search excludes draft recipes', async () => {
-    // TODO: assert is_draft = 1 recipes not returned in search
+  it('search works across multiple locales for the same recipe', async () => {
+    // TODO: recipe has en and zh-Hans translations,
+    //       search with locale=en for English title, assert found;
+    //       search with locale=zh-Hans for Chinese title, assert found
     expect(true).toBe(true);
   });
 });
