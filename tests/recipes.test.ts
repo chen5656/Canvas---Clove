@@ -1,5 +1,12 @@
 /**
  * Recipe CRUD and creation entry-point tests (§3.1, §6.2, §6.3, §6.4)
+ *
+ * After 0002_translation_redesign:
+ *   - Translatable fields (title, description, tools, tips) live in recipe_translations.
+ *   - Ingredient name/unit live in ingredient_translations.
+ *   - Step description lives in step_translations.
+ *   - Creating a recipe means inserting a row in recipes (language-agnostic fields)
+ *     plus at least one row in recipe_translations for the chosen locale.
  */
 
 import { describe, it, expect } from '@jest/globals';
@@ -17,7 +24,7 @@ describe('Recipe — Draft model (§6.2)', () => {
   });
 
   it('tapping Save commits the recipe to D1', async () => {
-    // TODO: saveRecipe(), assert row exists in D1
+    // TODO: saveRecipe(), assert row exists in recipes + recipe_translations
     expect(true).toBe(true);
   });
 
@@ -29,13 +36,24 @@ describe('Recipe — Draft model (§6.2)', () => {
 });
 
 describe('Recipe — From scratch (§6.2)', () => {
-  it('creates recipe with all required fields', async () => {
-    // TODO: create recipe with title, description, ingredients, steps
+  it('creates recipe with language-agnostic fields in recipes table', async () => {
+    // TODO: create recipe, assert row in recipes with cover_image, category,
+    //       difficulty, prep_time, cook_time, etc.
     expect(true).toBe(true);
   });
 
-  it('stores tools/equipment and tips/notes', async () => {
-    // TODO: assert tools and tips columns saved
+  it('creates recipe_translations row with title, description, tools, tips for chosen locale', async () => {
+    // TODO: create recipe, assert recipe_translations row with correct locale
+    expect(true).toBe(true);
+  });
+
+  it('creates ingredient rows with ingredient_translations for chosen locale', async () => {
+    // TODO: create recipe with ingredients, assert ingredients + ingredient_translations rows
+    expect(true).toBe(true);
+  });
+
+  it('creates step rows with step_translations for chosen locale', async () => {
+    // TODO: create recipe with steps, assert steps + step_translations rows
     expect(true).toBe(true);
   });
 
@@ -88,7 +106,9 @@ describe('Recipe — From photo (dish) (§6.2)', () => {
 
 describe('Recipe — AI generate (§6.2)', () => {
   it('generates a full recipe from a name input', async () => {
-    // TODO: mock AI provider, assert all fields populated
+    // TODO: mock AI provider, assert all fields populated across
+    //       recipes, recipe_translations, ingredients, ingredient_translations,
+    //       steps, step_translations
     expect(true).toBe(true);
   });
 
