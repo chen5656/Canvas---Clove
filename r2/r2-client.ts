@@ -48,7 +48,7 @@ function getClient(): S3Client {
   return _client;
 }
 
-const BUCKET = process.env.R2_BUCKET_NAME ?? 'm8xtable-media-dev';
+const BUCKET = process.env.R2_BUCKET_NAME ?? 'm8x-table-media-dev';
 
 // ---------------------------------------------------------------------------
 // Upload a local file to R2

@@ -7,13 +7,13 @@ Media files (cover images, step images, recipe videos, step videos, profile pict
 ## 1. Create the R2 bucket
 
 ```bash
-npx wrangler r2 bucket create m8xtable-media
+npx wrangler r2 bucket create m8x-table-media
 ```
 
 Create a separate bucket for development:
 
 ```bash
-npx wrangler r2 bucket create m8xtable-media-dev
+npx wrangler r2 bucket create m8x-table-media-dev
 ```
 
 ---
@@ -36,8 +36,8 @@ Create `r2/cors.json`:
 Apply:
 
 ```bash
-npx wrangler r2 bucket cors put m8xtable-media --rules r2/cors.json
-npx wrangler r2 bucket cors put m8xtable-media-dev --rules r2/cors.json
+npx wrangler r2 bucket cors put m8x-table-media --rules r2/cors.json
+npx wrangler r2 bucket cors put m8x-table-media-dev --rules r2/cors.json
 ```
 
 ---
@@ -45,7 +45,7 @@ npx wrangler r2 bucket cors put m8xtable-media-dev --rules r2/cors.json
 ## 3. Generate R2 API credentials
 
 1. Go to [Cloudflare Dashboard → R2 → Manage R2 API Tokens](https://dash.cloudflare.com/?to=/:account/r2/api-tokens)
-2. Create a token with **Object Read & Write** permissions scoped to `m8xtable-media`
+2. Create a token with **Object Read & Write** permissions scoped to `m8x-table-media`
 3. Copy the **Access Key ID** and **Secret Access Key**
 
 ---
@@ -58,11 +58,11 @@ Add to your `.env` (never commit this file):
 R2_ACCOUNT_ID=your_cloudflare_account_id
 R2_ACCESS_KEY_ID=your_access_key_id
 R2_SECRET_ACCESS_KEY=your_secret_access_key
-R2_BUCKET_NAME=m8xtable-media
+R2_BUCKET_NAME=m8x-table-media
 R2_PUBLIC_URL=https://pub-<hash>.r2.dev   # optional: public bucket URL or custom domain
 ```
 
-For local dev use `m8xtable-media-dev` as `R2_BUCKET_NAME`.
+For local dev use `m8x-table-media-dev` as `R2_BUCKET_NAME`.
 
 ---
 
@@ -104,10 +104,10 @@ In `wrangler.toml`:
 ```toml
 [[r2_buckets]]
 binding = "MEDIA"
-bucket_name = "m8xtable-media"
+bucket_name = "m8x-table-media"
 
 # Local dev
 [[env.dev.r2_buckets]]
 binding = "MEDIA"
-bucket_name = "m8xtable-media-dev"
+bucket_name = "m8x-table-media-dev"
 ```

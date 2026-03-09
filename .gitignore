@@ -1,3 +1,11 @@
 .env
 node_modules/
 package-lock.json
+npm_cache/
+database/sample data/
+.wrangler/
+.expo/
+dist/
+web-build/
+*.tsbuildinfo
+.DS_Store

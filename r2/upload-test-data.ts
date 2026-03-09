@@ -5,7 +5,7 @@
  *   npx ts-node r2/upload-test-data.ts
  *
  * Requires env vars: R2_ACCOUNT_ID, R2_ACCESS_KEY_ID, R2_SECRET_ACCESS_KEY
- * (R2_BUCKET_NAME defaults to 'm8xtable-media-dev')
+ * (R2_BUCKET_NAME defaults to 'm8x-table-media-dev')
  *
  * Place sample files in r2/test-assets/ before running:
  *   r2/test-assets/sample-cover.jpg
@@ -48,7 +48,7 @@ const TEST_ASSETS: TestAsset[] = [
 ];
 
 async function main() {
-  console.log(`Uploading test data to bucket: ${process.env.R2_BUCKET_NAME ?? 'm8xtable-media-dev'}\n`);
+  console.log(`Uploading test data to bucket: ${process.env.R2_BUCKET_NAME ?? 'm8x-table-media-dev'}\n`);
 
   for (const asset of TEST_ASSETS) {
     if (!fs.existsSync(asset.localFile)) {

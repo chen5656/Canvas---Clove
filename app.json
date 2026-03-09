@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "M8X Table",
+    "slug": "m8xtable",
+    "version": "0.1.0",
+    "scheme": "m8xtable",
+    "platforms": ["ios", "web"],
+    "web": {
+      "bundler": "metro",
+      "output": "single",
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": ["expo-router"]
+  }
+}

@@ -20,7 +20,7 @@ A cross-platform cooking recipe collection app (iPhone, iPad). **Online only** �
 |-------|--------|-------|
 | **App** | Expo (React Native) | Single codebase for iOS + Web |
 | **Auth** | iOS only; Sign in with Apple | |
-| **Database** | Cloudflare D1 | SQLite-compatible; one database per user |
+| **Database** | Cloudflare D1 Shared D1 (multi-tenant by owner_user_id)| SQLite-compatible |
 | **File storage** | Cloudflare R2 | Images, video |
 | **AI providers** | Gemini, OpenAI, Claude, OpenRouter, Qwen, GLM | API keys stored per-user in Settings; direct connection from app to provider — no intermediary gateway |
 | **i18n** | Lingui | All supported locales (see section 9.3) |
@@ -53,6 +53,7 @@ A cross-platform cooking recipe collection app (iPhone, iPad). **Online only** �
 
 ### 3.3 Collections
 - add, remove recipes to a collection.
+- add cover image.
 - batch add, user can select multiple recipes and add them to a collection.
 - batch remove, user can select multiple recipes and remove them from a collection.
 - User-created groups of recipes (e.g. "Weeknight", "Holiday").
@@ -68,17 +69,28 @@ A cross-platform cooking recipe collection app (iPhone, iPad). **Online only** �
 - Boolean flag on recipe (`is_favorite`).
 - Toggle gallery to show favorites only.
 
-### 3.6 Recycle bin (skip for now — user can delete to recycle bin, but cannot view it)
+### 3.6 Recycle bin 
+- Soft-deleted recipes; hidden from main UI.
+- Show countdown ("X days remaining") per recipe.
+- User can restore within 30 days.
+- User can select and permanently delete early ("empty bin").
+- Auto-purge after 30 days (cleanup script added later).
 
 ### 3.8 Shopping list
 
-- Lives in the bottom tab bar;
-- add a page for place holder, skip the implementation for now.
+- Lives in the bottom tab bar; red badge shows number of recipes added.
+- Each recipe page has an "Add to shopping list" button.
+- **Tab 1 — Recipes**: List of added recipes; can remove one or all.
+- **Tab 2 — Ingredients**: Aggregated from Tab 1 recipes; no manual delete.
+  - Each ingredient shows which recipe(s) it comes from.
+  - If an ingredient appears in multiple recipes, quantities are summed.
+  - Toggle checkbox per ingredient.
+  - Share button: send selected (checked) ingredients via iMessage or Telegram.
 
 ### 3.9 Meal plan calendar
 
 - Lives in the bottom tab bar.
-- add a page for place holder, skip the implementation for now.
+- Calendar view where user can add recipes or free-text notes to any date.
 
 ---
 
@@ -230,3 +242,25 @@ See section 3.9 for full spec. Lives in the bottom tab bar.
 | **Shopping List** | Recipes + aggregated ingredients | Red badge: recipe count |
 | **Meal Plan** | Calendar with recipes and notes | — |
 | **Profile** | Settings, account, API key management | — |
+
+## Prompting for frontend aesthetics
+
+<frontend_aesthetics>
+You tend to converge toward generic, "on distribution" outputs. In frontend design, this creates what users call the "AI slop" aesthetic. Avoid this: make creative, distinctive frontends that surprise and delight. Focus on:
+ 
+Typography: Choose fonts that are beautiful, unique, and interesting. Avoid generic fonts like Arial and Inter; opt instead for distinctive choices that elevate the frontend's aesthetics.
+ 
+Color & Theme: Commit to a cohesive aesthetic. Use CSS variables for consistency. Dominant colors with sharp accents outperform timid, evenly-distributed palettes. Draw from IDE themes and cultural aesthetics for inspiration.
+ 
+Motion: Use animations for effects and micro-interactions. Prioritize CSS-only solutions for HTML. Use Motion library for React when available. Focus on high-impact moments: one well-orchestrated page load with staggered reveals (animation-delay) creates more delight than scattered micro-interactions.
+ 
+Backgrounds: Create atmosphere and depth rather than defaulting to solid colors. Layer CSS gradients, use geometric patterns, or add contextual effec ts that match the overall aesthetic.
+ 
+Avoid generic AI-generated aesthetics:
+- Overused font families (Inter, Roboto, Arial, system fonts)
+- Clichéd color schemes (particularly purple gradients on white backgrounds)
+- Predictable layouts and component patterns
+- Cookie-cutter design that lacks context-specific character
+ 
+Interpret creatively and make unexpected choices that feel genuinely designed for the context. Vary between light and dark themes, different fonts, different aesthetics. You still tend to converge on common choices (Space Grotesk, for example) across generations. Avoid this: it is critical that you think outside the box!
+</frontend_aesthetics>

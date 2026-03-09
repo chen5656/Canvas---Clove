@@ -1,5 +1,6 @@
 {
 	"name": "m8xtable",
+	"main": "worker/index.ts",
 	"compatibility_date": "2024-03-20",
 	"d1_databases": [
 		{
@@ -11,14 +12,9 @@
 	],
 	"r2_buckets": [
 		{
-			"bucket_name": "m8xtable-media",
-			"binding": "m8xtable_media",
-			"remote": true
-		},
-		{
-			"bucket_name": "m8xtable-media-dev",
-			"binding": "m8xtable_media_dev",
-			"remote": true
+			"bucket_name": "m8x-table-media",
+			"preview_bucket_name": "m8x-table-media-dev",
+			"binding": "m8xtable_media"
 		}
 	]
 }

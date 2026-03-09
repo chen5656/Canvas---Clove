@@ -1,0 +1,5988 @@
+[
+  {
+    "title": "仙草芋圆",
+    "description": "一道经典的夏日消暑甜品，由Q弹的芋圆和滑嫩的仙草组成，搭配清凉的牛奶或椰汁，口感层次丰富。",
+    "category": "甜点",
+    "difficulty": "medium",
+    "prep_time": 30,
+    "cook_time": 10,
+    "ingredients": [
+      {
+        "name": "仙草冻",
+        "amount": 200,
+        "unit": "克"
+      },
+      {
+        "name": "红薯/芋头",
+        "amount": 300,
+        "unit": "克"
+      },
+      {
+        "name": "木薯淀粉",
+        "amount": 150,
+        "unit": "克"
+      },
+      {
+        "name": "细砂糖",
+        "amount": 30,
+        "unit": "克"
+      },
+      {
+        "name": "牛奶或椰汁",
+        "amount": 150,
+        "unit": "毫升"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将红薯和芋头去皮切块，放入蒸锅蒸熟至软烂。",
+        "step_type": "prep",
+        "time_minutes": 20
+      },
+      {
+        "description": "趁热将蒸好的红薯和芋头压成泥，分别加入木薯淀粉和糖，揉成不粘手的面团。",
+        "step_type": "prep",
+        "time_minutes": 10
+      },
+      {
+        "description": "将面团搓成长条，切成小丁，制成芋圆生坯。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "锅中水烧开，放入芋圆煮至全部浮起，继续煮1-2分钟后捞出，放入冰水中过凉。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      },
+      {
+        "description": "在碗中放入切块的仙草冻和煮好的芋圆，倒入冰镇的牛奶或椰汁即可食用。",
+        "step_type": "active_cook",
+        "time_minutes": 2
+      }
+    ],
+    "tags": [
+      "甜品",
+      "中式",
+      "下午茶",
+      "消暑"
+    ],
+    "tools": "蒸锅, 煮锅"
+  },
+  {
+    "title": "回锅肉",
+    "description": "回锅肉是一道著名的四川传统菜肴，以其色泽红亮、肥而不腻、口味香浓而闻名。其特点是肉片先煮后炒，故名“回锅”。",
+    "category": "午餐/晚餐",
+    "difficulty": "medium",
+    "prep_time": 15,
+    "cook_time": 20,
+    "ingredients": [
+      {
+        "name": "五花肉",
+        "amount": 400,
+        "unit": "克"
+      },
+      {
+        "name": "青蒜 (蒜苗)",
+        "amount": 100,
+        "unit": "克"
+      },
+      {
+        "name": "郫县豆瓣酱",
+        "amount": 1,
+        "unit": "汤匙"
+      },
+      {
+        "name": "生姜",
+        "amount": 10,
+        "unit": "克"
+      },
+      {
+        "name": "大蒜",
+        "amount": 2,
+        "unit": "瓣"
+      },
+      {
+        "name": "料酒",
+        "amount": 1,
+        "unit": "汤匙"
+      },
+      {
+        "name": "白糖",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "食用油",
+        "amount": 10,
+        "unit": "毫升"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将五花肉放入冷水锅中，加入姜片和料酒，煮至八成熟（约15分钟），捞出晾凉。",
+        "step_type": "active_cook",
+        "time_minutes": 15
+      },
+      {
+        "description": "将煮好的五花肉切成薄片；青蒜斜切成段；姜蒜切片。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "锅中倒少量油，放入五花肉片中小火煸炒至肉片出油并呈“灯盏窝”状（微卷）。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      },
+      {
+        "description": "加入豆瓣酱、姜蒜片翻炒出红油，加入少许糖提鲜。",
+        "step_type": "active_cook",
+        "time_minutes": 2
+      },
+      {
+        "description": "放入青蒜段，快速大火翻炒至青蒜断生即可出锅。",
+        "step_type": "active_cook",
+        "time_minutes": 2
+      }
+    ],
+    "tags": [
+      "中餐",
+      "川菜",
+      "猪肉",
+      "经典"
+    ],
+    "tools": "炒锅"
+  },
+  {
+    "title": "白切鸡",
+    "description": "白切鸡又称白斩鸡，是粤菜中最普通的一种。制作简便，不加配料且保持原味，皮爽肉滑，清淡鲜美。",
+    "category": "晚餐",
+    "difficulty": "medium",
+    "prep_time": 15,
+    "cook_time": 25,
+    "ingredients": [
+      {
+        "name": "三黄鸡",
+        "amount": 1000,
+        "unit": "克"
+      },
+      {
+        "name": "姜",
+        "amount": 30,
+        "unit": "克"
+      },
+      {
+        "name": "葱",
+        "amount": 20,
+        "unit": "克"
+      },
+      {
+        "name": "料酒",
+        "amount": 15,
+        "unit": "毫升"
+      },
+      {
+        "name": "盐",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "花生油",
+        "amount": 10,
+        "unit": "毫升"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将鸡清洗干净，去掉内脏，姜切片，葱打结。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "锅中加入足量冷水，放入姜片、葱结和料酒，大火烧开。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      },
+      {
+        "description": "提住鸡头，将鸡身放入沸水中烫5秒后提起，重复三次，以使腹腔受热均匀。",
+        "step_type": "active_cook",
+        "time_minutes": 2
+      },
+      {
+        "description": "将鸡完全浸没在锅中，转小火保持水微开状态，盖上锅盖浸煮约15-20分钟。",
+        "step_type": "active_cook",
+        "time_minutes": 18
+      },
+      {
+        "description": "将煮熟的鸡取出，立即放入准备好的冰水中浸泡5分钟，使皮质爽脆。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "捞出沥干水分，在鸡皮表面刷上一层花生油，斩件装盘，搭配姜葱油蘸料食用。",
+        "step_type": "prep",
+        "time_minutes": 5
+      }
+    ],
+    "tags": [
+      "中餐",
+      "粤菜",
+      "经典",
+      "鸡肉"
+    ],
+    "tools": "汤锅、菜刀、砧板"
+  },
+  {
+    "title": "生煎包",
+    "description": "生煎包是流行于上海、江苏及浙江的一种传统小吃。底酥、皮薄、肉香。咬一口满嘴汤汁，口感层次丰富。",
+    "category": "中式点心 / 早餐",
+    "difficulty": "medium",
+    "prep_time": 60,
+    "cook_time": 20,
+    "ingredients": [
+      {
+        "name": "中筋面粉",
+        "amount": 300,
+        "unit": "克"
+      },
+      {
+        "name": "温水",
+        "amount": 160,
+        "unit": "克"
+      },
+      {
+        "name": "干酵母",
+        "amount": 3,
+        "unit": "克"
+      },
+      {
+        "name": "猪肉馅",
+        "amount": 300,
+        "unit": "克"
+      },
+      {
+        "name": "皮冻",
+        "amount": 100,
+        "unit": "克"
+      },
+      {
+        "name": "生抽",
+        "amount": 15,
+        "unit": "克"
+      },
+      {
+        "name": "老抽",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "盐",
+        "amount": 3,
+        "unit": "克"
+      },
+      {
+        "name": "糖",
+        "amount": 10,
+        "unit": "克"
+      },
+      {
+        "name": "葱花",
+        "amount": 20,
+        "unit": "克"
+      },
+      {
+        "name": "姜末",
+        "amount": 10,
+        "unit": "克"
+      },
+      {
+        "name": "黑芝麻",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "食用油",
+        "amount": 30,
+        "unit": "克"
+      }
+    ],
+    "steps": [
+      {
+        "description": "面粉加入酵母和温水，揉成光滑面团，盖上保鲜膜发酵至两倍大。",
+        "step_type": "prep",
+        "time_minutes": 45
+      },
+      {
+        "description": "将猪肉馅加入生抽、老抽、盐、糖、姜末、葱花顺时针搅拌上劲，最后混入切碎的皮冻。",
+        "step_type": "prep",
+        "time_minutes": 15
+      },
+      {
+        "description": "发酵好的面团排气，分成小剂子，包入肉馅，收口朝下放置。",
+        "step_type": "prep",
+        "time_minutes": 20
+      },
+      {
+        "description": "平底锅倒入少量油，放入包子，中火煎至底部金黄。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      },
+      {
+        "description": "倒入没过包子三分之一的水，盖上锅盖焖煮约10分钟直至水分收干。",
+        "step_type": "active_cook",
+        "time_minutes": 10
+      },
+      {
+        "description": "撒上黑芝麻和葱花，再小火煎1-2分钟使底部更酥脆即可出锅。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      }
+    ],
+    "tags": [
+      "中餐",
+      "猪肉",
+      "点心",
+      "面食"
+    ],
+    "tools": "平底锅, 擀面杖"
+  },
+  {
+    "title": "金包银 (翡翠白菜卷)",
+    "description": "这是一道色香味俱全的家常菜。用鲜嫩的大白菜叶包裹着调味好的肉馅，经过蒸制后淋上鲜美的芡汁，口感清脆爽口，肉馅鲜嫩多汁。",
+    "category": "晚餐",
+    "difficulty": "medium",
+    "prep_time": 20,
+    "cook_time": 15,
+    "ingredients": [
+      {
+        "name": "大白菜",
+        "amount": 10,
+        "unit": "叶"
+      },
+      {
+        "name": "猪肉馅",
+        "amount": 250,
+        "unit": "克"
+      },
+      {
+        "name": "香菇",
+        "amount": 3,
+        "unit": "朵"
+      },
+      {
+        "name": "胡萝卜",
+        "amount": 50,
+        "unit": "克"
+      },
+      {
+        "name": "生抽",
+        "amount": 1,
+        "unit": "汤匙"
+      },
+      {
+        "name": "蚝油",
+        "amount": 1,
+        "unit": "汤匙"
+      },
+      {
+        "name": "盐",
+        "amount": 2,
+        "unit": "克"
+      },
+      {
+        "name": "淀粉",
+        "amount": 1,
+        "unit": "勺"
+      },
+      {
+        "name": "葱末",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "姜末",
+        "amount": 5,
+        "unit": "克"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将猪肉馅加入葱姜末、生抽、盐、少许淀粉顺时针搅拌上劲。香菇和胡萝卜切碎拌入肉馅中。",
+        "step_type": "prep",
+        "time_minutes": 10
+      },
+      {
+        "description": "大白菜叶洗净，入开水中烫软捞出，过凉水备用。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "将白菜叶铺平，放上适量肉馅，由底部向上卷起，两边向内折叠，卷成圆柱形。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "将卷好的白菜卷放入盘中，冷水上锅，大火蒸8-10分钟。",
+        "step_type": "active_cook",
+        "time_minutes": 10
+      },
+      {
+        "description": "将蒸出的汤汁倒入锅中，加入蚝油和少许淀粉水勾薄芡，淋在白菜卷上即可。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      }
+    ],
+    "tags": [
+      "中餐",
+      "猪肉",
+      "蒸菜",
+      "家常菜"
+    ],
+    "tools": "蒸锅, 炒锅"
+  },
+  {
+    "title": "蒜苔炒腊肉",
+    "description": "这是一道经典的家常小炒，蒜苔的爽脆与腊肉的咸香完美融合，下饭必备。",
+    "category": "晚餐",
+    "difficulty": "easy",
+    "prep_time": 10,
+    "cook_time": 10,
+    "ingredients": [
+      {
+        "name": "蒜苔",
+        "amount": 250,
+        "unit": "克"
+      },
+      {
+        "name": "腊肉",
+        "amount": 150,
+        "unit": "克"
+      },
+      {
+        "name": "红辣椒",
+        "amount": 1,
+        "unit": "个"
+      },
+      {
+        "name": "生抽",
+        "amount": 5,
+        "unit": "毫升"
+      },
+      {
+        "name": "生姜",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "大蒜",
+        "amount": 2,
+        "unit": "瓣"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将蒜苔洗净切成小段，腊肉切成薄片备用。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "锅中倒入少量油，放入腊肉中小火煸炒至出油且边缘微焦。",
+        "step_type": "active_cook",
+        "time_minutes": 3
+      },
+      {
+        "description": "加入姜片、蒜片和红辣椒段炒出香味。",
+        "step_type": "active_cook",
+        "time_minutes": 1
+      },
+      {
+        "description": "倒入蒜苔大火快速翻炒，调入生抽，炒至蒜苔断生即可出锅。",
+        "step_type": "active_cook",
+        "time_minutes": 3
+      }
+    ],
+    "tags": [
+      "中餐",
+      "家常菜",
+      "猪肉",
+      "蒜苔"
+    ],
+    "tools": "炒锅"
+  },
+  {
+    "title": "干锅花菜",
+    "description": "一道经典的中式家常菜，花菜口感清脆，搭配五花肉的油脂香气和香辣的调料，非常下饭。",
+    "category": "晚餐",
+    "difficulty": "easy",
+    "prep_time": 10,
+    "cook_time": 15,
+    "ingredients": [
+      {
+        "name": "花菜",
+        "amount": 500,
+        "unit": "克"
+      },
+      {
+        "name": "五花肉",
+        "amount": 100,
+        "unit": "克"
+      },
+      {
+        "name": "青红辣椒",
+        "amount": 3,
+        "unit": "个"
+      },
+      {
+        "name": "大蒜",
+        "amount": 3,
+        "unit": "瓣"
+      },
+      {
+        "name": "姜",
+        "amount": 3,
+        "unit": "片"
+      },
+      {
+        "name": "豆瓣酱",
+        "amount": 1,
+        "unit": "勺"
+      },
+      {
+        "name": "生抽",
+        "amount": 10,
+        "unit": "毫升"
+      },
+      {
+        "name": "食用油",
+        "amount": 20,
+        "unit": "毫升"
+      }
+    ],
+    "steps": [
+      {
+        "description": "花菜洗净切成小朵，五花肉切薄片，辣椒切段，姜蒜切片备用。",
+        "step_type": "prep",
+        "time_minutes": 10
+      },
+      {
+        "description": "锅中倒入少许油，放入五花肉片煸炒至出油，表面微焦。",
+        "step_type": "active_cook",
+        "time_minutes": 3
+      },
+      {
+        "description": "加入姜片、蒜片、辣椒段和豆瓣酱，中小火炒出红油和香味。",
+        "step_type": "active_cook",
+        "time_minutes": 2
+      },
+      {
+        "description": "转大火，倒入花菜快速翻炒，使花菜均匀裹上调料，炒至断生且边缘微焦。",
+        "step_type": "active_cook",
+        "time_minutes": 8
+      },
+      {
+        "description": "加入生抽调味，翻炒均匀后即可出锅。",
+        "step_type": "active_cook",
+        "time_minutes": 2
+      }
+    ],
+    "tags": [
+      "中餐",
+      "家常菜",
+      "香辣",
+      "蔬菜"
+    ],
+    "tools": "炒锅"
+  },
+  {
+    "title": "皮蛋瘦肉粥",
+    "description": "经典的粤式粥品，以大米、皮蛋和瘦肉为主要原料，口感绵密滑顺，咸香鲜美，是极受欢迎的早餐或夜宵选择。",
+    "category": "早餐",
+    "difficulty": "easy",
+    "prep_time": 15,
+    "cook_time": 45,
+    "ingredients": [
+      {
+        "name": "大米",
+        "amount": 150,
+        "unit": "克"
+      },
+      {
+        "name": "猪里脊肉",
+        "amount": 100,
+        "unit": "克"
+      },
+      {
+        "name": "皮蛋",
+        "amount": 2,
+        "unit": "个"
+      },
+      {
+        "name": "生姜",
+        "amount": 10,
+        "unit": "克"
+      },
+      {
+        "name": "小葱",
+        "amount": 10,
+        "unit": "克"
+      },
+      {
+        "name": "盐",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "料酒",
+        "amount": 5,
+        "unit": "毫升"
+      },
+      {
+        "name": "白胡椒粉",
+        "amount": 2,
+        "unit": "克"
+      }
+    ],
+    "steps": [
+      {
+        "description": "大米洗净，用清水浸泡约30分钟，加入少许油拌匀；猪肉切成丝或薄片，用料酒、少许盐和姜丝腌制15分钟。",
+        "step_type": "prep",
+        "time_minutes": 15
+      },
+      {
+        "description": "皮蛋剥壳切成小块；姜切丝，葱切成葱花备用。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "锅中加入约1.5升清水，大火烧开后下入浸泡好的大米，再次煮开后转小火慢熬，期间需间歇搅拌防止粘锅。",
+        "step_type": "active_cook",
+        "time_minutes": 30
+      },
+      {
+        "description": "待粥体变得粘稠时，下入皮蛋块和腌制好的肉丝，改中火煮约5-10分钟，直到肉色变白熟透。",
+        "step_type": "active_cook",
+        "time_minutes": 10
+      },
+      {
+        "description": "加入盐、白胡椒粉调味，撒上葱花即可出锅。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      }
+    ],
+    "tags": [
+      "中餐",
+      "粤菜",
+      "粥品",
+      "猪肉"
+    ],
+    "tools": "砂锅或深汤锅"
+  },
+  {
+    "title": "绿豆汤",
+    "description": "清热解暑的传统中式甜品，口感沙软，清甜可口。",
+    "category": "甜点",
+    "difficulty": "easy",
+    "prep_time": 10,
+    "cook_time": 45,
+    "ingredients": [
+      {
+        "name": "绿豆",
+        "amount": 100,
+        "unit": "克"
+      },
+      {
+        "name": "水",
+        "amount": 1000,
+        "unit": "毫升"
+      },
+      {
+        "name": "冰糖",
+        "amount": 30,
+        "unit": "克"
+      }
+    ],
+    "steps": [
+      {
+        "description": "绿豆洗净，提前浸泡2小时（或采用冷冻法加速煮烂）。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "锅中加入绿豆和水，大火烧开。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      },
+      {
+        "description": "转中小火焖煮约40分钟，直至绿豆软烂开花。",
+        "step_type": "active_cook",
+        "time_minutes": 40
+      },
+      {
+        "description": "按个人口味加入冰糖搅拌至融化即可。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      }
+    ],
+    "tags": [
+      "中餐",
+      "甜品",
+      "清热解暑"
+    ],
+    "tools": "汤锅"
+  },
+  {
+    "title": "日式炸猪排",
+    "description": "经典日式炸猪排，口感外酥里嫩，常搭配清爽的高丽菜丝一同享用。",
+    "category": "晚餐",
+    "difficulty": "medium",
+    "prep_time": 20,
+    "cook_time": 10,
+    "ingredients": [
+      {
+        "name": "猪里脊肉",
+        "amount": 200,
+        "unit": "克"
+      },
+      {
+        "name": "盐",
+        "amount": 2,
+        "unit": "克"
+      },
+      {
+        "name": "黑胡椒",
+        "amount": 1,
+        "unit": "克"
+      },
+      {
+        "name": "鸡蛋",
+        "amount": 1,
+        "unit": "个"
+      },
+      {
+        "name": "面粉",
+        "amount": 30,
+        "unit": "克"
+      },
+      {
+        "name": "面包糠",
+        "amount": 50,
+        "unit": "克"
+      },
+      {
+        "name": "植物油",
+        "amount": 500,
+        "unit": "毫升"
+      }
+    ],
+    "steps": [
+      {
+        "description": "用肉锤轻敲猪排，切断筋膜防止卷曲，撒上盐和黑胡椒腌制10分钟。",
+        "step_type": "prep",
+        "time_minutes": 10
+      },
+      {
+        "description": "将腌制好的猪排依次均匀裹上面粉、蛋液，最后压实面包糠。",
+        "step_type": "prep",
+        "time_minutes": 10
+      },
+      {
+        "description": "油锅热至170度左右，放入猪排中火炸约5-6分钟至两面金黄酥脆。",
+        "step_type": "active_cook",
+        "time_minutes": 6
+      },
+      {
+        "description": "捞出猪排沥干油分，静置2分钟后切成长条装盘，配以高丽菜丝。",
+        "step_type": "active_cook",
+        "time_minutes": 4
+      }
+    ],
+    "tags": [
+      "日式",
+      "猪肉",
+      "炸物"
+    ],
+    "tools": "油炸锅, 肉锤"
+  },
+  {
+    "title": "黑椒鸡片",
+    "description": "这是一道香气浓郁、做法简单的家常菜。鸡肉鲜嫩，搭配黑胡椒的辛香，非常下饭。",
+    "category": "晚餐",
+    "difficulty": "easy",
+    "prep_time": 10,
+    "cook_time": 10,
+    "ingredients": [
+      {
+        "name": "鸡胸肉",
+        "amount": 300,
+        "unit": "克"
+      },
+      {
+        "name": "黑胡椒粉",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "小葱",
+        "amount": 10,
+        "unit": "克"
+      },
+      {
+        "name": "大蒜",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "生抽",
+        "amount": 15,
+        "unit": "毫升"
+      },
+      {
+        "name": "料酒",
+        "amount": 10,
+        "unit": "毫升"
+      },
+      {
+        "name": "淀粉",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "食用油",
+        "amount": 20,
+        "unit": "毫升"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将鸡胸肉洗净切成薄片，放入碗中，加入生抽、料酒、黑胡椒粉和淀粉，抓匀腌制10分钟。",
+        "step_type": "prep",
+        "time_minutes": 10
+      },
+      {
+        "description": "小葱切成葱花，大蒜切成薄片备用。",
+        "step_type": "prep",
+        "time_minutes": 2
+      },
+      {
+        "description": "炒锅烧热，倒入食用油，下入蒜片爆香。",
+        "step_type": "active_cook",
+        "time_minutes": 1
+      },
+      {
+        "description": "放入腌制好的鸡肉片，中火平铺在锅底，煎至两面金黄并熟透。",
+        "step_type": "active_cook",
+        "time_minutes": 6
+      },
+      {
+        "description": "撒上新鲜葱花，翻炒均匀后即可出锅装盘。",
+        "step_type": "active_cook",
+        "time_minutes": 1
+      }
+    ],
+    "tags": [
+      "中餐",
+      "鸡肉",
+      "家常菜",
+      "黑胡椒"
+    ],
+    "tools": "炒锅"
+  },
+  {
+    "title": "酸辣土豆丝",
+    "description": "一道经典的家常菜，土豆丝口感清脆，酸辣适口，非常开胃。",
+    "category": "晚餐",
+    "difficulty": "easy",
+    "prep_time": 10,
+    "cook_time": 5,
+    "ingredients": [
+      {
+        "name": "土豆",
+        "amount": 500,
+        "unit": "克"
+      },
+      {
+        "name": "干辣椒",
+        "amount": 5,
+        "unit": "个"
+      },
+      {
+        "name": "花椒",
+        "amount": 10,
+        "unit": "粒"
+      },
+      {
+        "name": "白醋",
+        "amount": 2,
+        "unit": "汤勺"
+      },
+      {
+        "name": "盐",
+        "amount": 1,
+        "unit": "茶匙"
+      },
+      {
+        "name": "大蒜",
+        "amount": 2,
+        "unit": "瓣"
+      },
+      {
+        "name": "大葱",
+        "amount": 1,
+        "unit": "小段"
+      },
+      {
+        "name": "食用油",
+        "amount": 20,
+        "unit": "毫升"
+      }
+    ],
+    "steps": [
+      {
+        "description": "土豆去皮洗净，切成均匀的细丝，放入清水中浸泡，洗净表面淀粉以保持清脆。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "干辣椒切段，葱切段，大蒜切片备用。",
+        "step_type": "prep",
+        "time_minutes": 2
+      },
+      {
+        "description": "锅中倒入食用油，烧热后放入花椒，爆香后将花椒捞出不要。",
+        "step_type": "active_cook",
+        "time_minutes": 1
+      },
+      {
+        "description": "放入干辣椒段、葱段和蒜片爆香。",
+        "step_type": "active_cook",
+        "time_minutes": 1
+      },
+      {
+        "description": "倒入沥干水的土豆丝，用大火快速翻炒约2分钟，直到土豆丝变色。 ",
+        "step_type": "active_cook",
+        "time_minutes": 2
+      },
+      {
+        "description": "加入白醋和盐，继续翻炒均匀后立即出锅，防止过度烹饪导致失去脆度。",
+        "step_type": "active_cook",
+        "time_minutes": 1
+      }
+    ],
+    "tags": [
+      "中餐",
+      "土豆",
+      "家常菜",
+      "酸辣"
+    ],
+    "tools": "炒锅"
+  },
+  {
+    "title": "老醋花生",
+    "description": "酥脆的花生米配上酸甜适口的陈醋汁，是一道经典的凉菜和佐酒小食。",
+    "category": "凉菜",
+    "difficulty": "easy",
+    "prep_time": 5,
+    "cook_time": 10,
+    "ingredients": [
+      {
+        "name": "花生米",
+        "amount": 250,
+        "unit": "克"
+      },
+      {
+        "name": "陈醋",
+        "amount": 3,
+        "unit": "勺"
+      },
+      {
+        "name": "白糖",
+        "amount": 1,
+        "unit": "勺"
+      },
+      {
+        "name": "生抽",
+        "amount": 1,
+        "unit": "勺"
+      },
+      {
+        "name": "洋葱",
+        "amount": 30,
+        "unit": "克"
+      },
+      {
+        "name": "食用油",
+        "amount": 500,
+        "unit": "毫升"
+      }
+    ],
+    "steps": [
+      {
+        "description": "洋葱切小丁备用；将陈醋、白糖、生抽调和成味汁。",
+        "step_type": "prep",
+        "time_minutes": 3
+      },
+      {
+        "description": "冷锅冷油放入花生米，开小火慢炸。",
+        "step_type": "active_cook",
+        "time_minutes": 2
+      },
+      {
+        "description": "炸至花生米发出噼啪声并微微变色，立即捞出沥油。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      },
+      {
+        "description": "将花生米摊开晾凉，保持酥脆感。",
+        "step_type": "active_cook",
+        "time_minutes": 3
+      },
+      {
+        "description": "将凉透的花生米与味汁混合，撒上洋葱丁即可食用。",
+        "step_type": "prep",
+        "time_minutes": 2
+      }
+    ],
+    "tags": [
+      "中餐",
+      "素食",
+      "下酒菜",
+      "经典"
+    ],
+    "tools": "炒锅"
+  },
+  {
+    "title": "辣椒炒肉",
+    "description": "辣椒炒肉是一道非常下饭的经典湘式家常菜，以猪肉和辣椒为主要食材，香辣可口，口感层次丰富。",
+    "category": "晚餐",
+    "difficulty": "easy",
+    "prep_time": 10,
+    "cook_time": 10,
+    "ingredients": [
+      {
+        "name": "猪五花肉",
+        "amount": 250,
+        "unit": "克"
+      },
+      {
+        "name": "螺丝椒或青椒",
+        "amount": 200,
+        "unit": "克"
+      },
+      {
+        "name": "大蒜",
+        "amount": 3,
+        "unit": "瓣"
+      },
+      {
+        "name": "生姜",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "生抽",
+        "amount": 1,
+        "unit": "汤匙"
+      },
+      {
+        "name": "老抽",
+        "amount": 0.5,
+        "unit": "汤匙"
+      },
+      {
+        "name": "蚝油",
+        "amount": 1,
+        "unit": "汤匙"
+      },
+      {
+        "name": "盐",
+        "amount": 2,
+        "unit": "克"
+      },
+      {
+        "name": "料酒",
+        "amount": 1,
+        "unit": "汤匙"
+      }
+    ],
+    "steps": [
+      {
+        "description": "猪五花肉洗净切薄片，辣椒去蒂切斜段，大蒜切片，生姜切丝备用。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "净锅烧热，不放油，倒入辣椒中火煸炒，边炒边按压，直至辣椒表面出现虎皮状，盛出备用。",
+        "step_type": "active_cook",
+        "time_minutes": 3
+      },
+      {
+        "description": "锅中倒入适量底油，下入肉片中火煸炒至微微出油且变色。",
+        "step_type": "active_cook",
+        "time_minutes": 2
+      },
+      {
+        "description": "放入姜丝和蒜片炒香，调入料酒、生抽、老抽翻炒均匀上色。",
+        "step_type": "active_cook",
+        "time_minutes": 2
+      },
+      {
+        "description": "倒入煸好的辣椒，加入蚝油和盐，转大火快速翻炒均匀即可出锅。",
+        "step_type": "active_cook",
+        "time_minutes": 3
+      }
+    ],
+    "tags": [
+      "中餐",
+      "猪肉",
+      "家常菜",
+      "下饭菜",
+      "湘菜"
+    ],
+    "tools": "炒锅"
+  },
+  {
+    "title": "意式萨拉米洋葱披萨",
+    "description": "这是一款色泽金黄、香脆可口的意式薄底披萨。选用咸香的萨拉米香肠搭配浓郁的马苏里拉芝士，点缀清甜的红洋葱丝和新鲜罗勒，风味丰富且平衡。",
+    "category": "晚餐",
+    "difficulty": "medium",
+    "prep_time": 60,
+    "cook_time": 15,
+    "ingredients": [
+      {
+        "name": "高筋面粉",
+        "amount": 250,
+        "unit": "克"
+      },
+      {
+        "name": "温水",
+        "amount": 160,
+        "unit": "毫升"
+      },
+      {
+        "name": "酵母",
+        "amount": 3,
+        "unit": "克"
+      },
+      {
+        "name": "盐",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "橄榄油",
+        "amount": 10,
+        "unit": "克"
+      },
+      {
+        "name": "马苏里拉芝士碎",
+        "amount": 150,
+        "unit": "克"
+      },
+      {
+        "name": "萨拉米香肠(Pepperoni)",
+        "amount": 50,
+        "unit": "克"
+      },
+      {
+        "name": "红洋葱丝",
+        "amount": 20,
+        "unit": "克"
+      },
+      {
+        "name": "披萨酱",
+        "amount": 60,
+        "unit": "克"
+      },
+      {
+        "name": "新鲜罗勒叶",
+        "amount": 5,
+        "unit": "克"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将面粉、盐、酵母、水和橄榄油混合，揉搓成光滑且有弹性的面团。",
+        "step_type": "prep",
+        "time_minutes": 15
+      },
+      {
+        "description": "面团放入涂油的盆中，盖上保鲜膜，在温暖处发酵约45分钟，直到体积加倍。",
+        "step_type": "prep",
+        "time_minutes": 45
+      },
+      {
+        "description": "烤箱预热至230°C（或烤箱最高温）。",
+        "step_type": "prep",
+        "time_minutes": 10
+      },
+      {
+        "description": "将面团擀成圆形薄饼，边缘稍微留厚，涂上一层披萨酱。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      },
+      {
+        "description": "均匀铺上芝士碎、萨拉米香肠片和薄洋葱丝。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      },
+      {
+        "description": "放入预热好的烤箱烘烤，直到饼底边缘金黄焦脆，芝士冒泡并出现褐色斑点。",
+        "step_type": "active_cook",
+        "time_minutes": 15
+      },
+      {
+        "description": "取出披萨，趁热撒上新鲜罗勒叶并切块。",
+        "step_type": "active_cook",
+        "time_minutes": 2
+      }
+    ],
+    "tags": [
+      "西餐",
+      "烘焙",
+      "披萨",
+      "晚餐"
+    ],
+    "tools": "烤箱, 披萨铲, 擀面杖, 烤盘"
+  },
+  {
+    "title": "螃蟹粉丝煲",
+    "description": "这是一道经典的粤式名菜，鲜美的螃蟹与吸饱了浓郁汤汁的粉丝完美结合，口感鲜香软糯，色泽诱人。",
+    "category": "晚餐",
+    "difficulty": "medium",
+    "prep_time": 20,
+    "cook_time": 25,
+    "ingredients": [
+      {
+        "name": "螃蟹",
+        "amount": 2,
+        "unit": "只"
+      },
+      {
+        "name": "粉丝",
+        "amount": 150,
+        "unit": "克"
+      },
+      {
+        "name": "生姜",
+        "amount": 10,
+        "unit": "克"
+      },
+      {
+        "name": "大蒜",
+        "amount": 3,
+        "unit": "瓣"
+      },
+      {
+        "name": "小葱",
+        "amount": 2,
+        "unit": "根"
+      },
+      {
+        "name": "生抽",
+        "amount": 2,
+        "unit": "勺"
+      },
+      {
+        "name": "老抽",
+        "amount": 0.5,
+        "unit": "勺"
+      },
+      {
+        "name": "蚝油",
+        "amount": 1,
+        "unit": "勺"
+      },
+      {
+        "name": "料酒",
+        "amount": 1,
+        "unit": "勺"
+      },
+      {
+        "name": "白糖",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "高汤或水",
+        "amount": 300,
+        "unit": "毫升"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将粉丝放入温水中浸泡20分钟至软，捞出沥干备用。",
+        "step_type": "prep",
+        "time_minutes": 20
+      },
+      {
+        "description": "螃蟹洗净去掉内脏，切成大块，姜切片，蒜切末，葱切段。",
+        "step_type": "prep",
+        "time_minutes": 10
+      },
+      {
+        "description": "锅中油热后，放入姜片、蒜末和葱段爆香，放入螃蟹块翻炒至变色。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      },
+      {
+        "description": "加入料酒、生抽、老抽、蚝油、白糖和高汤，大火煮开。",
+        "step_type": "active_cook",
+        "time_minutes": 3
+      },
+      {
+        "description": "放入泡好的粉丝，转小火焖煮5-8分钟，直到粉丝吸干大部分汤汁。",
+        "step_type": "active_cook",
+        "time_minutes": 8
+      },
+      {
+        "description": "撒上葱花，拌匀即可出锅。",
+        "step_type": "active_cook",
+        "time_minutes": 2
+      }
+    ],
+    "tags": [
+      "中餐",
+      "海鲜",
+      "粤菜",
+      "家常菜"
+    ],
+    "tools": "砂锅或炒锅"
+  },
+  {
+    "title": "白菜炒粉丝",
+    "description": "这是一道非常经典的家常菜，白菜的清甜搭配吸收了肉汁和调料的粉丝，口感顺滑，咸鲜入味，是非常下饭的快手菜。",
+    "category": "晚餐",
+    "difficulty": "easy",
+    "prep_time": 10,
+    "cook_time": 10,
+    "ingredients": [
+      {
+        "name": "大白菜",
+        "amount": 300,
+        "unit": "克"
+      },
+      {
+        "name": "粉丝",
+        "amount": 50,
+        "unit": "克"
+      },
+      {
+        "name": "里脊肉丝",
+        "amount": 50,
+        "unit": "克"
+      },
+      {
+        "name": "生抽",
+        "amount": 15,
+        "unit": "毫升"
+      },
+      {
+        "name": "老抽",
+        "amount": 5,
+        "unit": "毫升"
+      },
+      {
+        "name": "食盐",
+        "amount": 2,
+        "unit": "克"
+      },
+      {
+        "name": "葱",
+        "amount": 10,
+        "unit": "克"
+      },
+      {
+        "name": "姜",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "蒜",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "食用油",
+        "amount": 20,
+        "unit": "毫升"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将粉丝用温水浸泡10分钟至软，剪成约15厘米的长段备用。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "大白菜洗净切成粗丝，猪肉切成细丝，葱姜蒜切末备用。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "锅中倒入食用油，烧热后放入肉丝，快速滑散至变色。",
+        "step_type": "active_cook",
+        "time_minutes": 2
+      },
+      {
+        "description": "加入葱姜蒜末爆香，放入大白菜丝，大火翻炒至白菜变软出水。",
+        "step_type": "active_cook",
+        "time_minutes": 3
+      },
+      {
+        "description": "放入泡好的粉丝，加入生抽、老抽、盐调味，大火快速翻炒均匀，让粉丝吸收汤汁。",
+        "step_type": "active_cook",
+        "time_minutes": 3
+      },
+      {
+        "description": "待粉丝变透明且入味后，撒上葱花即可出锅。",
+        "step_type": "active_cook",
+        "time_minutes": 2
+      }
+    ],
+    "tags": [
+      "中餐",
+      "家常菜",
+      "粉丝",
+      "白菜"
+    ],
+    "tools": "炒锅"
+  },
+  {
+    "title": "海鲜葱饼",
+    "description": "一款经典的韩式风格海鲜葱饼，口感外酥里嫩，满溢海鲜的鲜甜与葱段的香气。",
+    "category": "午餐/晚餐",
+    "difficulty": "easy",
+    "prep_time": 15,
+    "cook_time": 10,
+    "ingredients": [
+      {
+        "name": "面粉",
+        "amount": 100,
+        "unit": "克"
+      },
+      {
+        "name": "粘米粉或淀粉",
+        "amount": 50,
+        "unit": "克"
+      },
+      {
+        "name": "鸡蛋",
+        "amount": 1,
+        "unit": "个"
+      },
+      {
+        "name": "虾仁",
+        "amount": 100,
+        "unit": "克"
+      },
+      {
+        "name": "鱿鱼",
+        "amount": 100,
+        "unit": "克"
+      },
+      {
+        "name": "小葱",
+        "amount": 100,
+        "unit": "克"
+      },
+      {
+        "name": "水",
+        "amount": 150,
+        "unit": "毫升"
+      },
+      {
+        "name": "盐",
+        "amount": 3,
+        "unit": "克"
+      },
+      {
+        "name": "白芝麻",
+        "amount": 5,
+        "unit": "克"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将虾仁洗净去虾线，鱿鱼切成小圈或小块；小葱洗净切成长段。",
+        "step_type": "prep",
+        "time_minutes": 10
+      },
+      {
+        "description": "将面粉、粘米粉、盐、鸡蛋和水混合，搅拌成均匀无颗粒的面糊。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "平底锅中倒入足量食用油，烧热后先铺上一层葱段。",
+        "step_type": "active_cook",
+        "time_minutes": 2
+      },
+      {
+        "description": "在葱段上均匀倒入面糊，随后撒上海鲜块，中火煎至底部金黄定型。",
+        "step_type": "active_cook",
+        "time_minutes": 4
+      },
+      {
+        "description": "翻面继续煎制，撒上白芝麻，直到两面均呈现金黄色且口感酥脆即可。",
+        "step_type": "active_cook",
+        "time_minutes": 4
+      }
+    ],
+    "tags": [
+      "中餐",
+      "海鲜",
+      "面食"
+    ],
+    "tools": "平底锅"
+  },
+  {
+    "title": "广式肠粉",
+    "description": "一道经典的广式早茶点心，口感滑嫩透明，内馅通常为猪肉、虾仁或牛肉，淋上特制酱油，风味独特。",
+    "category": "早餐",
+    "difficulty": "medium",
+    "prep_time": 25,
+    "cook_time": 15,
+    "ingredients": [
+      {
+        "name": "粘米粉",
+        "amount": 100,
+        "unit": "克"
+      },
+      {
+        "name": "澄粉",
+        "amount": 30,
+        "unit": "克"
+      },
+      {
+        "name": "玉米淀粉",
+        "amount": 10,
+        "unit": "克"
+      },
+      {
+        "name": "水",
+        "amount": 300,
+        "unit": "毫升"
+      },
+      {
+        "name": "猪肉末",
+        "amount": 100,
+        "unit": "克"
+      },
+      {
+        "name": "葱花",
+        "amount": 10,
+        "unit": "克"
+      },
+      {
+        "name": "油",
+        "amount": 10,
+        "unit": "毫升"
+      },
+      {
+        "name": "生抽",
+        "amount": 20,
+        "unit": "毫升"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将粘米粉、澄粉、玉米淀粉与水混合搅拌均匀，静置20分钟使粉浆更细腻。",
+        "step_type": "prep",
+        "time_minutes": 20
+      },
+      {
+        "description": "猪肉末加入少许盐、胡椒粉和生抽腌制备用。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "蒸锅加水大火烧开；在平底蒸盘上刷一层薄油，防止粘连。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      },
+      {
+        "description": "倒入适量粉浆铺满盘底，撒上肉末和葱花。",
+        "step_type": "active_cook",
+        "time_minutes": 1
+      },
+      {
+        "description": "放入蒸锅大火蒸约2-3分钟，直到粉浆凝固并鼓起大泡。",
+        "step_type": "active_cook",
+        "time_minutes": 3
+      },
+      {
+        "description": "取出蒸盘，用刮板将粉皮卷起成条状，切段装盘。",
+        "step_type": "active_cook",
+        "time_minutes": 2
+      },
+      {
+        "description": "淋上调好的肠粉酱油（生抽加糖和少许水煮开）即可享用。",
+        "step_type": "active_cook",
+        "time_minutes": 2
+      }
+    ],
+    "tags": [
+      "中餐",
+      "粤菜",
+      "点心",
+      "蒸菜"
+    ],
+    "tools": "蒸锅、平底蒸盘、刮板"
+  },
+  {
+    "title": "砂锅海鲜粥",
+    "description": "一款鲜美浓郁的广式海鲜粥，粥底软糯，搭配新鲜螃蟹和海虾，味道鲜甜，滋补暖胃。",
+    "category": "晚餐",
+    "difficulty": "medium",
+    "prep_time": 20,
+    "cook_time": 45,
+    "ingredients": [
+      {
+        "name": "大米",
+        "amount": 150,
+        "unit": "克"
+      },
+      {
+        "name": "螃蟹",
+        "amount": 1,
+        "unit": "只"
+      },
+      {
+        "name": "鲜虾",
+        "amount": 6,
+        "unit": "只"
+      },
+      {
+        "name": "生姜",
+        "amount": 15,
+        "unit": "克"
+      },
+      {
+        "name": "小葱",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "料酒",
+        "amount": 10,
+        "unit": "毫升"
+      },
+      {
+        "name": "盐",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "白胡椒粉",
+        "amount": 2,
+        "unit": "克"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将大米洗净浸泡30分钟；螃蟹刷洗干净并切块，虾去掉虾线，姜切丝，葱切末。",
+        "step_type": "prep",
+        "time_minutes": 20
+      },
+      {
+        "description": "锅中加入适量清水，烧开后下入大米，转小火慢熬约30分钟直至米粒开花。",
+        "step_type": "active_cook",
+        "time_minutes": 30
+      },
+      {
+        "description": "放入姜丝、螃蟹块和料酒，继续煮约8分钟，期间注意搅拌以防糊底。",
+        "step_type": "active_cook",
+        "time_minutes": 8
+      },
+      {
+        "description": "加入鲜虾，继续煮至虾变色熟透（约5分钟）。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      },
+      {
+        "description": "加入盐和白胡椒粉调味，撒上葱花即可关火。",
+        "step_type": "active_cook",
+        "time_minutes": 2
+      }
+    ],
+    "tags": [
+      "中餐",
+      "海鲜",
+      "粥",
+      "滋补"
+    ],
+    "tools": "砂锅"
+  },
+  {
+    "title": "日式溏心蛋",
+    "description": "特色：搭配面条",
+    "category": "配菜",
+    "difficulty": "easy",
+    "prep_time": 10,
+    "cook_time": 15,
+    "ingredients": [
+      {
+        "name": "鸡蛋",
+        "amount": 1,
+        "unit": "份"
+      },
+      {
+        "name": "可乐",
+        "amount": 3,
+        "unit": "份"
+      },
+      {
+        "name": "米酒",
+        "amount": 1,
+        "unit": "份"
+      },
+      {
+        "name": "酱油",
+        "amount": 1,
+        "unit": "份"
+      }
+    ],
+    "steps": [
+      {
+        "description": "卤汁（可乐、米酒、酱油按3:1:1比例）下锅，烧开，转小火",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      },
+      {
+        "description": "下鸡蛋，煮9分钟",
+        "step_type": "active_cook",
+        "time_minutes": 9
+      },
+      {
+        "description": "取出鸡蛋浸入冰水",
+        "step_type": "active_cook",
+        "time_minutes": 2
+      },
+      {
+        "description": "等卤汁凉透，把剥壳鸡蛋放入卤汁中浸泡过夜",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      }
+    ],
+    "tags": [
+      "中餐",
+      "日式",
+      "鸡蛋"
+    ],
+    "tools": "煮锅"
+  },
+  {
+    "title": "水煮肉片",
+    "description": "一道经典的川菜，以其麻、辣、鲜、香著称。肉片口感滑嫩，汤色红亮，是非常下饭的家常美食。",
+    "category": "晚餐",
+    "difficulty": "medium",
+    "prep_time": 20,
+    "cook_time": 15,
+    "ingredients": [
+      {
+        "name": "猪里脊肉",
+        "amount": 300,
+        "unit": "克"
+      },
+      {
+        "name": "黄豆芽或油麦菜",
+        "amount": 200,
+        "unit": "克"
+      },
+      {
+        "name": "郫县豆瓣酱",
+        "amount": 2,
+        "unit": "汤匙"
+      },
+      {
+        "name": "干辣椒",
+        "amount": 10,
+        "unit": "个"
+      },
+      {
+        "name": "花椒",
+        "amount": 1,
+        "unit": "汤匙"
+      },
+      {
+        "name": "蒜末",
+        "amount": 3,
+        "unit": "瓣"
+      },
+      {
+        "name": "姜片",
+        "amount": 3,
+        "unit": "片"
+      },
+      {
+        "name": "鸡蛋清",
+        "amount": 1,
+        "unit": "个"
+      },
+      {
+        "name": "淀粉",
+        "amount": 1,
+        "unit": "汤匙"
+      },
+      {
+        "name": "料酒",
+        "amount": 1,
+        "unit": "汤匙"
+      },
+      {
+        "name": "食用油",
+        "amount": 50,
+        "unit": "毫升"
+      },
+      {
+        "name": "生抽",
+        "amount": 1,
+        "unit": "汤匙"
+      },
+      {
+        "name": "盐",
+        "amount": 2,
+        "unit": "克"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将猪里脊肉逆着纹路切成薄片，加入料酒、盐、鸡蛋清和淀粉抓匀，腌制15分钟使肉质滑嫩。",
+        "step_type": "prep",
+        "time_minutes": 15
+      },
+      {
+        "description": "蔬菜（黄豆芽或油麦菜）洗净，入沸水焯熟后捞出，铺在大碗底部备用。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "锅中放少量油，下姜片、豆瓣酱小火炒出红油，加入适量清水或高汤，调入生抽煮开。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      },
+      {
+        "description": "将腌制好的肉片一片片均匀铺入锅中，煮至变色熟透（约1-2分钟），连汤一起倒入铺好蔬菜的碗中。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      },
+      {
+        "description": "在肉片上撒上蒜末、干辣椒段和花椒。另烧热油，趁热淋在干辣椒和蒜末上，激发出香味即可。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      }
+    ],
+    "tags": [
+      "川菜",
+      "猪肉",
+      "麻辣",
+      "中餐"
+    ],
+    "tools": "炒锅"
+  },
+  {
+    "title": "手撕鸡凉拌黄瓜",
+    "description": "一道经典的中式凉菜，由鲜嫩的手撕鸡肉丝、清脆的黄瓜丝和香辣的调料拌匀而成，口感清爽开胃。",
+    "category": "凉菜",
+    "difficulty": "easy",
+    "prep_time": 15,
+    "cook_time": 20,
+    "ingredients": [
+      {
+        "name": "鸡胸肉",
+        "amount": 250,
+        "unit": "克"
+      },
+      {
+        "name": "黄瓜",
+        "amount": 1,
+        "unit": "根"
+      },
+      {
+        "name": "干辣椒",
+        "amount": 3,
+        "unit": "个"
+      },
+      {
+        "name": "大蒜",
+        "amount": 2,
+        "unit": "瓣"
+      },
+      {
+        "name": "生抽",
+        "amount": 1,
+        "unit": "汤匙"
+      },
+      {
+        "name": "陈醋",
+        "amount": 1,
+        "unit": "汤匙"
+      },
+      {
+        "name": "糖",
+        "amount": 1,
+        "unit": "茶匙"
+      },
+      {
+        "name": "芝麻油",
+        "amount": 1,
+        "unit": "茶匙"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将鸡胸肉放入冷水锅中，加入姜片煮熟（约15-20分钟）。",
+        "step_type": "active_cook",
+        "time_minutes": 20
+      },
+      {
+        "description": "煮熟的鸡肉捞出晾凉，用手撕成丝备用。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "黄瓜洗净切成细丝，大蒜切末，干辣椒剪小段。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "将鸡肉丝、黄瓜丝放入碗中，加入蒜末、干辣椒、生抽、陈醋、糖和芝麻油。",
+        "step_type": "prep",
+        "time_minutes": 2
+      },
+      {
+        "description": "充分拌匀即可装盘。",
+        "step_type": "active_cook",
+        "time_minutes": 1
+      }
+    ],
+    "tags": [
+      "中餐",
+      "鸡肉",
+      "凉拌菜",
+      "低脂"
+    ],
+    "tools": "煮锅, 拌菜碗"
+  },
+  {
+    "title": "泰式柠檬虾",
+    "description": "酸甜可口，适合夏天",
+    "category": "凉菜",
+    "difficulty": "easy",
+    "prep_time": 15,
+    "cook_time": 5,
+    "ingredients": [
+      {
+        "name": "虾",
+        "amount": null,
+        "unit": null
+      },
+      {
+        "name": "小墨鱼",
+        "amount": null,
+        "unit": null
+      },
+      {
+        "name": "柠檬",
+        "amount": null,
+        "unit": null
+      },
+      {
+        "name": "青辣椒",
+        "amount": 1,
+        "unit": "个"
+      },
+      {
+        "name": "红辣椒",
+        "amount": 1,
+        "unit": "个"
+      },
+      {
+        "name": "洋葱",
+        "amount": 0.5,
+        "unit": "个"
+      },
+      {
+        "name": "姜",
+        "amount": 3,
+        "unit": "片"
+      },
+      {
+        "name": "蒜",
+        "amount": 3,
+        "unit": "瓣"
+      },
+      {
+        "name": "香菜",
+        "amount": 5,
+        "unit": "根"
+      },
+      {
+        "name": "葱",
+        "amount": 1,
+        "unit": "根"
+      },
+      {
+        "name": "辣椒油",
+        "amount": 1,
+        "unit": "Tbsp"
+      },
+      {
+        "name": "生抽",
+        "amount": 3,
+        "unit": "Tbsp"
+      },
+      {
+        "name": "醋",
+        "amount": 2,
+        "unit": "Tbsp"
+      },
+      {
+        "name": "麻油",
+        "amount": 1,
+        "unit": "Tbsp"
+      },
+      {
+        "name": "白糖",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "盐",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "胡椒粉",
+        "amount": 0.33,
+        "unit": "tsp"
+      },
+      {
+        "name": "黄瓜 (可选)",
+        "amount": null,
+        "unit": null
+      }
+    ],
+    "steps": [
+      {
+        "description": "虾、墨鱼蒸熟，取出后立即泡入冰水，保持Q弹口感",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      },
+      {
+        "description": "柠檬切薄片，姜切丝，辣椒切圈，其余配料（洋葱、蒜、香菜、葱）切碎备用",
+        "step_type": "prep",
+        "time_minutes": 7
+      },
+      {
+        "description": "将所有调味料混匀成酱汁，倒入主料和配料中拌匀即可",
+        "step_type": "prep",
+        "time_minutes": 3
+      }
+    ],
+    "tags": [
+      "泰式",
+      "海鲜",
+      "夏日美食",
+      "酸甜"
+    ],
+    "tools": "蒸锅、料理碗"
+  },
+  {
+    "title": "口水鸡",
+    "description": "口水鸡是一道著名的川菜凉菜，以其麻、辣、鲜、香、嫩、爽的特点而闻名。其名字来源于诗句“口水直下三千尺”，形容这道菜美味到让人流口水。",
+    "category": "晚餐",
+    "difficulty": "medium",
+    "prep_time": 20,
+    "cook_time": 15,
+    "ingredients": [
+      {
+        "name": "鸡腿",
+        "amount": 2,
+        "unit": "只"
+      },
+      {
+        "name": "生姜",
+        "amount": 15,
+        "unit": "克"
+      },
+      {
+        "name": "大葱",
+        "amount": 1,
+        "unit": "段"
+      },
+      {
+        "name": "料酒",
+        "amount": 1,
+        "unit": "汤匙"
+      },
+      {
+        "name": "辣椒油",
+        "amount": 3,
+        "unit": "汤匙"
+      },
+      {
+        "name": "生抽",
+        "amount": 2,
+        "unit": "汤匙"
+      },
+      {
+        "name": "香醋",
+        "amount": 1,
+        "unit": "汤匙"
+      },
+      {
+        "name": "白糖",
+        "amount": 1,
+        "unit": "茶匙"
+      },
+      {
+        "name": "蒜末",
+        "amount": 1,
+        "unit": "汤匙"
+      },
+      {
+        "name": "姜末",
+        "amount": 1,
+        "unit": "茶匙"
+      },
+      {
+        "name": "熟花生碎",
+        "amount": 20,
+        "unit": "克"
+      },
+      {
+        "name": "熟白芝麻",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "小葱",
+        "amount": 2,
+        "unit": "根"
+      },
+      {
+        "name": "香菜",
+        "amount": 1,
+        "unit": "棵"
+      }
+    ],
+    "steps": [
+      {
+        "description": "鸡腿洗净，锅中加水没过鸡腿，加入姜片、葱段和料酒，大火煮开转中火煮12分钟，关火焖5分钟。",
+        "step_type": "active_cook",
+        "time_minutes": 17
+      },
+      {
+        "description": "准备一大盆冰水，将煮好的鸡腿立即捞出放入冰水中浸泡，直到完全冷却（这样鸡皮会更Q弹）。",
+        "step_type": "prep",
+        "time_minutes": 10
+      },
+      {
+        "description": "调配酱汁：将辣椒油、生抽、香醋、白糖、蒜末、姜末混合均匀。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "将冷却后的鸡腿沥干水分，切成大小均匀的块状，整齐摆放在盘中。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "将调好的酱汁均匀淋在鸡肉上。",
+        "step_type": "active_cook",
+        "time_minutes": 1
+      },
+      {
+        "description": "最后撒上熟花生碎、熟芝麻、葱花和香菜段装饰即可。",
+        "step_type": "active_cook",
+        "time_minutes": 2
+      }
+    ],
+    "tags": [
+      "中餐",
+      "川菜",
+      "鸡肉",
+      "麻辣",
+      "凉菜"
+    ],
+    "tools": "煮锅, 菜刀, 菜板, 调味碗"
+  },
+  {
+    "title": "烤牛排骨",
+    "description": "特色：特别油腻，适合聚餐",
+    "category": "晚餐",
+    "difficulty": "medium",
+    "prep_time": 785,
+    "cook_time": 150,
+    "ingredients": [
+      {
+        "name": "牛排骨",
+        "amount": 1,
+        "unit": "份"
+      },
+      {
+        "name": "红糖",
+        "amount": 2,
+        "unit": "克"
+      },
+      {
+        "name": "盐",
+        "amount": 1,
+        "unit": "茶勺"
+      },
+      {
+        "name": "辣椒粉",
+        "amount": 7,
+        "unit": "克"
+      },
+      {
+        "name": "蒜粉",
+        "amount": 7,
+        "unit": "克"
+      },
+      {
+        "name": "生姜粉",
+        "amount": 3,
+        "unit": "克"
+      }
+    ],
+    "steps": [
+      {
+        "description": "牛排泡水1小时，去血水",
+        "step_type": "prep",
+        "time_minutes": 60
+      },
+      {
+        "description": "抹上调料，腌制过夜",
+        "step_type": "prep",
+        "time_minutes": 720
+      },
+      {
+        "description": "用锡纸包裹",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "放入烤箱300F，烤2.5小时",
+        "step_type": "active_cook",
+        "time_minutes": 150
+      }
+    ],
+    "tags": [
+      "中餐",
+      "牛肉",
+      "烤箱菜"
+    ],
+    "tools": "烤箱, 锡纸"
+  },
+  {
+    "title": "烤鸡腿（辣）",
+    "description": "香辣入味的烤鸡腿，经过配料调料腌制过夜，风味浓郁，简单好做。",
+    "category": "晚餐",
+    "difficulty": "easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "ingredients": [
+      {
+        "name": "鸡腿/鸡翅",
+        "amount": 500,
+        "unit": "克"
+      },
+      {
+        "name": "姜",
+        "amount": 5,
+        "unit": "片"
+      },
+      {
+        "name": "蒜",
+        "amount": 3,
+        "unit": "瓣"
+      },
+      {
+        "name": "葱",
+        "amount": 1,
+        "unit": "根"
+      },
+      {
+        "name": "西芹",
+        "amount": 1,
+        "unit": "棵"
+      },
+      {
+        "name": "生抽",
+        "amount": 20,
+        "unit": "克"
+      },
+      {
+        "name": "蚝油",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "油",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "盐",
+        "amount": 3,
+        "unit": "克"
+      },
+      {
+        "name": "胡椒粉",
+        "amount": 1,
+        "unit": "克"
+      },
+      {
+        "name": "烤鸡粉",
+        "amount": 10,
+        "unit": "克"
+      },
+      {
+        "name": "韩国辣椒粉",
+        "amount": 10,
+        "unit": "克"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将配料（姜片、蒜片、葱圈、西芹）和所有调料倒入鸡肉中，腌制过夜。",
+        "step_type": "prep",
+        "time_minutes": 10
+      },
+      {
+        "description": "将腌制好的鸡肉放入烤盘，将腌制用的配料铺在鸡肉上面。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "烤箱预热至425°F（约218°C），放入鸡肉烘烤30分钟。",
+        "step_type": "active_cook",
+        "time_minutes": 30
+      }
+    ],
+    "tags": [
+      "中餐",
+      "鸡肉",
+      "香辣",
+      "烤箱菜"
+    ],
+    "tools": "烤箱, 烤盘"
+  },
+  {
+    "title": "烤牛仔骨",
+    "description": "经典的韩式风味烤牛仔骨，肉质鲜嫩，做法简单。",
+    "category": "晚餐",
+    "difficulty": "easy",
+    "prep_time": 10,
+    "cook_time": 20,
+    "ingredients": [
+      {
+        "name": "牛小排",
+        "amount": null,
+        "unit": "适量"
+      },
+      {
+        "name": "盐",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "胡椒粉",
+        "amount": 1,
+        "unit": "克"
+      },
+      {
+        "name": "生抽",
+        "amount": 10,
+        "unit": "克"
+      },
+      {
+        "name": "韩国烤肉酱",
+        "amount": 35,
+        "unit": "克"
+      }
+    ],
+    "steps": [
+      {
+        "description": "烤箱预热至375°F",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "将腌制好的牛仔骨放入烤箱烤20分钟",
+        "step_type": "active_cook",
+        "time_minutes": 20
+      }
+    ],
+    "tags": [
+      "中餐",
+      "牛肉",
+      "烤箱菜"
+    ],
+    "tools": "烤箱"
+  },
+  {
+    "title": "芥末虾球",
+    "description": "一道口感爽脆、带有芥末清香的空气炸锅版海鲜料理。",
+    "category": "晚餐",
+    "difficulty": "easy",
+    "prep_time": 35,
+    "cook_time": 15,
+    "ingredients": [
+      {
+        "name": "虾",
+        "amount": 200,
+        "unit": "克"
+      },
+      {
+        "name": "面包糠",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "沙拉酱",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "芥末",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "盐",
+        "amount": 1,
+        "unit": "茶勺"
+      },
+      {
+        "name": "胡椒粉",
+        "amount": 0.33,
+        "unit": "茶勺"
+      },
+      {
+        "name": "柠檬汁",
+        "amount": 5,
+        "unit": "滴"
+      },
+      {
+        "name": "蛋黄",
+        "amount": 1,
+        "unit": "个"
+      },
+      {
+        "name": "食用油",
+        "amount": 1,
+        "unit": "大勺"
+      },
+      {
+        "name": "芒果",
+        "amount": 0,
+        "unit": "可选"
+      }
+    ],
+    "steps": [
+      {
+        "description": "虾去头去壳，调入盐、胡椒粉、柠檬汁、蛋黄和食用油，腌制半小时",
+        "step_type": "prep",
+        "time_minutes": 35
+      },
+      {
+        "description": "虾肉裹上面包糠，放入空气炸锅以400°F炸制10分钟（若无面包糠可用蛋黄调入玉米淀粉替代）",
+        "step_type": "active_cook",
+        "time_minutes": 10
+      },
+      {
+        "description": "混合沙拉酱和芥末酱，均匀抹在做好的虾球上，可配以芒果食用",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      }
+    ],
+    "tags": [
+      "中餐",
+      "海鲜",
+      "虾",
+      "空气炸锅"
+    ],
+    "tools": "空气炸锅"
+  },
+  {
+    "title": "咖喱味烤鸡腿",
+    "description": "这款咖喱风味的烤鸡腿制作简单，通过多种调料腌制后入库烤制，口感鲜嫩，风味浓郁。",
+    "category": "晚餐",
+    "difficulty": "easy",
+    "prep_time": 10,
+    "cook_time": 20,
+    "ingredients": [
+      {
+        "name": "鸡腿",
+        "amount": 4,
+        "unit": "只"
+      },
+      {
+        "name": "盐",
+        "amount": 6,
+        "unit": "克"
+      },
+      {
+        "name": "蒜粉",
+        "amount": 1,
+        "unit": "Tbsp"
+      },
+      {
+        "name": "孜然",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "生姜沫",
+        "amount": 2,
+        "unit": "tsp"
+      },
+      {
+        "name": "植物油",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "柠檬汁",
+        "amount": 1,
+        "unit": "Tbsp"
+      },
+      {
+        "name": "水",
+        "amount": 1,
+        "unit": "Tbsp"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将4只鸡腿切开备用",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "将所有调料（盐、蒜粉、孜然、生姜沫、植物油、柠檬汁、水）混合均匀，涂抹在鸡腿上",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "烤箱预热至375°F",
+        "step_type": "prep",
+        "time_minutes": 0
+      },
+      {
+        "description": "放入烤箱烤制20分钟即可",
+        "step_type": "active_cook",
+        "time_minutes": 20
+      }
+    ],
+    "tags": [
+      "中餐",
+      "鸡肉",
+      "烤箱菜"
+    ],
+    "tools": "烤箱"
+  },
+  {
+    "title": "烤排骨",
+    "description": "简单便捷的烤箱版排骨，通过腌制和分段烘烤实现外酥里嫩的口感，使用网格状烤盘可免去中途翻面的繁琐。",
+    "category": "晚餐",
+    "difficulty": "easy",
+    "prep_time": 15,
+    "cook_time": 27,
+    "ingredients": [
+      {
+        "name": "排骨",
+        "amount": 5,
+        "unit": "根"
+      },
+      {
+        "name": "盐",
+        "amount": 5,
+        "unit": "g"
+      },
+      {
+        "name": "酱油",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "料酒",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "排骨酱或叉烧酱",
+        "amount": 1,
+        "unit": "适量"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将排骨用盐、酱油、料酒混合均匀，腌制15分钟入味。",
+        "step_type": "prep",
+        "time_minutes": 15
+      },
+      {
+        "description": "烤箱设置400F，使用网格状烤盘，烘烤（bake）22分钟。",
+        "step_type": "active_cook",
+        "time_minutes": 22
+      },
+      {
+        "description": "取出排骨，在表面均匀刷上排骨酱或叉烧酱。",
+        "step_type": "active_cook",
+        "time_minutes": 2
+      },
+      {
+        "description": "烤箱设置400F，切换至炙烤（broil）模式继续烤5分钟即可。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      }
+    ],
+    "tags": [
+      "中餐",
+      "猪肉",
+      "烤箱菜"
+    ],
+    "tools": "烤箱, 网格状烤盘"
+  },
+  {
+    "title": "鸡腿蘸料",
+    "description": "这是一道清爽的凉菜，非常适合夏天食用。",
+    "category": "凉菜",
+    "difficulty": "easy",
+    "prep_time": 5,
+    "cook_time": 15,
+    "ingredients": [
+      {
+        "name": "鸡腿",
+        "amount": null,
+        "unit": ""
+      },
+      {
+        "name": "高汤",
+        "amount": 20,
+        "unit": "克"
+      },
+      {
+        "name": "生抽",
+        "amount": 20,
+        "unit": "克"
+      },
+      {
+        "name": "醋",
+        "amount": 10,
+        "unit": "克"
+      },
+      {
+        "name": "白糖",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "辣椒油",
+        "amount": null,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      {
+        "description": "将鸡腿蒸熟后切成肉丁",
+        "step_type": "active_cook",
+        "time_minutes": 15
+      },
+      {
+        "description": "将所有调料混合均匀，浇在鸡丁上即可",
+        "step_type": "prep",
+        "time_minutes": 5
+      }
+    ],
+    "tags": [
+      "中餐",
+      "鸡肉",
+      "凉菜",
+      "夏季"
+    ],
+    "tools": "蒸锅"
+  },
+  {
+    "title": "低温烤牛排骨",
+    "description": "通过低温慢烤方式制作的牛排骨，蒙上锡箔纸能锁住水分，使肉质软糯入味。",
+    "category": "晚餐",
+    "difficulty": "medium",
+    "prep_time": 75,
+    "cook_time": 150,
+    "ingredients": [
+      {
+        "name": "牛排骨",
+        "amount": 900,
+        "unit": "克"
+      },
+      {
+        "name": "盐",
+        "amount": 4,
+        "unit": "克"
+      },
+      {
+        "name": "红糖",
+        "amount": 15,
+        "unit": "克"
+      },
+      {
+        "name": "辣椒粉",
+        "amount": 7,
+        "unit": "克"
+      },
+      {
+        "name": "蒜粉",
+        "amount": 10,
+        "unit": "克"
+      },
+      {
+        "name": "姜粉",
+        "amount": 3,
+        "unit": "克"
+      }
+    ],
+    "steps": [
+      {
+        "description": "牛排骨泡血水1小时，洗净擦干",
+        "step_type": "prep",
+        "time_minutes": 60
+      },
+      {
+        "description": "均匀涂抹腌料（盐、红糖、辣椒粉、蒜粉、姜粉），腌制过夜",
+        "step_type": "prep",
+        "time_minutes": 10
+      },
+      {
+        "description": "烤前轻轻抖落表面多余的浮粉",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "蒙上锡箔纸，放入烤箱以300°F（约150°C）烤2.5小时，无需炙烤(broil)",
+        "step_type": "active_cook",
+        "time_minutes": 150
+      }
+    ],
+    "tags": [
+      "中餐",
+      "牛排骨",
+      "烤箱菜"
+    ],
+    "tools": "烤箱、锡箔纸"
+  },
+  {
+    "title": "猪肉豆皮锅",
+    "description": "【姆士流】猪肉豆皮锅，汤底浓郁滑顺，做法简单，是一道在家就能轻松完成的美味火锅。",
+    "category": "晚餐",
+    "difficulty": "easy",
+    "prep_time": 10,
+    "cook_time": 20,
+    "ingredients": [
+      {
+        "name": "猪五花肉片",
+        "amount": 1,
+        "unit": "盒"
+      },
+      {
+        "name": "生豆皮",
+        "amount": 3,
+        "unit": "块"
+      },
+      {
+        "name": "无糖豆浆",
+        "amount": 200,
+        "unit": "c.c."
+      },
+      {
+        "name": "味噌",
+        "amount": 2,
+        "unit": "大匙"
+      },
+      {
+        "name": "豆瓣酱",
+        "amount": 1,
+        "unit": "大匙"
+      },
+      {
+        "name": "油泼辣子酱",
+        "amount": 1,
+        "unit": "大匙"
+      },
+      {
+        "name": "椒麻坚果酱",
+        "amount": 1,
+        "unit": "大匙"
+      },
+      {
+        "name": "葱花",
+        "amount": 1,
+        "unit": "适量"
+      },
+      {
+        "name": "白芝麻",
+        "amount": 1,
+        "unit": "适量"
+      }
+    ],
+    "steps": [
+      {
+        "description": "准备工作：将豆皮撕开，葱切成葱花备用。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "锅中不放油，下入猪五花肉片炒香，直到水分消失。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      },
+      {
+        "description": "关小火，等待数分钟，直到猪油熬出。",
+        "step_type": "active_cook",
+        "time_minutes": 3
+      },
+      {
+        "description": "倒入适量水，加入味噌、豆瓣酱和少许酱油调味。",
+        "step_type": "active_cook",
+        "time_minutes": 2
+      },
+      {
+        "description": "加入撕开的生豆皮和椒麻坚果酱（或麻酱）。",
+        "step_type": "active_cook",
+        "time_minutes": 2
+      },
+      {
+        "description": "加入豆浆并调大火，注意观察不要让豆浆沸腾滚出。",
+        "step_type": "active_cook",
+        "time_minutes": 2
+      },
+      {
+        "description": "最后加入油泼辣子、葱花，关火并撒上白芝麻即可。",
+        "step_type": "active_cook",
+        "time_minutes": 1
+      }
+    ],
+    "tags": [
+      "中餐",
+      "猪肉",
+      "火锅",
+      "豆制品"
+    ],
+    "tools": "炒锅"
+  },
+  {
+    "title": "猪肉豆皮锅",
+    "description": "用豆浆、坚果酱熬出来的浓郁汤底，加上油泼辣子提香，在家也能轻松做出浓郁滑顺的火锅汤底。",
+    "category": "晚餐",
+    "difficulty": "easy",
+    "prep_time": 10,
+    "cook_time": 15,
+    "ingredients": [
+      {
+        "name": "猪五花肉片",
+        "amount": 1,
+        "unit": "盒"
+      },
+      {
+        "name": "生豆皮",
+        "amount": 3,
+        "unit": "块"
+      },
+      {
+        "name": "豆瓣酱",
+        "amount": 1,
+        "unit": "大匙"
+      },
+      {
+        "name": "味噌",
+        "amount": 2,
+        "unit": "大匙"
+      },
+      {
+        "name": "无糖豆浆",
+        "amount": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "清水",
+        "amount": 600,
+        "unit": "ml"
+      },
+      {
+        "name": "酱油",
+        "amount": 1,
+        "unit": "适量"
+      },
+      {
+        "name": "油泼辣子酱",
+        "amount": 1,
+        "unit": "大匙"
+      },
+      {
+        "name": "椒麻坚果酱",
+        "amount": 1,
+        "unit": "大匙"
+      },
+      {
+        "name": "葱花",
+        "amount": 1,
+        "unit": "适量"
+      },
+      {
+        "name": "白芝麻",
+        "amount": 1,
+        "unit": "适量"
+      }
+    ],
+    "steps": [
+      {
+        "description": "锅中放入猪五花肉煸炒出猪油与香气。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      },
+      {
+        "description": "原锅放入清水600ml、味噌、豆瓣酱、酱油，并将生豆皮撕成条状放入滚煮。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      },
+      {
+        "description": "放入椒麻坚果酱、加入豆浆转小火，再放入油泼辣子酱、葱花、白芝麻提香即可完成。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      }
+    ],
+    "tags": [
+      "中餐",
+      "猪肉",
+      "火锅",
+      "豆皮"
+    ],
+    "tools": "炒锅"
+  },
+  {
+    "title": "高压锅牛骨牛肉汤",
+    "description": "一种高效的牛骨汤做法，通过高压锅快速萃取骨头精华。文中提到了两种尝试：高压两小时可得清汤，慢炖则可得白汤。此配方侧重于高压锅结合牛肉与萝卜的炖煮。",
+    "category": "晚餐",
+    "difficulty": "medium",
+    "prep_time": 30,
+    "cook_time": 110,
+    "ingredients": [
+      {
+        "name": "牛骨头",
+        "amount": 2,
+        "unit": "磅"
+      },
+      {
+        "name": "牛肉",
+        "amount": 2,
+        "unit": "磅"
+      },
+      {
+        "name": "白萝卜",
+        "amount": 1,
+        "unit": "个"
+      },
+      {
+        "name": "洋葱",
+        "amount": 1,
+        "unit": "个"
+      },
+      {
+        "name": "水",
+        "amount": 14,
+        "unit": "杯"
+      },
+      {
+        "name": "盐",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "黑胡椒",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "葱花",
+        "amount": 0,
+        "unit": "适量"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将2磅牛骨和2磅牛肉放入冷水中浸泡20分钟。",
+        "step_type": "prep",
+        "time_minutes": 20
+      },
+      {
+        "description": "用冷水冲洗牛骨数次，去除杂质。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "大锅烧14杯水，水开后放入牛骨和牛肉煮10分钟，去除血水。",
+        "step_type": "active_cook",
+        "time_minutes": 10
+      },
+      {
+        "description": "将骨头放入高压锅，高压煮60分钟。结束后等待20分钟自然放气，然后手动快速放气。",
+        "step_type": "active_cook",
+        "time_minutes": 80
+      },
+      {
+        "description": "在高压锅中加入牛肉、白萝卜和洋葱。继续高压煮20分钟，最后等待慢速放气。",
+        "step_type": "active_cook",
+        "time_minutes": 30
+      },
+      {
+        "description": "加入盐、黑胡椒调味，撒上葱花即可食用。",
+        "step_type": "prep",
+        "time_minutes": 2
+      }
+    ],
+    "tags": [
+      "中餐",
+      "牛肉",
+      "汤",
+      "高压锅"
+    ],
+    "tools": "高压锅, 大锅"
+  },
+  {
+    "title": "【姆士流】猪肉豆皮锅",
+    "description": "詹姆士特制的猪肉豆皮锅，利用五花肉熬出的猪油增加香气，加入无糖豆浆和味噌打造浓郁滑顺的汤底，口感丰富且风味独特。",
+    "category": "晚餐",
+    "difficulty": "easy",
+    "prep_time": 10,
+    "cook_time": 20,
+    "ingredients": [
+      {
+        "name": "猪五花肉片",
+        "amount": 1,
+        "unit": "盒"
+      },
+      {
+        "name": "生豆皮",
+        "amount": 3,
+        "unit": "块"
+      },
+      {
+        "name": "无糖豆浆",
+        "amount": 200,
+        "unit": "毫升"
+      },
+      {
+        "name": "味噌",
+        "amount": 2,
+        "unit": "大匙"
+      },
+      {
+        "name": "豆瓣酱",
+        "amount": 1,
+        "unit": "大匙"
+      },
+      {
+        "name": "椒麻坚果酱",
+        "amount": 1,
+        "unit": "大匙"
+      },
+      {
+        "name": "油泼辣子酱",
+        "amount": 1,
+        "unit": "大匙"
+      },
+      {
+        "name": "水",
+        "amount": 300,
+        "unit": "毫升"
+      },
+      {
+        "name": "酱油",
+        "amount": 1,
+        "unit": "少许"
+      },
+      {
+        "name": "葱花",
+        "amount": 1,
+        "unit": "适量"
+      },
+      {
+        "name": "白芝麻",
+        "amount": 1,
+        "unit": "适量"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将猪五花肉片放入锅中炒香（不放油），炒至水分消失，关小火等待数分钟熬出猪油。",
+        "step_type": "active_cook",
+        "time_minutes": 10
+      },
+      {
+        "description": "倒入适量水，加入味噌、豆瓣酱、少许酱油，并将生豆皮撕开放入锅中。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      },
+      {
+        "description": "加入椒麻坚果酱（或麻酱）和无糖豆浆，将火开大（注意观察，不要让豆浆滚沸溢出）。",
+        "step_type": "active_cook",
+        "time_minutes": 3
+      },
+      {
+        "description": "加入油泼辣子酱、葱花，关火，最后撒上白芝麻即可。",
+        "step_type": "active_cook",
+        "time_minutes": 2
+      }
+    ],
+    "tags": [
+      "中餐",
+      "猪肉",
+      "火锅",
+      "姆士流"
+    ],
+    "tools": "炒锅"
+  },
+  {
+    "title": "高压锅牛骨牛肉汤",
+    "description": "一种高效制作浓郁牛骨汤的方法，采用高压锅处理，旨在模拟韩式雪浓汤的质感，汤色乳白，肉质酥烂。",
+    "category": "晚餐",
+    "difficulty": "medium",
+    "prep_time": 30,
+    "cook_time": 110,
+    "ingredients": [
+      {
+        "name": "牛骨（腿骨或骨髓骨）",
+        "amount": 900,
+        "unit": "克"
+      },
+      {
+        "name": "牛肉",
+        "amount": 900,
+        "unit": "克"
+      },
+      {
+        "name": "白萝卜",
+        "amount": 1,
+        "unit": "根"
+      },
+      {
+        "name": "洋葱",
+        "amount": 1,
+        "unit": "个"
+      },
+      {
+        "name": "水",
+        "amount": 3400,
+        "unit": "毫升"
+      },
+      {
+        "name": "盐",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "黑胡椒",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "葱花",
+        "amount": 0,
+        "unit": "适量"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将2磅牛骨和2磅牛肉浸泡在冷水中20分钟以去除血水。",
+        "step_type": "prep",
+        "time_minutes": 20
+      },
+      {
+        "description": "用冷水反复冲洗牛骨数次，确保干净。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "在大锅中烧开14杯水，放入牛骨和牛肉煮10分钟去除杂质，捞出后洗净。",
+        "step_type": "active_cook",
+        "time_minutes": 10
+      },
+      {
+        "description": "将洗净的牛骨放入高压锅，高压煮60分钟。",
+        "step_type": "active_cook",
+        "time_minutes": 60
+      },
+      {
+        "description": "关火后静置20分钟自然放气，随后手动快速放完余气。",
+        "step_type": "active_cook",
+        "time_minutes": 20
+      },
+      {
+        "description": "加入洗净切好的牛肉和萝卜。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      },
+      {
+        "description": "再次合盖高压煮20分钟。",
+        "step_type": "active_cook",
+        "time_minutes": 20
+      },
+      {
+        "description": "煮完后等待其自然慢速放气即可，出锅前加入洋葱、盐、黑胡椒及葱花调味。",
+        "step_type": "active_cook",
+        "time_minutes": 10
+      }
+    ],
+    "tags": [
+      "牛肉",
+      "汤",
+      "韩式",
+      "高压锅"
+    ],
+    "tools": "高压锅, 大锅"
+  },
+  {
+    "title": "高压锅清炖牛肉汤",
+    "description": "一份经过多次尝试后的完美牛肉汤配方。通过高压锅分阶段炖煮，先炖牛骨提取骨髓精华得到浓郁底汤，再加入牛肉和萝卜炖煮，汤色洁白鲜美，肉质酥烂。",
+    "category": "晚餐",
+    "difficulty": "medium",
+    "prep_time": 30,
+    "cook_time": 110,
+    "ingredients": [
+      {
+        "name": "牛骨（腿骨、骨髓骨）",
+        "amount": 1500,
+        "unit": "克"
+      },
+      {
+        "name": "牛肉",
+        "amount": 900,
+        "unit": "克"
+      },
+      {
+        "name": "白萝卜",
+        "amount": 1,
+        "unit": "个"
+      },
+      {
+        "name": "洋葱",
+        "amount": 1,
+        "unit": "个"
+      },
+      {
+        "name": "盐",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "黑胡椒",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "葱花",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "水",
+        "amount": 3300,
+        "unit": "毫升"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将2磅牛骨和2磅牛肉在冷水中浸泡20分钟，去除多余血水。",
+        "step_type": "prep",
+        "time_minutes": 20
+      },
+      {
+        "description": "用冷水冲洗牛骨数次，确保表面干净无残留。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "大锅加约14杯水烧开，放入牛骨和牛肉煮10分钟，彻底去除血水和浮沫。",
+        "step_type": "active_cook",
+        "time_minutes": 10
+      },
+      {
+        "description": "将牛骨放入高压锅，设置高压炖煮60分钟，使骨髓和营养充分溶入汤中。",
+        "step_type": "active_cook",
+        "time_minutes": 60
+      },
+      {
+        "description": "炖煮结束后，等待20分钟自然放气，随后手动快速排空余气。",
+        "step_type": "active_cook",
+        "time_minutes": 20
+      },
+      {
+        "description": "在锅中加入预先焯水的牛肉块和切好的白萝卜块。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "再次合盖，开启高压模式炖煮20分钟，最后等待其慢速自然放气，加入盐、胡椒和葱花调味即可。",
+        "step_type": "active_cook",
+        "time_minutes": 20
+      }
+    ],
+    "tags": [
+      "中餐",
+      "牛肉",
+      "汤品",
+      "高压锅",
+      "营养"
+    ],
+    "tools": "高压锅、汤锅"
+  },
+  {
+    "title": "烤排骨",
+    "description": "简单易做的烤箱版排骨，外焦里嫩，风味浓郁。",
+    "category": "晚餐",
+    "difficulty": "easy",
+    "prep_time": 15,
+    "cook_time": 27,
+    "ingredients": [
+      {
+        "name": "排骨",
+        "amount": 5,
+        "unit": "根"
+      },
+      {
+        "name": "盐",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "酱油",
+        "amount": 10,
+        "unit": "克"
+      },
+      {
+        "name": "料酒",
+        "amount": 15,
+        "unit": "克"
+      },
+      {
+        "name": "排骨酱或叉烧酱",
+        "amount": 0,
+        "unit": "适量"
+      }
+    ],
+    "steps": [
+      {
+        "description": "排骨加入盐、酱油、料酒腌制15分钟",
+        "step_type": "prep",
+        "time_minutes": 15
+      },
+      {
+        "description": "放入烤箱，400°F (约200°C) 烘烤22分钟。建议使用网格状烤盘，中途无需翻面",
+        "step_type": "active_cook",
+        "time_minutes": 22
+      },
+      {
+        "description": "取出排骨，刷上一层排骨酱或叉烧酱",
+        "step_type": "active_cook",
+        "time_minutes": 2
+      },
+      {
+        "description": "放入烤箱，400°F (约200°C) 开启炙烤(broil)模式，继续烤5分钟即可",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      }
+    ],
+    "tags": [
+      "中餐",
+      "排骨",
+      "烤箱菜"
+    ],
+    "tools": "烤箱, 网格状烤盘"
+  },
+  {
+    "title": "烤牛排骨",
+    "description": "慢火烘烤的牛排骨，肉质软烂入味。",
+    "category": "晚餐",
+    "difficulty": "medium",
+    "prep_time": 70,
+    "cook_time": 150,
+    "ingredients": [
+      {
+        "name": "牛排骨",
+        "amount": 900,
+        "unit": "克"
+      },
+      {
+        "name": "盐",
+        "amount": 4,
+        "unit": "克"
+      },
+      {
+        "name": "红糖",
+        "amount": 15,
+        "unit": "克"
+      },
+      {
+        "name": "辣椒粉",
+        "amount": 7,
+        "unit": "克"
+      },
+      {
+        "name": "蒜粉",
+        "amount": 10,
+        "unit": "克"
+      },
+      {
+        "name": "姜粉",
+        "amount": 3,
+        "unit": "克"
+      }
+    ],
+    "steps": [
+      {
+        "description": "牛排骨用清水浸泡1小时以去除血水，然后洗净擦干",
+        "step_type": "prep",
+        "time_minutes": 60
+      },
+      {
+        "description": "将盐、红糖、辣椒粉、蒜粉、姜粉混合均匀，抹在牛排骨上，腌制过夜。烤前可适当抖落表面多余的浮粉",
+        "step_type": "prep",
+        "time_minutes": 10
+      },
+      {
+        "description": "用锡箔纸将牛排骨包裹严实，放入烤箱300°F (约150°C) 烘烤2.5小时，无需炙烤",
+        "step_type": "active_cook",
+        "time_minutes": 150
+      }
+    ],
+    "tags": [
+      "中餐",
+      "牛排骨",
+      "慢烤"
+    ],
+    "tools": "烤箱, 锡箔纸"
+  },
+  {
+    "title": "芝士蘑菇盅",
+    "description": "空气炸锅制作的创意小吃，鲜香的蘑菇搭配浓郁的芝士。",
+    "category": "晚餐",
+    "difficulty": "easy",
+    "prep_time": 45,
+    "cook_time": 20,
+    "ingredients": [
+      {
+        "name": "蘑菇",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "肉糜",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "黄酒",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "黑胡椒",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "鸡蛋",
+        "amount": 1,
+        "unit": "个"
+      },
+      {
+        "name": "芝士",
+        "amount": 0,
+        "unit": "适量"
+      }
+    ],
+    "steps": [
+      {
+        "description": "蘑菇洗净，将梗掰下来，保留完整的蘑菇伞盖",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "在肉糜中加入黄酒、黑胡椒和鸡蛋，搅拌均匀后静置半小时腌制入味",
+        "step_type": "prep",
+        "time_minutes": 35
+      },
+      {
+        "description": "将肉馅填入蘑菇伞盖中",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "放入空气炸锅，180°C烘烤15分钟",
+        "step_type": "active_cook",
+        "time_minutes": 15
+      },
+      {
+        "description": "撒上芝士，继续烘烤5分钟至芝士融化即可",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      }
+    ],
+    "tags": [
+      "小吃",
+      "蘑菇",
+      "空气炸锅"
+    ],
+    "tools": "空气炸锅"
+  },
+  {
+    "title": "满杯红柚",
+    "description": "清爽解腻的红柚饮品，满载果香与茶香。",
+    "category": "饮品",
+    "difficulty": "easy",
+    "prep_time": 5,
+    "cook_time": 2,
+    "ingredients": [
+      {
+        "name": "西柚汁",
+        "amount": 70,
+        "unit": "毫升"
+      },
+      {
+        "name": "红柚",
+        "amount": 0.25,
+        "unit": "块"
+      },
+      {
+        "name": "果糖",
+        "amount": 40,
+        "unit": "毫升"
+      },
+      {
+        "name": "冰块",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "红茶汤",
+        "amount": 200,
+        "unit": "毫升"
+      }
+    ],
+    "steps": [
+      {
+        "description": "准备好红茶汤并冷却，将红柚切块备用",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "在杯中加入西柚汁、红柚块、果糖和冰块（建议加至八分满），最后倒入红茶汤搅拌均匀",
+        "step_type": "active_cook",
+        "time_minutes": 2
+      }
+    ],
+    "tags": [
+      "冷饮",
+      "水果茶",
+      "红茶"
+    ],
+    "tools": "量杯, 吧勺"
+  },
+  {
+    "title": "法棍",
+    "description": "一种以法棍面包为底，搭配虾仁、午餐肉、胡萝卜和青豆的美味轻食。",
+    "category": "早餐",
+    "difficulty": "easy",
+    "prep_time": 10,
+    "cook_time": 10,
+    "ingredients": [
+      {
+        "name": "法棍",
+        "amount": 1,
+        "unit": "根"
+      },
+      {
+        "name": "黄油",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "虾仁",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "胡萝卜",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "青豆",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "午餐肉",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "Cheese",
+        "amount": 0,
+        "unit": "适量"
+      }
+    ],
+    "steps": [
+      {
+        "description": "虾仁洗净擦干，切丁",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "用黄油分别炒熟虾仁、午餐肉、胡萝卜、青豆",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      },
+      {
+        "description": "法棍切片，煎两面，每面30秒",
+        "step_type": "active_cook",
+        "time_minutes": 2
+      },
+      {
+        "description": "法棍上放上Cheese和所有炒好的料",
+        "step_type": "active_cook",
+        "time_minutes": 2
+      },
+      {
+        "description": "装盘",
+        "step_type": "active_cook",
+        "time_minutes": 1
+      }
+    ],
+    "tags": [
+      "西餐",
+      "虾仁",
+      "面包"
+    ],
+    "tools": "平底锅"
+  },
+  {
+    "title": "红烧肉",
+    "description": "采用电饭煲制作的红烧肉，操作简单，软糯入味。",
+    "category": "晚餐",
+    "difficulty": "easy",
+    "prep_time": 15,
+    "cook_time": 90,
+    "ingredients": [
+      {
+        "name": "五花肉",
+        "amount": 400,
+        "unit": "克"
+      },
+      {
+        "name": "生抽",
+        "amount": 4,
+        "unit": "大勺"
+      },
+      {
+        "name": "老抽",
+        "amount": 0.5,
+        "unit": "大勺"
+      },
+      {
+        "name": "冰糖",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "八角",
+        "amount": 1,
+        "unit": "个"
+      },
+      {
+        "name": "桂皮",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "生姜",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "葱",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "料酒",
+        "amount": 0,
+        "unit": "适量"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将五花肉放入锅中，加入料酒、葱、生姜，焯水去血水。",
+        "step_type": "prep",
+        "time_minutes": 10
+      },
+      {
+        "description": "在电饭煲底部平铺姜片，放入焯好的五花肉，并加入所有调料（生抽、老抽、冰糖、八角、桂皮）。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      },
+      {
+        "description": "向电饭煲内加入清水，直到没过肉块。",
+        "step_type": "active_cook",
+        "time_minutes": 2
+      },
+      {
+        "description": "电饭煲选择“brown rice”（糙米）模式，开始烹饪并等待。",
+        "step_type": "active_cook",
+        "time_minutes": 90
+      },
+      {
+        "description": "（可选步骤）煮好后可根据喜好加入土豆，再次选择“brown rice”模式煮一遍。",
+        "step_type": "active_cook",
+        "time_minutes": 60
+      }
+    ],
+    "tags": [
+      "中餐",
+      "猪肉",
+      "家常菜",
+      "电饭煲食谱"
+    ],
+    "tools": "电饭煲"
+  },
+  {
+    "title": "Old Bay 美式海鲜",
+    "description": "这是一道经典的美国南方风格手抓海鲜，以 Old Bay 调味料为核心，结合黄油、大蒜和柠檬的鲜香，口感浓郁、香辣诱人。",
+    "category": "晚餐",
+    "difficulty": "easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "ingredients": [
+      {
+        "name": "虾",
+        "amount": 500,
+        "unit": "克"
+      },
+      {
+        "name": "土豆",
+        "amount": 2,
+        "unit": "个"
+      },
+      {
+        "name": "玉米",
+        "amount": 2,
+        "unit": "根"
+      },
+      {
+        "name": "香肠",
+        "amount": 2,
+        "unit": "根"
+      },
+      {
+        "name": "扇贝",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "青口",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "墨鱼",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "Old Bay 调料",
+        "amount": 5,
+        "unit": "Tbsp"
+      },
+      {
+        "name": "蒜泥",
+        "amount": 4,
+        "unit": "瓣"
+      },
+      {
+        "name": "黄油",
+        "amount": 1,
+        "unit": "条"
+      },
+      {
+        "name": "辣椒面",
+        "amount": 1,
+        "unit": "Tbsp"
+      },
+      {
+        "name": "黄柠檬",
+        "amount": 2,
+        "unit": "个"
+      },
+      {
+        "name": "糖",
+        "amount": 0.33,
+        "unit": "tsp"
+      },
+      {
+        "name": "盐",
+        "amount": 2,
+        "unit": "tsp"
+      }
+    ],
+    "steps": [
+      {
+        "description": "小火融化黄油，加入蒜泥、半个柠檬汁和糖，混合均匀制成拌料。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "锅中放入土豆、玉米和香肠，加水没过食材，加入 2 Tbsp Old Bay 调料、2 tsp 盐和半个柠檬。水开后煮 20 分钟，捞出。",
+        "step_type": "active_cook",
+        "time_minutes": 20
+      },
+      {
+        "description": "将虾及可选的海鲜（扇贝、青口、墨鱼等）放入锅中，水开后煮 5 分钟，捞出。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      },
+      {
+        "description": "将煮好的所有食材、拌料、剩余的 3 Tbsp Old Bay 调料、辣椒面以及一个切片的柠檬混合均匀。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      }
+    ],
+    "tags": [
+      "美式",
+      "海鲜",
+      "手抓海鲜",
+      "Old Bay"
+    ],
+    "tools": "煮锅, 平底锅"
+  },
+  {
+    "title": "早餐三明治",
+    "description": "一款营养丰富的快手早餐三明治，包含虾仁、午餐肉和鲜嫩蛋饼，简单易上手。",
+    "category": "早餐",
+    "difficulty": "easy",
+    "prep_time": 5,
+    "cook_time": 10,
+    "ingredients": [
+      {
+        "name": "虾",
+        "amount": 4,
+        "unit": "只"
+      },
+      {
+        "name": "午餐肉",
+        "amount": 2,
+        "unit": "片"
+      },
+      {
+        "name": "面包",
+        "amount": 2,
+        "unit": "片"
+      },
+      {
+        "name": "鸡蛋",
+        "amount": 1,
+        "unit": "个"
+      },
+      {
+        "name": "黄油",
+        "amount": 1,
+        "unit": "适量"
+      },
+      {
+        "name": "番茄酱",
+        "amount": 1,
+        "unit": "适量"
+      },
+      {
+        "name": "美乃滋",
+        "amount": 1,
+        "unit": "适量"
+      },
+      {
+        "name": "玉米粒",
+        "amount": 1,
+        "unit": "适量"
+      },
+      {
+        "name": "青豆",
+        "amount": 1,
+        "unit": "适量"
+      }
+    ],
+    "steps": [
+      {
+        "description": "午餐肉切丁。电饼铛涂油，放入午餐肉、虾、玉米粒、青豆，煎2分钟后取出。",
+        "step_type": "active_cook",
+        "time_minutes": 3
+      },
+      {
+        "description": "鸡蛋打成蛋液，倒入电饼铛。",
+        "step_type": "prep",
+        "time_minutes": 1
+      },
+      {
+        "description": "蛋液中放入面包，10秒后将面包翻面，再煎90秒后将面包连同蛋饼整体翻面。",
+        "step_type": "active_cook",
+        "time_minutes": 2
+      },
+      {
+        "description": "铺上之前煎好的所有配料，涂上番茄酱、美乃滋等酱料。",
+        "step_type": "active_cook",
+        "time_minutes": 1
+      },
+      {
+        "description": "合上面包，中间对角切开成三角形即可。",
+        "step_type": "active_cook",
+        "time_minutes": 1
+      }
+    ],
+    "tags": [
+      "早餐",
+      "三明治",
+      "西式",
+      "快手菜"
+    ],
+    "tools": "电饼铛"
+  },
+  {
+    "title": "芝士蘑菇盅",
+    "description": "蘑菇内酿入肉馅，经过空气炸锅烘烤并铺上融化的芝士，口感鲜嫩浓郁。",
+    "category": "晚餐",
+    "difficulty": "medium",
+    "prep_time": 40,
+    "cook_time": 20,
+    "ingredients": [
+      {
+        "name": "蘑菇",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "肉糜",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "黄酒",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "黑胡椒",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "鸡蛋",
+        "amount": 1,
+        "unit": "个"
+      },
+      {
+        "name": "芝士",
+        "amount": 0,
+        "unit": "适量"
+      }
+    ],
+    "steps": [
+      {
+        "description": "蘑菇洗净，将梗掰下，保留伞盖部分。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "肉糜中加入黄酒、黑胡椒、鸡蛋搅拌均匀，静置腌制半小时。",
+        "step_type": "prep",
+        "time_minutes": 30
+      },
+      {
+        "description": "将腌制好的肉馅填入蘑菇伞盖中。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "放入空气炸锅，180度烤15分钟。",
+        "step_type": "active_cook",
+        "time_minutes": 15
+      },
+      {
+        "description": "撒上芝士，继续烤5分钟直到融化。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      }
+    ],
+    "tags": [
+      "中餐",
+      "空气炸锅",
+      "蘑菇",
+      "肉糜"
+    ],
+    "tools": "空气炸锅"
+  },
+  {
+    "title": "茄夹/藕夹",
+    "description": "茄子或藕片夹入肉馅，空气炸锅版本相比油炸更健康且外脆里嫩。",
+    "category": "晚餐",
+    "difficulty": "medium",
+    "prep_time": 45,
+    "cook_time": 15,
+    "ingredients": [
+      {
+        "name": "大茄子或莲藕",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "肉糜",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "黄酒",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "黑胡椒",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "鸡蛋",
+        "amount": 1,
+        "unit": "个"
+      },
+      {
+        "name": "油",
+        "amount": 0,
+        "unit": "适量"
+      }
+    ],
+    "steps": [
+      {
+        "description": "大茄子或莲藕切片。",
+        "step_type": "prep",
+        "time_minutes": 10
+      },
+      {
+        "description": "肉糜中加入黄酒、黑胡椒、鸡蛋搅拌均匀，静置腌制半小时。",
+        "step_type": "prep",
+        "time_minutes": 30
+      },
+      {
+        "description": "将肉糜填入茄子或藕片中，表面刷油，撒上黑胡椒。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "空气炸锅180度，烘烤15分钟。",
+        "step_type": "active_cook",
+        "time_minutes": 15
+      }
+    ],
+    "tags": [
+      "中餐",
+      "空气炸锅",
+      "茄子",
+      "莲藕"
+    ],
+    "tools": "空气炸锅"
+  },
+  {
+    "title": "烤鸡软骨",
+    "description": "腌制入味的鸡软骨，炸出油分后口感酥脆，是极佳的下酒美味。",
+    "category": "小吃",
+    "difficulty": "easy",
+    "prep_time": 360,
+    "cook_time": 20,
+    "ingredients": [
+      {
+        "name": "冷冻鸡软骨",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "黄酒",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "黑胡椒",
+        "amount": 0,
+        "unit": "适量"
+      }
+    ],
+    "steps": [
+      {
+        "description": "鸡软骨洗净，加入黄酒、黑胡椒腌制半天以上以去除腥气。",
+        "step_type": "prep",
+        "time_minutes": 360
+      },
+      {
+        "description": "空气炸锅180度，烘烤20分钟即可。",
+        "step_type": "active_cook",
+        "time_minutes": 20
+      }
+    ],
+    "tags": [
+      "中餐",
+      "空气炸锅",
+      "下酒菜",
+      "鸡软骨"
+    ],
+    "tools": "空气炸锅"
+  },
+  {
+    "title": "烤花菜",
+    "description": "简单健康的烤时蔬，保留了花菜的鲜甜和焦香。",
+    "category": "晚餐",
+    "difficulty": "easy",
+    "prep_time": 5,
+    "cook_time": 10,
+    "ingredients": [
+      {
+        "name": "花菜",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "黑胡椒",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "油",
+        "amount": 0,
+        "unit": "适量"
+      }
+    ],
+    "steps": [
+      {
+        "description": "花菜切成小朵。",
+        "step_type": "prep",
+        "time_minutes": 3
+      },
+      {
+        "description": "撒上黑胡椒和少许油拌匀。",
+        "step_type": "prep",
+        "time_minutes": 2
+      },
+      {
+        "description": "空气炸锅180度，烘烤10分钟。",
+        "step_type": "active_cook",
+        "time_minutes": 10
+      }
+    ],
+    "tags": [
+      "中餐",
+      "素食",
+      "空气炸锅",
+      "花菜"
+    ],
+    "tools": "空气炸锅"
+  },
+  {
+    "title": "烤鸡翅",
+    "description": "利用空气炸锅逼出多余油脂，口感类似炭烤鸡翅。",
+    "category": "晚餐",
+    "difficulty": "easy",
+    "prep_time": 20,
+    "cook_time": 20,
+    "ingredients": [
+      {
+        "name": "鸡翅",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "黄酒",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "黑胡椒",
+        "amount": 0,
+        "unit": "适量"
+      }
+    ],
+    "steps": [
+      {
+        "description": "鸡翅加入黄酒和黑胡椒腌制入味。",
+        "step_type": "prep",
+        "time_minutes": 20
+      },
+      {
+        "description": "放入空气炸锅，180度烘烤20分钟。",
+        "step_type": "active_cook",
+        "time_minutes": 20
+      }
+    ],
+    "tags": [
+      "中餐",
+      "空气炸锅",
+      "鸡翅"
+    ],
+    "tools": "空气炸锅"
+  },
+  {
+    "title": "芝士猪排",
+    "description": "多汁的猪排配上融化的芝士，简单快手的美味主食。",
+    "category": "晚餐",
+    "difficulty": "easy",
+    "prep_time": 20,
+    "cook_time": 20,
+    "ingredients": [
+      {
+        "name": "猪排",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "生抽",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "黄酒",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "黑胡椒",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "芝士",
+        "amount": 0,
+        "unit": "适量"
+      }
+    ],
+    "steps": [
+      {
+        "description": "猪排用生抽、黄酒、黑胡椒腌制。",
+        "step_type": "prep",
+        "time_minutes": 20
+      },
+      {
+        "description": "放入锅中，180度烤15分钟。",
+        "step_type": "active_cook",
+        "time_minutes": 15
+      },
+      {
+        "description": "铺上芝士，再烤5分钟。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      }
+    ],
+    "tags": [
+      "中餐",
+      "空气炸锅",
+      "猪排",
+      "芝士"
+    ],
+    "tools": "空气炸锅"
+  },
+  {
+    "title": "香椿头炖蛋",
+    "description": "口感轻盈如小蛋糕般的炖蛋，带有香椿特有的清香。",
+    "category": "晚餐",
+    "difficulty": "easy",
+    "prep_time": 10,
+    "cook_time": 20,
+    "ingredients": [
+      {
+        "name": "香椿头",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "蛋",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "盐",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "味精",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "黄油",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "黑胡椒",
+        "amount": 0,
+        "unit": "适量"
+      }
+    ],
+    "steps": [
+      {
+        "description": "香椿头切碎，与蛋液搅拌，加入盐、味精、黄油和黑胡椒。",
+        "step_type": "prep",
+        "time_minutes": 10
+      },
+      {
+        "description": "空气炸锅180度，烘烤20分钟。",
+        "step_type": "active_cook",
+        "time_minutes": 20
+      },
+      {
+        "description": "取出后倒扣在盘中即可。",
+        "step_type": "active_cook",
+        "time_minutes": 1
+      }
+    ],
+    "tags": [
+      "中餐",
+      "空气炸锅",
+      "香椿",
+      "鸡蛋"
+    ],
+    "tools": "空气炸锅"
+  },
+  {
+    "title": "空气炸锅龙虾片",
+    "description": "无油健康的龙虾片烘干方式，口感比油炸略硬但更健康。",
+    "category": "小吃",
+    "difficulty": "easy",
+    "prep_time": 2,
+    "cook_time": 5,
+    "ingredients": [
+      {
+        "name": "龙虾片",
+        "amount": 0,
+        "unit": "适量"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将龙虾片平铺在空气炸锅内，尽量不要重叠。",
+        "step_type": "prep",
+        "time_minutes": 2
+      },
+      {
+        "description": "空气炸锅烘烤5分钟即可。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      }
+    ],
+    "tags": [
+      "小吃",
+      "空气炸锅",
+      "零食"
+    ],
+    "tools": "空气炸锅"
+  },
+  {
+    "title": "麻辣拌",
+    "description": "一种具有浓郁麻辣风味的拌菜，包含宽粉、海鲜、丸子及多种蔬菜，搭配自制油泼辣子调味汁。",
+    "category": "晚餐",
+    "difficulty": "easy",
+    "prep_time": 10,
+    "cook_time": 15,
+    "ingredients": [
+      {
+        "name": "宽粉",
+        "amount": 1,
+        "unit": "份"
+      },
+      {
+        "name": "海鲜",
+        "amount": 1,
+        "unit": "份"
+      },
+      {
+        "name": "丸子",
+        "amount": 1,
+        "unit": "份"
+      },
+      {
+        "name": "蔬菜",
+        "amount": 1,
+        "unit": "份"
+      },
+      {
+        "name": "金针菇",
+        "amount": 1,
+        "unit": "份"
+      },
+      {
+        "name": "葱花",
+        "amount": 1,
+        "unit": "适量"
+      },
+      {
+        "name": "蒜末",
+        "amount": 1,
+        "unit": "适量"
+      },
+      {
+        "name": "辣椒粉",
+        "amount": 1,
+        "unit": "适量"
+      },
+      {
+        "name": "白芝麻",
+        "amount": 1,
+        "unit": "适量"
+      },
+      {
+        "name": "热油",
+        "amount": 1,
+        "unit": "适量"
+      },
+      {
+        "name": "生抽",
+        "amount": 2,
+        "unit": "Tbsp"
+      },
+      {
+        "name": "醋",
+        "amount": 2,
+        "unit": "Tbsp"
+      },
+      {
+        "name": "芝麻酱",
+        "amount": 2,
+        "unit": "Tbsp"
+      },
+      {
+        "name": "蚝油",
+        "amount": 1,
+        "unit": "Tbsp"
+      },
+      {
+        "name": "盐",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "糖",
+        "amount": 0.33,
+        "unit": "tsp"
+      }
+    ],
+    "steps": [
+      {
+        "description": "准备油泼辣子：将葱花、蒜末、辣椒粉、白芝麻混合在碗中，淋入烧热的油激发出香味。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "混合拌料：在油泼辣子中加入生抽、醋、芝麻酱、蚝油、盐和糖，充分搅拌均匀备用。",
+        "step_type": "prep",
+        "time_minutes": 3
+      },
+      {
+        "description": "煮制食材：锅中烧水，海鲜煮2分钟，蔬菜煮2分钟，冷冻蔬菜煮3分钟，丸子煮时间稍长至熟透。",
+        "step_type": "active_cook",
+        "time_minutes": 10
+      },
+      {
+        "description": "混合拌匀：将所有煮熟的食材捞出沥干，倒入备好的拌料混匀即可。",
+        "step_type": "active_cook",
+        "time_minutes": 2
+      }
+    ],
+    "tags": [
+      "中餐",
+      "麻辣",
+      "拌菜",
+      "快手菜"
+    ],
+    "tools": "煮锅"
+  },
+  {
+    "title": "泰式柠檬虾",
+    "description": "特色：酸甜可口，适合夏天",
+    "category": "晚餐",
+    "difficulty": "easy",
+    "prep_time": 15,
+    "cook_time": 10,
+    "ingredients": [
+      {
+        "name": "虾",
+        "amount": 1,
+        "unit": "份"
+      },
+      {
+        "name": "小墨鱼",
+        "amount": 1,
+        "unit": "份"
+      },
+      {
+        "name": "柠檬",
+        "amount": 1,
+        "unit": "个"
+      },
+      {
+        "name": "青辣椒",
+        "amount": 1,
+        "unit": "个"
+      },
+      {
+        "name": "红辣椒",
+        "amount": 1,
+        "unit": "个"
+      },
+      {
+        "name": "洋葱",
+        "amount": 0.5,
+        "unit": "个"
+      },
+      {
+        "name": "姜",
+        "amount": 3,
+        "unit": "片"
+      },
+      {
+        "name": "蒜",
+        "amount": 3,
+        "unit": "瓣"
+      },
+      {
+        "name": "香菜",
+        "amount": 5,
+        "unit": "根"
+      },
+      {
+        "name": "葱",
+        "amount": 1,
+        "unit": "根"
+      },
+      {
+        "name": "辣椒油",
+        "amount": 1,
+        "unit": "Tbsp"
+      },
+      {
+        "name": "生抽",
+        "amount": 3,
+        "unit": "Tbsp"
+      },
+      {
+        "name": "醋",
+        "amount": 2,
+        "unit": "Tbsp"
+      },
+      {
+        "name": "麻油",
+        "amount": 1,
+        "unit": "Tbsp"
+      },
+      {
+        "name": "白糖",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "盐",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "胡椒粉",
+        "amount": 0.33,
+        "unit": "tsp"
+      },
+      {
+        "name": "黄瓜",
+        "amount": 1,
+        "unit": "可选"
+      }
+    ],
+    "steps": [
+      {
+        "description": "虾，墨鱼蒸熟，泡冰水",
+        "step_type": "active_cook",
+        "time_minutes": 10
+      },
+      {
+        "description": "柠檬切薄片，姜切丝，辣椒切圈，其他切碎",
+        "step_type": "prep",
+        "time_minutes": 10
+      },
+      {
+        "description": "调料混匀拌入配料和主料",
+        "step_type": "prep",
+        "time_minutes": 5
+      }
+    ],
+    "tags": [
+      "中餐",
+      "海鲜",
+      "泰式",
+      "凉菜"
+    ],
+    "tools": "蒸锅，碗"
+  },
+  {
+    "title": "红茶汤",
+    "description": "作为多种调味茶及奶茶的基础茶底，口感浓郁。",
+    "category": "饮品",
+    "difficulty": "easy",
+    "prep_time": 2,
+    "cook_time": 5,
+    "ingredients": [
+      {
+        "name": "红茶粉",
+        "amount": 15,
+        "unit": "克"
+      },
+      {
+        "name": "水",
+        "amount": 500,
+        "unit": "毫升"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将水煮开",
+        "step_type": "active_cook",
+        "time_minutes": 3
+      },
+      {
+        "description": "放入红茶粉，关火焖1分钟入味",
+        "step_type": "prep",
+        "time_minutes": 1
+      },
+      {
+        "description": "过滤出茶汤备用",
+        "step_type": "prep",
+        "time_minutes": 1
+      }
+    ],
+    "tags": [
+      "基础茶底",
+      "红茶"
+    ],
+    "tools": "煮锅, 过滤网"
+  },
+  {
+    "title": "一颗青柠茶",
+    "description": "清新爽口的柠檬调味茶。",
+    "category": "饮品",
+    "difficulty": "easy",
+    "prep_time": 5,
+    "cook_time": 0,
+    "ingredients": [
+      {
+        "name": "果糖",
+        "amount": 40,
+        "unit": "毫升"
+      },
+      {
+        "name": "金桔汁",
+        "amount": 20,
+        "unit": "毫升"
+      },
+      {
+        "name": "小青柠",
+        "amount": 1,
+        "unit": "个"
+      },
+      {
+        "name": "大青柠",
+        "amount": 2,
+        "unit": "片"
+      },
+      {
+        "name": "冰块",
+        "amount": 300,
+        "unit": "克"
+      },
+      {
+        "name": "水",
+        "amount": 200,
+        "unit": "毫升"
+      }
+    ],
+    "steps": [
+      {
+        "description": "小青柠切片，大青柠切片备用",
+        "step_type": "prep",
+        "time_minutes": 2
+      },
+      {
+        "description": "在杯中加入果糖、金桔汁、青柠片",
+        "step_type": "prep",
+        "time_minutes": 1
+      },
+      {
+        "description": "加入冰块至八分满，加满水搅拌均匀",
+        "step_type": "prep",
+        "time_minutes": 2
+      }
+    ],
+    "tags": [
+      "果茶",
+      "清新",
+      "冷饮"
+    ],
+    "tools": "吧勺, 500ml杯子"
+  },
+  {
+    "title": "黑糖珍珠脏脏茶",
+    "description": "网红黑糖珍珠奶茶，挂杯效果极佳。",
+    "category": "饮品",
+    "difficulty": "easy",
+    "prep_time": 5,
+    "cook_time": 10,
+    "ingredients": [
+      {
+        "name": "黑糖",
+        "amount": 50,
+        "unit": "克"
+      },
+      {
+        "name": "水",
+        "amount": 35,
+        "unit": "克"
+      },
+      {
+        "name": "煮好的珍珠",
+        "amount": 60,
+        "unit": "克"
+      },
+      {
+        "name": "牛奶",
+        "amount": 280,
+        "unit": "克"
+      },
+      {
+        "name": "冰块",
+        "amount": 100,
+        "unit": "克"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将黑糖和水煮至浓稠状，加入珍珠混匀成黑糖珍珠",
+        "step_type": "active_cook",
+        "time_minutes": 8
+      },
+      {
+        "description": "将黑糖珍珠沿杯壁倒入，形成挂杯纹路",
+        "step_type": "prep",
+        "time_minutes": 1
+      },
+      {
+        "description": "加入冰块，倒入牛奶即可",
+        "step_type": "prep",
+        "time_minutes": 1
+      }
+    ],
+    "tags": [
+      "脏脏茶",
+      "黑糖",
+      "奶茶"
+    ],
+    "tools": "煮锅, 杯子"
+  },
+  {
+    "title": "抹茶红豆冰沙",
+    "description": "清爽抹茶搭配绵软红豆的冰镇甜点。",
+    "category": "饮品",
+    "difficulty": "easy",
+    "prep_time": 5,
+    "cook_time": 2,
+    "ingredients": [
+      {
+        "name": "抹茶粉",
+        "amount": 8,
+        "unit": "克"
+      },
+      {
+        "name": "果糖",
+        "amount": 20,
+        "unit": "毫升"
+      },
+      {
+        "name": "红豆",
+        "amount": 40,
+        "unit": "克"
+      },
+      {
+        "name": "淡奶油",
+        "amount": 50,
+        "unit": "克"
+      },
+      {
+        "name": "冰块",
+        "amount": 350,
+        "unit": "克"
+      },
+      {
+        "name": "水",
+        "amount": 50,
+        "unit": "毫升"
+      }
+    ],
+    "steps": [
+      {
+        "description": "在冰沙杯中加入果糖、抹茶粉、红豆、淡奶油、冰块和水",
+        "step_type": "prep",
+        "time_minutes": 2
+      },
+      {
+        "description": "放入冰沙机搅拌均匀",
+        "step_type": "active_cook",
+        "time_minutes": 1
+      },
+      {
+        "description": "装入杯中，最后用少量红豆点缀",
+        "step_type": "prep",
+        "time_minutes": 2
+      }
+    ],
+    "tags": [
+      "冰沙",
+      "抹茶",
+      "红豆"
+    ],
+    "tools": "冰沙机"
+  },
+  {
+    "title": "蛋挞",
+    "description": "经典酥皮蛋挞，外酥里嫩。",
+    "category": "甜点",
+    "difficulty": "medium",
+    "prep_time": 10,
+    "cook_time": 25,
+    "ingredients": [
+      {
+        "name": "淡奶油",
+        "amount": 200,
+        "unit": "克"
+      },
+      {
+        "name": "牛奶",
+        "amount": 60,
+        "unit": "克"
+      },
+      {
+        "name": "糖",
+        "amount": 40,
+        "unit": "克"
+      },
+      {
+        "name": "全蛋",
+        "amount": 1,
+        "unit": "个"
+      },
+      {
+        "name": "蛋黄",
+        "amount": 2,
+        "unit": "个"
+      },
+      {
+        "name": "蛋挞皮",
+        "amount": 10,
+        "unit": "个"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将淡奶油、牛奶、糖混合均匀，搅拌至糖溶化",
+        "step_type": "prep",
+        "time_minutes": 3
+      },
+      {
+        "description": "加入全蛋和蛋黄，轻轻搅匀，过滤出蛋挞液",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "将蛋挞液倒入蛋挞皮中，约八、九分满",
+        "step_type": "prep",
+        "time_minutes": 2
+      },
+      {
+        "description": "烤箱预热，上火200度、下火220度烘烤25分钟",
+        "step_type": "active_cook",
+        "time_minutes": 25
+      }
+    ],
+    "tags": [
+      "烘焙",
+      "下午茶",
+      "经典"
+    ],
+    "tools": "烤箱, 搅拌盆, 过滤网"
+  },
+  {
+    "title": "焦糖布丁",
+    "description": "顺滑的布丁搭配香甜焦糖底。",
+    "category": "甜点",
+    "difficulty": "medium",
+    "prep_time": 20,
+    "cook_time": 40,
+    "ingredients": [
+      {
+        "name": "糖 (焦糖部)",
+        "amount": 30,
+        "unit": "克"
+      },
+      {
+        "name": "凉水",
+        "amount": 140,
+        "unit": "克"
+      },
+      {
+        "name": "开水",
+        "amount": 15,
+        "unit": "克"
+      },
+      {
+        "name": "牛奶",
+        "amount": 210,
+        "unit": "克"
+      },
+      {
+        "name": "糖 (布丁部)",
+        "amount": 30,
+        "unit": "克"
+      },
+      {
+        "name": "鸡蛋",
+        "amount": 2,
+        "unit": "个"
+      },
+      {
+        "name": "朗姆酒",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "香草精",
+        "amount": 2,
+        "unit": "滴"
+      }
+    ],
+    "steps": [
+      {
+        "description": "焦糖：糖加凉水煮至褐色，加入开水调匀，倒入模具底部",
+        "step_type": "active_cook",
+        "time_minutes": 10
+      },
+      {
+        "description": "布丁液：牛奶加糖微热至溶化，加入打散的鸡蛋、朗姆酒和香草精搅匀并过滤",
+        "step_type": "prep",
+        "time_minutes": 10
+      },
+      {
+        "description": "将布丁液倒入模具，放入烤箱上火160度、下火160度烤40分钟",
+        "step_type": "active_cook",
+        "time_minutes": 40
+      }
+    ],
+    "tags": [
+      "布丁",
+      "焦糖",
+      "法式甜点"
+    ],
+    "tools": "烤箱, 煮锅, 布丁模具"
+  },
+  {
+    "title": "蛋黄酥",
+    "description": "多层酥皮包裹红豆沙和咸蛋黄的中式糕点。",
+    "category": "甜点",
+    "difficulty": "hard",
+    "prep_time": 60,
+    "cook_time": 30,
+    "ingredients": [
+      {
+        "name": "中筋粉",
+        "amount": 225,
+        "unit": "克"
+      },
+      {
+        "name": "低筋粉",
+        "amount": 180,
+        "unit": "克"
+      },
+      {
+        "name": "猪油",
+        "amount": 170,
+        "unit": "克"
+      },
+      {
+        "name": "糖粉",
+        "amount": 45,
+        "unit": "克"
+      },
+      {
+        "name": "水",
+        "amount": 90,
+        "unit": "克"
+      },
+      {
+        "name": "紫薯粉",
+        "amount": 4,
+        "unit": "克"
+      },
+      {
+        "name": "绿茶粉",
+        "amount": 3,
+        "unit": "克"
+      }
+    ],
+    "steps": [
+      {
+        "description": "制作油皮：中筋粉、猪油80g、糖粉、水混合揉匀",
+        "step_type": "prep",
+        "time_minutes": 20
+      },
+      {
+        "description": "制作油酥：低筋面粉、猪油90g混合，分三份加入紫薯粉和绿茶粉",
+        "step_type": "prep",
+        "time_minutes": 20
+      },
+      {
+        "description": "包酥：油皮包裹油酥，经过两次擀卷形成多层皮",
+        "step_type": "prep",
+        "time_minutes": 20
+      },
+      {
+        "description": "包裹馅料后刷蛋黄液，入烤箱烘烤至金黄",
+        "step_type": "active_cook",
+        "time_minutes": 30
+      }
+    ],
+    "tags": [
+      "中式点心",
+      "酥皮",
+      "节庆"
+    ],
+    "tools": "烤箱, 擀面杖"
+  },
+  {
+    "title": "红茶汤",
+    "description": "作为多款饮品基底的红茶汤制作方法。",
+    "category": "基底",
+    "difficulty": "easy",
+    "prep_time": 2,
+    "cook_time": 5,
+    "ingredients": [
+      {
+        "name": "红茶粉",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "水",
+        "amount": 500,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将红茶粉加入水中煮开",
+        "step_type": "active_cook",
+        "time_minutes": 3
+      },
+      {
+        "description": "关火放凉1分钟入味",
+        "step_type": "prep",
+        "time_minutes": 1
+      },
+      {
+        "description": "过滤出茶汤备用",
+        "step_type": "prep",
+        "time_minutes": 1
+      }
+    ],
+    "tags": [
+      "中餐",
+      "茶基底"
+    ],
+    "tools": "煮锅, 滤网"
+  },
+  {
+    "title": "一颗青柠茶",
+    "description": "清爽的青柠风味果茶，无需加茶汤。",
+    "category": "果茶",
+    "difficulty": "easy",
+    "prep_time": 5,
+    "cook_time": 0,
+    "ingredients": [
+      {
+        "name": "果糖",
+        "amount": 40,
+        "unit": "ml"
+      },
+      {
+        "name": "金桔汁",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "小青柠",
+        "amount": 1,
+        "unit": "个"
+      },
+      {
+        "name": "大青柠",
+        "amount": 2,
+        "unit": "片"
+      },
+      {
+        "name": "冰块",
+        "amount": 0,
+        "unit": "八分满"
+      },
+      {
+        "name": "水",
+        "amount": 0,
+        "unit": "加满"
+      }
+    ],
+    "steps": [
+      {
+        "description": "小青柠切片，放入杯中",
+        "step_type": "prep",
+        "time_minutes": 2
+      },
+      {
+        "description": "加入果糖、金桔汁、大青柠片和冰块",
+        "step_type": "prep",
+        "time_minutes": 2
+      },
+      {
+        "description": "加满水即可",
+        "step_type": "prep",
+        "time_minutes": 1
+      }
+    ],
+    "tags": [
+      "冷饮",
+      "青柠",
+      "果茶"
+    ],
+    "tools": "量杯"
+  },
+  {
+    "title": "黑糖珍珠脏脏茶",
+    "description": "经典的黑糖风味珍珠奶茶。",
+    "category": "脏脏茶",
+    "difficulty": "easy",
+    "prep_time": 5,
+    "cook_time": 5,
+    "ingredients": [
+      {
+        "name": "黑糖",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "水",
+        "amount": 35,
+        "unit": "g"
+      },
+      {
+        "name": "煮好的珍珠",
+        "amount": 60,
+        "unit": "g"
+      },
+      {
+        "name": "牛奶",
+        "amount": 280,
+        "unit": "g"
+      },
+      {
+        "name": "冰",
+        "amount": 100,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将黑糖与水煮开挂壁",
+        "step_type": "active_cook",
+        "time_minutes": 3
+      },
+      {
+        "description": "放入煮好的珍珠",
+        "step_type": "prep",
+        "time_minutes": 1
+      },
+      {
+        "description": "加入冰块和牛奶即可",
+        "step_type": "prep",
+        "time_minutes": 1
+      }
+    ],
+    "tags": [
+      "甜点",
+      "珍珠",
+      "脏脏茶"
+    ],
+    "tools": "煮锅"
+  },
+  {
+    "title": "南非如意茶",
+    "description": "温热香甜的南非特色茶饮。",
+    "category": "热饮",
+    "difficulty": "easy",
+    "prep_time": 2,
+    "cook_time": 1,
+    "ingredients": [
+      {
+        "name": "南非如意茶包",
+        "amount": 1,
+        "unit": "颗"
+      },
+      {
+        "name": "开水",
+        "amount": 300,
+        "unit": "ml"
+      },
+      {
+        "name": "果糖",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "黄柠檬",
+        "amount": 2,
+        "unit": "片"
+      }
+    ],
+    "steps": [
+      {
+        "description": "茶包加300ml开水泡1分钟",
+        "step_type": "active_cook",
+        "time_minutes": 1
+      },
+      {
+        "description": "取热饮杯加入果糖和茶水",
+        "step_type": "prep",
+        "time_minutes": 1
+      },
+      {
+        "description": "用吧勺搅拌均匀，加入柠檬片",
+        "step_type": "prep",
+        "time_minutes": 1
+      }
+    ],
+    "tags": [
+      "热饮",
+      "茶"
+    ],
+    "tools": "量杯, 吧勺"
+  },
+  {
+    "title": "抹茶红豆冰沙",
+    "description": "细腻的抹茶冰沙搭配甜美红豆。",
+    "category": "沙冰",
+    "difficulty": "easy",
+    "prep_time": 5,
+    "cook_time": 5,
+    "ingredients": [
+      {
+        "name": "果糖",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "抹茶粉",
+        "amount": 8,
+        "unit": "g"
+      },
+      {
+        "name": "红豆",
+        "amount": 40,
+        "unit": "g"
+      },
+      {
+        "name": "安佳淡奶油",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "冰块",
+        "amount": 350,
+        "unit": "g"
+      },
+      {
+        "name": "水",
+        "amount": 50,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "description": "在冰沙杯中加入果糖、抹茶粉、红豆和淡奶油",
+        "step_type": "prep",
+        "time_minutes": 2
+      },
+      {
+        "description": "加入冰块和水",
+        "step_type": "prep",
+        "time_minutes": 1
+      },
+      {
+        "description": "用冰沙机搅拌均匀，装杯后红豆点缀",
+        "step_type": "active_cook",
+        "time_minutes": 2
+      }
+    ],
+    "tags": [
+      "冷饮",
+      "抹茶",
+      "红豆",
+      "冰沙"
+    ],
+    "tools": "冰沙机"
+  },
+  {
+    "title": "蛋挞",
+    "description": "口感酥脆，奶香浓郁的家庭式蛋挞。",
+    "category": "甜点",
+    "difficulty": "medium",
+    "prep_time": 15,
+    "cook_time": 25,
+    "ingredients": [
+      {
+        "name": "淡奶油",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "牛奶",
+        "amount": 60,
+        "unit": "g"
+      },
+      {
+        "name": "糖",
+        "amount": 40,
+        "unit": "g"
+      },
+      {
+        "name": "全蛋",
+        "amount": 1,
+        "unit": "个"
+      },
+      {
+        "name": "蛋黄",
+        "amount": 2,
+        "unit": "个"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将淡奶油、牛奶、糖混合均匀",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "加入鸡蛋搅拌均匀制成蛋挞液",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "将液体倒入蛋挞皮，上火200度下火220度烘烤",
+        "step_type": "active_cook",
+        "time_minutes": 25
+      }
+    ],
+    "tags": [
+      "甜点",
+      "烘焙",
+      "下午茶"
+    ],
+    "tools": "烤箱, 搅拌器"
+  },
+  {
+    "title": "港式拉茶",
+    "description": "正宗的港式浓香拉茶。",
+    "category": "热饮",
+    "difficulty": "medium",
+    "prep_time": 5,
+    "cook_time": 10,
+    "ingredients": [
+      {
+        "name": "水",
+        "amount": 1000,
+        "unit": "g"
+      },
+      {
+        "name": "锡兰红茶",
+        "amount": 50,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "description": "开水煮沸",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      },
+      {
+        "description": "将茶粉置于拉茶袋中",
+        "step_type": "prep",
+        "time_minutes": 1
+      },
+      {
+        "description": "将开水倒入茶袋，来回拉茶6-8次",
+        "step_type": "active_cook",
+        "time_minutes": 4
+      }
+    ],
+    "tags": [
+      "热饮",
+      "港式",
+      "奶茶"
+    ],
+    "tools": "拉茶袋, 煮锅"
+  },
+  {
+    "title": "红茶汤",
+    "description": "作为多种饮品的基底茶水。",
+    "category": "基底",
+    "difficulty": "easy",
+    "prep_time": 1,
+    "cook_time": 5,
+    "ingredients": [
+      {
+        "name": "红茶粉",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "水",
+        "amount": 500,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将水煮开",
+        "step_type": "active_cook",
+        "time_minutes": 3
+      },
+      {
+        "description": "关火凉1分钟入味",
+        "step_type": "prep",
+        "time_minutes": 1
+      },
+      {
+        "description": "过滤出红茶汤",
+        "step_type": "prep",
+        "time_minutes": 1
+      }
+    ],
+    "tags": [
+      "红茶",
+      "基底"
+    ],
+    "tools": "煮锅, 滤网"
+  },
+  {
+    "title": "一颗青柠茶",
+    "description": "清爽的青柠风味果茶，无需加茶底。",
+    "category": "饮品",
+    "difficulty": "easy",
+    "prep_time": 5,
+    "cook_time": 0,
+    "ingredients": [
+      {
+        "name": "果糖",
+        "amount": 40,
+        "unit": "ml"
+      },
+      {
+        "name": "金桔汁",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "小青柠",
+        "amount": 1,
+        "unit": "个"
+      },
+      {
+        "name": "大青柠",
+        "amount": 2,
+        "unit": "片"
+      },
+      {
+        "name": "冰块",
+        "amount": 0,
+        "unit": "八分满"
+      },
+      {
+        "name": "水",
+        "amount": 0,
+        "unit": "加满"
+      }
+    ],
+    "steps": [
+      {
+        "description": "小青柠切片，大青柠切两片",
+        "step_type": "prep",
+        "time_minutes": 2
+      },
+      {
+        "description": "杯中加入果糖、金桔汁和青柠片",
+        "step_type": "prep",
+        "time_minutes": 1
+      },
+      {
+        "description": "加入冰块至八分满，最后加满水即可",
+        "step_type": "prep",
+        "time_minutes": 2
+      }
+    ],
+    "tags": [
+      "果茶",
+      "青柠",
+      "冷饮"
+    ],
+    "tools": "吧勺"
+  },
+  {
+    "title": "霸气橙子",
+    "description": "红茶底搭配新鲜橙汁与柠檬。",
+    "category": "饮品",
+    "difficulty": "easy",
+    "prep_time": 5,
+    "cook_time": 0,
+    "ingredients": [
+      {
+        "name": "鲜橙汁",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "果糖",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "冰块",
+        "amount": 0,
+        "unit": "八分满"
+      },
+      {
+        "name": "红茶汤",
+        "amount": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "橙子",
+        "amount": 0.5,
+        "unit": "个"
+      },
+      {
+        "name": "黄柠檬",
+        "amount": 2,
+        "unit": "片"
+      },
+      {
+        "name": "青柠",
+        "amount": 1,
+        "unit": "片"
+      }
+    ],
+    "steps": [
+      {
+        "description": "橙子半个切片，柠檬切片备用",
+        "step_type": "prep",
+        "time_minutes": 3
+      },
+      {
+        "description": "杯中混合橙汁、果糖和红茶汤",
+        "step_type": "prep",
+        "time_minutes": 1
+      },
+      {
+        "description": "加入冰块和切好的水果片即可",
+        "step_type": "prep",
+        "time_minutes": 1
+      }
+    ],
+    "tags": [
+      "果茶",
+      "橙子",
+      "红茶"
+    ],
+    "tools": "吧勺"
+  },
+  {
+    "title": "黑糖珍珠脏脏茶",
+    "description": "浓郁黑糖风味的珍珠鲜奶饮品。",
+    "category": "饮品",
+    "difficulty": "easy",
+    "prep_time": 5,
+    "cook_time": 0,
+    "ingredients": [
+      {
+        "name": "黑糖",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "水",
+        "amount": 35,
+        "unit": "g"
+      },
+      {
+        "name": "煮好的珍珠",
+        "amount": 60,
+        "unit": "g"
+      },
+      {
+        "name": "牛奶",
+        "amount": 280,
+        "unit": "g"
+      },
+      {
+        "name": "冰",
+        "amount": 100,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将黑糖、水和珍珠混合（通常需挂壁处理）",
+        "step_type": "prep",
+        "time_minutes": 2
+      },
+      {
+        "description": "加入冰块和牛奶即可",
+        "step_type": "prep",
+        "time_minutes": 1
+      }
+    ],
+    "tags": [
+      "脏脏茶",
+      "黑糖",
+      "珍珠"
+    ],
+    "tools": "吧勺"
+  },
+  {
+    "title": "港式拉茶",
+    "description": "传统港式手冲红茶底。",
+    "category": "饮品",
+    "difficulty": "medium",
+    "prep_time": 5,
+    "cook_time": 10,
+    "ingredients": [
+      {
+        "name": "水",
+        "amount": 1000,
+        "unit": "g"
+      },
+      {
+        "name": "锡兰红茶",
+        "amount": 50,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将水煮沸",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      },
+      {
+        "description": "茶粉置于拉茶袋中",
+        "step_type": "prep",
+        "time_minutes": 1
+      },
+      {
+        "description": "将开水倒入，来回拉茶6-8次",
+        "step_type": "active_cook",
+        "time_minutes": 4
+      }
+    ],
+    "tags": [
+      "热饮",
+      "红茶",
+      "港式"
+    ],
+    "tools": "拉茶袋, 煮水壶"
+  },
+  {
+    "title": "抹茶红豆冰沙",
+    "description": "抹茶风味搭配绵密红豆的冰沙。",
+    "category": "沙冰",
+    "difficulty": "easy",
+    "prep_time": 5,
+    "cook_time": 0,
+    "ingredients": [
+      {
+        "name": "果糖",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "抹茶粉",
+        "amount": 8,
+        "unit": "g"
+      },
+      {
+        "name": "红豆",
+        "amount": 40,
+        "unit": "g"
+      },
+      {
+        "name": "淡奶油",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "冰块",
+        "amount": 350,
+        "unit": "g"
+      },
+      {
+        "name": "水",
+        "amount": 50,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将除点缀用红豆外的所有材料放入冰沙机",
+        "step_type": "prep",
+        "time_minutes": 2
+      },
+      {
+        "description": "冰沙机搅拌均匀，装入杯中",
+        "step_type": "active_cook",
+        "time_minutes": 1
+      },
+      {
+        "description": "顶部用红豆点缀",
+        "step_type": "prep",
+        "time_minutes": 1
+      }
+    ],
+    "tags": [
+      "冰沙",
+      "抹茶",
+      "红豆"
+    ],
+    "tools": "冰沙机"
+  },
+  {
+    "title": "芒果香蕉奶昔",
+    "description": "新鲜芒果与香蕉结合的果味奶昔。",
+    "category": "沙冰",
+    "difficulty": "easy",
+    "prep_time": 5,
+    "cook_time": 0,
+    "ingredients": [
+      {
+        "name": "芒果",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "香蕉",
+        "amount": 1,
+        "unit": "根"
+      },
+      {
+        "name": "酸奶",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "冰块",
+        "amount": 100,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "description": "芒果切块，香蕉去皮",
+        "step_type": "prep",
+        "time_minutes": 3
+      },
+      {
+        "description": "所有材料放入冰沙机搅拌均匀",
+        "step_type": "active_cook",
+        "time_minutes": 1
+      },
+      {
+        "description": "倒入杯中，可用芒果片装饰杯壁或顶部",
+        "step_type": "prep",
+        "time_minutes": 1
+      }
+    ],
+    "tags": [
+      "奶昔",
+      "芒果",
+      "香蕉"
+    ],
+    "tools": "冰沙机"
+  },
+  {
+    "title": "焦糖布丁",
+    "description": "经典法式风味焦糖烤布丁。",
+    "category": "甜点",
+    "difficulty": "medium",
+    "prep_time": 20,
+    "cook_time": 40,
+    "ingredients": [
+      {
+        "name": "凉水",
+        "amount": 140,
+        "unit": "g"
+      },
+      {
+        "name": "糖 (焦糖部分)",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "开水",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "鸡蛋",
+        "amount": 2,
+        "unit": "个"
+      },
+      {
+        "name": "糖 (布丁部分)",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "牛奶",
+        "amount": 210,
+        "unit": "g"
+      },
+      {
+        "name": "朗姆酒",
+        "amount": 5,
+        "unit": "g"
+      },
+      {
+        "name": "香草精",
+        "amount": 2,
+        "unit": "滴"
+      }
+    ],
+    "steps": [
+      {
+        "description": "制作焦糖并倒入模具底部",
+        "step_type": "active_cook",
+        "time_minutes": 10
+      },
+      {
+        "description": "混合鸡蛋、糖、牛奶、朗姆酒和香草精制作布丁液",
+        "step_type": "prep",
+        "time_minutes": 10
+      },
+      {
+        "description": "将布丁液倒入模具，上火160度下火160度烘烤",
+        "step_type": "active_cook",
+        "time_minutes": 40
+      }
+    ],
+    "tags": [
+      "布丁",
+      "烘焙",
+      "焦糖"
+    ],
+    "tools": "烤箱, 模具"
+  },
+  {
+    "title": "蛋黄酥",
+    "description": "多层酥皮包裹的传统中式点心。",
+    "category": "甜点",
+    "difficulty": "hard",
+    "prep_time": 60,
+    "cook_time": 30,
+    "ingredients": [
+      {
+        "name": "中筋面粉 (油皮)",
+        "amount": 225,
+        "unit": "g"
+      },
+      {
+        "name": "猪油 (油皮)",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "糖粉 (油皮)",
+        "amount": 45,
+        "unit": "g"
+      },
+      {
+        "name": "水 (油皮)",
+        "amount": 90,
+        "unit": "g"
+      },
+      {
+        "name": "低筋面粉 (油酥)",
+        "amount": 180,
+        "unit": "g"
+      },
+      {
+        "name": "猪油 (油酥)",
+        "amount": 90,
+        "unit": "g"
+      },
+      {
+        "name": "紫薯粉/绿茶粉",
+        "amount": 7,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "description": "制作油皮材料并揉至光滑",
+        "step_type": "prep",
+        "time_minutes": 20
+      },
+      {
+        "description": "制作油酥材料，可分为紫薯、抹茶和原味三份",
+        "step_type": "prep",
+        "time_minutes": 20
+      },
+      {
+        "description": "油皮包油酥，进行多次擀卷起酥",
+        "step_type": "active_cook",
+        "time_minutes": 20
+      },
+      {
+        "description": "包入馅料（如蛋黄和豆沙），入烤箱烘烤",
+        "step_type": "active_cook",
+        "time_minutes": 30
+      }
+    ],
+    "tags": [
+      "中点",
+      "烘焙",
+      "蛋黄酥"
+    ],
+    "tools": "烤箱, 擀面杖"
+  }
+]

@@ -9,8 +9,8 @@ Single shared D1 database for all users (multi-tenant by `owner_user_id`).
 npx wrangler d1 create m8xtable-db
 
 # Run migrations
-npx wrangler d1 migrations apply m8xtable-db --local   # local dev
-npx wrangler d1 migrations apply m8xtable-db --remote  # production
+# npx wrangler d1 migrations apply m8xtable-db --local   # local dev
+Summer hi # production
 ```
 
 ## Migrations
