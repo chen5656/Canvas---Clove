@@ -1,0 +1,3866 @@
+[
+  {
+    "title": "日式炸猪排 (Tonkatsu)",
+    "description": "经典的日式炸猪排，外皮金黄酥脆，肉质鲜嫩多汁，是和风料理的代表作之一。",
+    "category": "晚餐",
+    "difficulty": "medium",
+    "prep_time": 15,
+    "cook_time": 10,
+    "ingredients": [
+      {
+        "name": "猪里脊肉",
+        "amount": 300,
+        "unit": "克"
+      },
+      {
+        "name": "面粉",
+        "amount": 50,
+        "unit": "克"
+      },
+      {
+        "name": "鸡蛋",
+        "amount": 1,
+        "unit": "个"
+      },
+      {
+        "name": "面包糠",
+        "amount": 100,
+        "unit": "克"
+      },
+      {
+        "name": "盐",
+        "amount": 2,
+        "unit": "克"
+      },
+      {
+        "name": "黑胡椒",
+        "amount": 1,
+        "unit": "克"
+      },
+      {
+        "name": "植物油",
+        "amount": 500,
+        "unit": "毫升"
+      }
+    ],
+    "steps": [
+      {
+        "description": "用肉锤轻轻敲打猪里脊肉，使其厚度均匀并切断筋膜，防止受热卷曲。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "在猪肉表面均匀撒上盐和黑胡椒腌制片刻。",
+        "step_type": "prep",
+        "time_minutes": 2
+      },
+      {
+        "description": "将腌好的猪肉依次均匀地裹上一层面粉、蛋液，最后压实一层面包糠。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "油锅烧至170-180度，将猪排轻轻放入，炸至两面金黄（约每面3-4分钟）。",
+        "step_type": "active_cook",
+        "time_minutes": 8
+      },
+      {
+        "description": "捞出猪排沥干多余油脂，静置1-2分钟后切成长条即可食用。",
+        "step_type": "active_cook",
+        "time_minutes": 2
+      }
+    ],
+    "tags": [
+      "中餐",
+      "猪肉",
+      "日式",
+      "炸物"
+    ],
+    "tools": "炸锅, 肉锤",
+    "image_prompt": "调用nano banana重新生成 日式炸猪排 (Tonkatsu) 的食谱图片。风格要求：极简构图（留白多，主体突出，每张食物都摆得很“干净”）；暗调高级感（深色背景、低饱和度，营造出比较精致的餐饮广告气质）；自然光静物摄影感（食物质感很强，偏真实、克制，不是夸张鲜艳的电商风）；品牌视觉/菜单视觉风格（很像咖啡馆、轻食店、餐厅品牌官网常见的视觉方向）。",
+    "created_at": "2026-01-13 16:40:37"
+  },
+  {
+    "title": "广式蒸肠粉",
+    "description": "一道经典的广式早茶点心，口感滑嫩，搭配特制的甜酱油和炸蒜粒，味道鲜美。肠粉皮薄而透明，包裹着鲜美的内馅。",
+    "category": "早餐",
+    "difficulty": "medium",
+    "prep_time": 20,
+    "cook_time": 10,
+    "ingredients": [
+      {
+        "name": "粘米粉",
+        "amount": 100,
+        "unit": "克"
+      },
+      {
+        "name": "澄面",
+        "amount": 30,
+        "unit": "克"
+      },
+      {
+        "name": "玉米淀粉",
+        "amount": 10,
+        "unit": "克"
+      },
+      {
+        "name": "水",
+        "amount": 300,
+        "unit": "毫升"
+      },
+      {
+        "name": "猪肉末",
+        "amount": 50,
+        "unit": "克"
+      },
+      {
+        "name": "炸蒜粒",
+        "amount": 10,
+        "unit": "克"
+      },
+      {
+        "name": "生抽",
+        "amount": 20,
+        "unit": "毫升"
+      },
+      {
+        "name": "白糖",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "食用油",
+        "amount": 5,
+        "unit": "毫升"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将粘米粉、澄面、玉米淀粉和水混合均匀，搅拌至无颗粒的粉浆状态。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "准备调味汁：将生抽、白糖和少量水煮开，放凉备用。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "蒸盘表面刷一层薄薄的食用油，倒入一层能够覆盖盘底的薄粉浆。",
+        "step_type": "prep",
+        "time_minutes": 2
+      },
+      {
+        "description": "在粉浆上撒入少许猪肉末，放入水开后的蒸锅中，大火蒸约2-3分钟，直到粉浆鼓起大泡且变透明。",
+        "step_type": "active_cook",
+        "time_minutes": 3
+      },
+      {
+        "description": "用刮板将蒸好的粉皮卷起，切成段状摆入盘中。",
+        "step_type": "active_cook",
+        "time_minutes": 2
+      },
+      {
+        "description": "淋上准备好的调味汁，撒上炸蒜粒即可享用。",
+        "step_type": "active_cook",
+        "time_minutes": 1
+      }
+    ],
+    "tags": [
+      "中餐",
+      "早茶",
+      "肠粉",
+      "经典"
+    ],
+    "tools": "蒸锅, 平底蒸盘, 刮板",
+    "image_prompt": "调用nano banana重新生成 广式蒸肠粉 的食谱图片。风格要求：极简构图（留白多，主体突出，每张食物都摆得很“干净”）；暗调高级感（深色背景、低饱和度，营造出比较精致的餐饮广告气质）；自然光静物摄影感（食物质感很强，偏真实、克制，不是夸张鲜艳的电商风）；品牌视觉/菜单视觉风格（很像咖啡馆、轻食店、餐厅品牌官网常见的视觉方向）。",
+    "created_at": "2025-11-08 18:03:06"
+  },
+  {
+    "title": "蚂蚁上树 (肉末炒粉丝)",
+    "description": "一道经典的家常川菜，粉丝顺滑并吸满了肉汁，咸鲜微辣，色泽红亮。",
+    "category": "主食",
+    "difficulty": "easy",
+    "prep_time": 15,
+    "cook_time": 10,
+    "ingredients": [
+      {
+        "name": "粉丝",
+        "amount": 100,
+        "unit": "克"
+      },
+      {
+        "name": "猪肉末",
+        "amount": 50,
+        "unit": "克"
+      },
+      {
+        "name": "豆瓣酱",
+        "amount": 1,
+        "unit": "勺"
+      },
+      {
+        "name": "葱",
+        "amount": 10,
+        "unit": "克"
+      },
+      {
+        "name": "姜",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "蒜",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "生抽",
+        "amount": 1,
+        "unit": "勺"
+      },
+      {
+        "name": "食用油",
+        "amount": 20,
+        "unit": "毫升"
+      }
+    ],
+    "steps": [
+      {
+        "description": "粉丝用温水浸泡约15分钟至软化，捞出沥干水分，用剪刀剪成适当长度。",
+        "step_type": "prep",
+        "time_minutes": 15
+      },
+      {
+        "description": "将葱、姜、蒜切成细末备用。",
+        "step_type": "prep",
+        "time_minutes": 2
+      },
+      {
+        "description": "炒锅热油，放入猪肉末快速炒散，直至颜色变白。",
+        "step_type": "active_cook",
+        "time_minutes": 2
+      },
+      {
+        "description": "加入豆瓣酱、姜末、蒜末，中小火炒出红油和香味。",
+        "step_type": "active_cook",
+        "time_minutes": 2
+      },
+      {
+        "description": "放入泡好的粉丝，倒入生抽和半碗清水，转大火快速翻炒均匀。",
+        "step_type": "active_cook",
+        "time_minutes": 3
+      },
+      {
+        "description": "待粉丝吸干汤汁并变得晶莹剔透时，撒上葱花，翻炒均匀即可出锅。",
+        "step_type": "active_cook",
+        "time_minutes": 1
+      }
+    ],
+    "tags": [
+      "中餐",
+      "川菜",
+      "家常菜",
+      "肉末"
+    ],
+    "tools": "炒锅",
+    "image_prompt": "调用nano banana重新生成 蚂蚁上树 (肉末炒粉丝) 的食谱图片。风格要求：顶尖美食杂志内页/艺术解构风。构图讲究层次美学，食材间可以有自然的摆放距离甚至轻微的空间分离层次；电影级打光，质感极其细腻超清，画面开胃惹眼且非常专业。",
+    "created_at": "2025-12-24 22:46:21"
+  },
+  {
+    "title": "口水鸡",
+    "description": "口水鸡是一道经典的四川凉菜，以其香辣鲜美、肉质嫩滑而闻名。红亮的辣油配上嫩白的鸡肉，再撒上花生碎和芝麻，令人垂涎三尺。",
+    "category": "晚餐",
+    "difficulty": "medium",
+    "prep_time": 15,
+    "cook_time": 30,
+    "ingredients": [
+      {
+        "name": "鸡腿",
+        "amount": 500,
+        "unit": "克"
+      },
+      {
+        "name": "生姜",
+        "amount": 10,
+        "unit": "克"
+      },
+      {
+        "name": "葱",
+        "amount": 15,
+        "unit": "克"
+      },
+      {
+        "name": "料酒",
+        "amount": 15,
+        "unit": "毫升"
+      },
+      {
+        "name": "辣椒油",
+        "amount": 50,
+        "unit": "毫升"
+      },
+      {
+        "name": "生抽",
+        "amount": 20,
+        "unit": "毫升"
+      },
+      {
+        "name": "陈醋",
+        "amount": 10,
+        "unit": "毫升"
+      },
+      {
+        "name": "白糖",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "盐",
+        "amount": 2,
+        "unit": "克"
+      },
+      {
+        "name": "熟花生碎",
+        "amount": 10,
+        "unit": "克"
+      },
+      {
+        "name": "白芝麻",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "香菜",
+        "amount": 5,
+        "unit": "克"
+      }
+    ],
+    "steps": [
+      {
+        "description": "处理鸡肉，洗净备用；切姜片，葱切段。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "锅中加入足量冷水，放入鸡肉、姜片、葱段和料酒，大火煮开后转中火煮15-20分钟直至熟透。",
+        "step_type": "active_cook",
+        "time_minutes": 20
+      },
+      {
+        "description": "将煮熟的鸡肉立即捞出，放入准备好的冰水中浸泡5-10分钟，使肉质紧实，皮质Q弹。",
+        "step_type": "prep",
+        "time_minutes": 10
+      },
+      {
+        "description": "取一个小碗，混合辣椒油、生抽、陈醋、白糖和盐，调成秘制红油酱汁。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "将冷却后的鸡肉沥干水分，剁成大小均匀的块，整齐地摆放在盘中。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "将调好的酱汁均匀地淋在鸡块上，最后撒上花生碎、白芝麻、葱花和香菜段点缀。",
+        "step_type": "prep",
+        "time_minutes": 5
+      }
+    ],
+    "tags": [
+      "中餐",
+      "川菜",
+      "鸡肉",
+      "辣"
+    ],
+    "tools": "煮锅, 菜刀, 案板",
+    "image_prompt": "调用nano banana重新生成 口水鸡 的食谱图片。风格要求：顶尖美食杂志内页/艺术解构风。构图讲究层次美学，食材间可以有自然的摆放距离甚至轻微的空间分离层次；电影级打光，质感极其细腻超清，画面开胃惹眼且非常专业。",
+    "created_at": "2026-01-07 19:03:59"
+  },
+  {
+    "title": "招牌海鲜粥",
+    "description": "一道极其鲜美的粤式粥品，选用新鲜的螃蟹和鲜虾，配合砂锅慢火熬煮，米粒软糯，海鲜的鲜甜完全渗入粥中，暖胃又营养。",
+    "category": "晚餐",
+    "difficulty": "medium",
+    "prep_time": 20,
+    "cook_time": 45,
+    "ingredients": [
+      {
+        "name": "大米",
+        "amount": 150,
+        "unit": "克"
+      },
+      {
+        "name": "螃蟹",
+        "amount": 1,
+        "unit": "只"
+      },
+      {
+        "name": "鲜虾",
+        "amount": 6,
+        "unit": "只"
+      },
+      {
+        "name": "生姜",
+        "amount": 10,
+        "unit": "克"
+      },
+      {
+        "name": "小葱",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "盐",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "白胡椒粉",
+        "amount": 2,
+        "unit": "克"
+      },
+      {
+        "name": "料酒",
+        "amount": 10,
+        "unit": "毫升"
+      }
+    ],
+    "steps": [
+      {
+        "description": "大米洗净，加入少许油和盐搅拌均匀，浸泡30分钟使煮出来的粥更香滑。",
+        "step_type": "prep",
+        "time_minutes": 30
+      },
+      {
+        "description": "螃蟹用刷子刷洗干净，去肚脐和蟹腮，切成大块；鲜虾剪去虾须，挑去虾线，用少许料酒和姜丝腌制去腥。",
+        "step_type": "prep",
+        "time_minutes": 15
+      },
+      {
+        "description": "砂锅中一次性加入足量的清水，大火烧开后下入大米，再次煮沸后转小火熬煮约30分钟，期间不时搅拌以防糊底。",
+        "step_type": "active_cook",
+        "time_minutes": 30
+      },
+      {
+        "description": "待粥底变得粘稠时，放入姜丝、螃蟹块和鲜虾，转中火继续煮8-10分钟，直到螃蟹变红、鲜虾弯曲熟透。",
+        "step_type": "active_cook",
+        "time_minutes": 10
+      },
+      {
+        "description": "最后加入盐、白胡椒粉调味，撒上葱花装饰即可趁热食用。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      }
+    ],
+    "tags": [
+      "中餐",
+      "海鲜",
+      "粥",
+      "粤菜",
+      "滋补"
+    ],
+    "tools": "砂锅",
+    "image_prompt": "调用nano banana重新生成 招牌海鲜粥 的食谱图片。风格要求：生活方式融合的清新旅游风。背景可以展现温暖的异国阳光、自然绿植阴影或明亮的街道模糊背景；色调明快饱满但不失真实，主打治愈系与真实的户外氛围感，不夸张。",
+    "created_at": "2026-02-11 10:40:26"
+  },
+  {
+    "title": "韩式海鲜葱饼",
+    "description": "一款经典的韩式风味海鲜饼，外皮金黄酥脆，内里包裹着鲜美的虾仁、鱿鱼和浓郁的小葱香气，是极佳的家常美味。",
+    "category": "晚餐",
+    "difficulty": "medium",
+    "prep_time": 15,
+    "cook_time": 10,
+    "ingredients": [
+      {
+        "name": "面粉",
+        "amount": 150,
+        "unit": "克"
+      },
+      {
+        "name": "玉米淀粉",
+        "amount": 50,
+        "unit": "克"
+      },
+      {
+        "name": "虾仁",
+        "amount": 100,
+        "unit": "克"
+      },
+      {
+        "name": "鱿鱼圈",
+        "amount": 100,
+        "unit": "克"
+      },
+      {
+        "name": "小葱",
+        "amount": 100,
+        "unit": "克"
+      },
+      {
+        "name": "鸡蛋",
+        "amount": 1,
+        "unit": "个"
+      },
+      {
+        "name": "水",
+        "amount": 200,
+        "unit": "毫升"
+      },
+      {
+        "name": "盐",
+        "amount": 3,
+        "unit": "克"
+      },
+      {
+        "name": "胡椒粉",
+        "amount": 1,
+        "unit": "克"
+      },
+      {
+        "name": "芝麻",
+        "amount": 5,
+        "unit": "克"
+      }
+    ],
+    "steps": [
+      {
+        "description": "处理食材：将虾仁和鱿鱼切成小块，小葱切成长段备用。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "调制面糊：在碗中混合面粉、淀粉、鸡蛋、水、盐和胡椒粉，搅拌至无颗粒状。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "混合：将处理好的海鲜和小葱段倒入面糊中，搅拌均匀，使食材均匀挂糊。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "热锅：平底锅中倒入适量油，中火烧热。",
+        "step_type": "active_cook",
+        "time_minutes": 2
+      },
+      {
+        "description": "摊饼：将面糊倒入锅中，用铲子摊平。撒上少量芝麻装饰。",
+        "step_type": "active_cook",
+        "time_minutes": 3
+      },
+      {
+        "description": "翻面：待底部定型且呈金黄色后，小心翻面，继续煎至另一面也呈金黄色且海鲜熟透。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      }
+    ],
+    "tags": [
+      "中式",
+      "韩式风味",
+      "海鲜",
+      "快手菜"
+    ],
+    "tools": "平底锅",
+    "image_prompt": "调用nano banana重新生成 韩式海鲜葱饼 的食谱图片。风格要求：顶尖美食杂志内页/艺术解构风。构图讲究层次美学，食材间可以有自然的摆放距离甚至轻微的空间分离层次；电影级打光，质感极其细腻超清，画面开胃惹眼且非常专业。",
+    "created_at": "2025-11-11 16:52:52"
+  },
+  {
+    "title": "凉拌鸡丝",
+    "description": "这是一道清爽开胃的家常凉菜，由鲜嫩的手撕鸡肉和爽脆的黄瓜丝拌制而成，麻辣鲜香。",
+    "category": "凉菜",
+    "difficulty": "easy",
+    "prep_time": 15,
+    "cook_time": 15,
+    "ingredients": [
+      {
+        "name": "鸡胸肉",
+        "amount": 300,
+        "unit": "克"
+      },
+      {
+        "name": "黄瓜",
+        "amount": 1,
+        "unit": "根"
+      },
+      {
+        "name": "干辣椒",
+        "amount": 5,
+        "unit": "个"
+      },
+      {
+        "name": "大蒜",
+        "amount": 3,
+        "unit": "瓣"
+      },
+      {
+        "name": "生抽",
+        "amount": 15,
+        "unit": "毫升"
+      },
+      {
+        "name": "陈醋",
+        "amount": 10,
+        "unit": "毫升"
+      },
+      {
+        "name": "糖",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "盐",
+        "amount": 2,
+        "unit": "克"
+      },
+      {
+        "name": "芝麻油",
+        "amount": 5,
+        "unit": "毫升"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将鸡胸肉冷水下锅，加入姜片和料酒煮至熟透（约10-15分钟）。",
+        "step_type": "active_cook",
+        "time_minutes": 15
+      },
+      {
+        "description": "捞出鸡肉过凉水，用手顺着纹路撕成细丝。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "黄瓜洗净切丝，大蒜剁成蒜末，干辣椒剪段。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "在碗中加入蒜末、干辣椒，淋上热油激发出香味。",
+        "step_type": "active_cook",
+        "time_minutes": 2
+      },
+      {
+        "description": "加入生抽、陈醋、糖、盐和芝麻油调成汁，倒入鸡丝和黄瓜丝中拌匀即可。",
+        "step_type": "active_cook",
+        "time_minutes": 3
+      }
+    ],
+    "tags": [
+      "中餐",
+      "鸡肉",
+      "凉菜",
+      "家常菜"
+    ],
+    "tools": "煮锅, 菜刀, 拌料碗",
+    "image_prompt": "调用nano banana重新生成 凉拌鸡丝 的食谱图片。风格要求：顶尖美食杂志内页/艺术解构风。构图讲究层次美学，食材间可以有自然的摆放距离甚至轻微的空间分离层次；电影级打光，质感极其细腻超清，画面开胃惹眼且非常专业。",
+    "created_at": "2026-02-04 10:33:25"
+  },
+  {
+    "title": "水煮肉片",
+    "description": "一道经典的川菜，肉片鲜嫩，汤汁麻辣浓郁，底部铺有脆嫩的豆芽和莴笋，口感层次丰富。",
+    "category": "晚餐",
+    "difficulty": "medium",
+    "prep_time": 20,
+    "cook_time": 15,
+    "ingredients": [
+      {
+        "name": "猪里脊肉",
+        "amount": 300,
+        "unit": "克"
+      },
+      {
+        "name": "黄豆芽",
+        "amount": 100,
+        "unit": "克"
+      },
+      {
+        "name": "莴笋",
+        "amount": 50,
+        "unit": "克"
+      },
+      {
+        "name": "郫县豆瓣酱",
+        "amount": 30,
+        "unit": "克"
+      },
+      {
+        "name": "干辣椒",
+        "amount": 10,
+        "unit": "克"
+      },
+      {
+        "name": "花椒",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "辣椒粉",
+        "amount": 10,
+        "unit": "克"
+      },
+      {
+        "name": "蒜",
+        "amount": 20,
+        "unit": "克"
+      },
+      {
+        "name": "姜",
+        "amount": 10,
+        "unit": "克"
+      },
+      {
+        "name": "淀粉",
+        "amount": 15,
+        "unit": "克"
+      },
+      {
+        "name": "料酒",
+        "amount": 15,
+        "unit": "毫升"
+      },
+      {
+        "name": "食用油",
+        "amount": 100,
+        "unit": "毫升"
+      },
+      {
+        "name": "葱",
+        "amount": 10,
+        "unit": "克"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将猪里脊肉切成薄片，加入料酒、少量盐和淀粉抓匀，腌制15分钟使肉质鲜嫩。",
+        "step_type": "prep",
+        "time_minutes": 15
+      },
+      {
+        "description": "将黄豆芽去根洗净，莴笋切片，放入沸水中焯熟后捞出，铺在大碗底部备用。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "锅中倒入适量油，放入姜片、蒜片和豆瓣酱炒出红油，加入清水或高汤煮沸。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      },
+      {
+        "description": "将腌好的肉片逐片拨入沸腾的汤中，煮至肉片变色刚熟即可，连汤带肉一起倒入盛有底菜的大碗中。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      },
+      {
+        "description": "在肉片上撒上干辣椒段、花椒、辣椒粉、葱花和蒜末。另起锅烧热油，淋在调料上激发出香味即可。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      }
+    ],
+    "tags": [
+      "中餐",
+      "川菜",
+      "猪肉",
+      "麻辣"
+    ],
+    "tools": "炒锅",
+    "image_prompt": "调用nano banana重新生成 水煮肉片 的食谱图片。风格要求：极简构图（留白多，主体突出，每张食物都摆得很“干净”）；暗调高级感（深色背景、低饱和度，营造出比较精致的餐饮广告气质）；自然光静物摄影感（食物质感很强，偏真实、克制，不是夸张鲜艳的电商风）；品牌视觉/菜单视觉风格（很像咖啡馆、轻食店、餐厅品牌官网常见的视觉方向）。",
+    "created_at": "2025-10-07 05:09:09"
+  },
+  {
+    "title": "日式炸猪排",
+    "description": "经典日式炸猪排，口感外酥里嫩，常搭配清爽的高丽菜丝一同享用。",
+    "category": "晚餐",
+    "difficulty": "medium",
+    "prep_time": 20,
+    "cook_time": 10,
+    "ingredients": [
+      {
+        "name": "猪里脊肉",
+        "amount": 200,
+        "unit": "克"
+      },
+      {
+        "name": "盐",
+        "amount": 2,
+        "unit": "克"
+      },
+      {
+        "name": "黑胡椒",
+        "amount": 1,
+        "unit": "克"
+      },
+      {
+        "name": "鸡蛋",
+        "amount": 1,
+        "unit": "个"
+      },
+      {
+        "name": "面粉",
+        "amount": 30,
+        "unit": "克"
+      },
+      {
+        "name": "面包糠",
+        "amount": 50,
+        "unit": "克"
+      },
+      {
+        "name": "植物油",
+        "amount": 500,
+        "unit": "毫升"
+      }
+    ],
+    "steps": [
+      {
+        "description": "用肉锤轻敲猪排，切断筋膜防止卷曲，撒上盐和黑胡椒腌制10分钟。",
+        "step_type": "prep",
+        "time_minutes": 10
+      },
+      {
+        "description": "将腌制好的猪排依次均匀裹上面粉、蛋液，最后压实面包糠。",
+        "step_type": "prep",
+        "time_minutes": 10
+      },
+      {
+        "description": "油锅热至170度左右，放入猪排中火炸约5-6分钟至两面金黄酥脆。",
+        "step_type": "active_cook",
+        "time_minutes": 6
+      },
+      {
+        "description": "捞出猪排沥干油分，静置2分钟后切成长条装盘，配以高丽菜丝。",
+        "step_type": "active_cook",
+        "time_minutes": 4
+      }
+    ],
+    "tags": [
+      "日式",
+      "猪肉",
+      "炸物"
+    ],
+    "tools": "油炸锅, 肉锤",
+    "image_prompt": "调用nano banana重新生成 日式炸猪排 的食谱图片。风格要求：极简构图（留白多，主体突出，每张食物都摆得很“干净”）；暗调高级感（深色背景、低饱和度，营造出比较精致的餐饮广告气质）；自然光静物摄影感（食物质感很强，偏真实、克制，不是夸张鲜艳的电商风）；品牌视觉/菜单视觉风格（很像咖啡馆、轻食店、餐厅品牌官网常见的视觉方向）。",
+    "created_at": "2026-01-26 19:46:39"
+  },
+  {
+    "title": "凉拌麻酱鸡丝",
+    "description": "一道清新爽口的凉菜，嫩滑的鸡丝搭配浓郁的麻酱，鲜香可口，非常适合夏季食用。",
+    "category": "晚餐",
+    "difficulty": "easy",
+    "prep_time": 20,
+    "cook_time": 10,
+    "ingredients": [
+      {
+        "name": "鸡胸肉",
+        "amount": 300,
+        "unit": "克"
+      },
+      {
+        "name": "黄瓜",
+        "amount": 100,
+        "unit": "克"
+      },
+      {
+        "name": "芝麻酱",
+        "amount": 2,
+        "unit": "汤匙"
+      },
+      {
+        "name": "生抽",
+        "amount": 1,
+        "unit": "汤匙"
+      },
+      {
+        "name": "陈醋",
+        "amount": 1,
+        "unit": "汤匙"
+      },
+      {
+        "name": "白糖",
+        "amount": 1,
+        "unit": "茶匙"
+      },
+      {
+        "name": "蒜末",
+        "amount": 1,
+        "unit": "汤匙"
+      }
+    ],
+    "steps": [
+      {
+        "description": "鸡胸肉冷水入锅，加入姜片煮熟捞出，晾凉后撕成细丝。",
+        "step_type": "active_cook",
+        "time_minutes": 10
+      },
+      {
+        "description": "黄瓜洗净切丝备用。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "芝麻酱用少许温水调开，加入生抽、醋、糖、蒜末拌匀成酱汁。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "将鸡丝和黄瓜丝放入碗中，淋上酱汁拌匀即可。",
+        "step_type": "prep",
+        "time_minutes": 2
+      }
+    ],
+    "tags": [
+      "中餐",
+      "鸡肉",
+      "凉菜"
+    ],
+    "tools": "煮锅",
+    "image_prompt": "调用nano banana重新生成 凉拌麻酱鸡丝 的食谱图片。风格要求：顶尖美食杂志内页/艺术解构风。构图讲究层次美学，食材间可以有自然的摆放距离甚至轻微的空间分离层次；电影级打光，质感极其细腻超清，画面开胃惹眼且非常专业。",
+    "created_at": "2025-12-24 03:47:18"
+  },
+  {
+    "title": "黑椒鸡扒",
+    "description": "香气浓郁、做法简单的西式家常菜。鸡肉鲜嫩多汁，搭配黑胡椒的辛香，极具风味。",
+    "category": "晚餐",
+    "difficulty": "easy",
+    "prep_time": 15,
+    "cook_time": 10,
+    "ingredients": [
+      {
+        "name": "鸡腿肉",
+        "amount": 400,
+        "unit": "克"
+      },
+      {
+        "name": "黑胡椒碎",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "蚝油",
+        "amount": 1,
+        "unit": "汤匙"
+      },
+      {
+        "name": "生抽",
+        "amount": 1,
+        "unit": "汤匙"
+      },
+      {
+        "name": "蜂蜜",
+        "amount": 1,
+        "unit": "茶匙"
+      },
+      {
+        "name": "大蒜",
+        "amount": 3,
+        "unit": "瓣"
+      }
+    ],
+    "steps": [
+      {
+        "description": "鸡腿肉去骨洗净，用刀背拍松，加入黑胡椒、蚝油、生抽、蜂蜜和蒜末腌制20分钟。",
+        "step_type": "prep",
+        "time_minutes": 20
+      },
+      {
+        "description": "平底锅烧热倒油，将鸡皮朝下放入锅中，中小火煎至表面金黄。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      },
+      {
+        "description": "翻面继续煎至熟透，中途可刷上腌制剩余的酱汁。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      }
+    ],
+    "tags": [
+      "西餐",
+      "鸡肉",
+      "黑胡椒"
+    ],
+    "tools": "平底锅",
+    "image_prompt": "调用nano banana重新生成 黑椒鸡扒 的食谱图片。风格要求：生活方式融合的清新旅游风。背景可以展现温暖的异国阳光、自然绿植阴影或明亮的街道模糊背景；色调明快饱满但不失真实，主打治愈系与真实的户外氛围感，不夸张。",
+    "created_at": "2025-11-27 04:43:31"
+  },
+  {
+    "title": "粿条 (干炒)",
+    "description": "一道极具岭南风味的快手面食，粿条软糯，镬气十足。",
+    "category": "午餐/晚餐",
+    "difficulty": "easy",
+    "prep_time": 10,
+    "cook_time": 10,
+    "ingredients": [
+      {
+        "name": "粿条",
+        "amount": 400,
+        "unit": "克"
+      },
+      {
+        "name": "牛肉片",
+        "amount": 100,
+        "unit": "克"
+      },
+      {
+        "name": "豆芽",
+        "amount": 50,
+        "unit": "克"
+      },
+      {
+        "name": "老抽",
+        "amount": 1,
+        "unit": "汤匙"
+      }
+    ],
+    "steps": [
+      {
+        "description": "牛肉提前腌制，粿条抖散。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "牛肉滑油盛出，放入豆芽炒匀，再加入粿条大火翻炒。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      },
+      {
+        "description": "调入老抽、生抽快速炒匀，回锅牛肉，撒上葱段出锅。",
+        "step_type": "active_cook",
+        "time_minutes": 3
+      }
+    ],
+    "tags": [
+      "中餐",
+      "粤菜",
+      "面食"
+    ],
+    "tools": "炒锅",
+    "image_prompt": "调用nano banana重新生成 粿条 (干炒) 的食谱图片。风格要求：顶尖美食杂志内页/艺术解构风。构图讲究层次美学，食材间可以有自然的摆放距离甚至轻微的空间分离层次；电影级打光，质感极其细腻超清，画面开胃惹眼且非常专业。",
+    "created_at": "2025-12-11 10:01:43"
+  },
+  {
+    "title": "海鲜葱饼",
+    "description": "韩式风格海鲜葱饼，外酥里嫩，海鲜鲜甜。",
+    "category": "晚餐",
+    "difficulty": "easy",
+    "prep_time": 15,
+    "cook_time": 10,
+    "ingredients": [
+      {
+        "name": "面粉",
+        "amount": 100,
+        "unit": "克"
+      },
+      {
+        "name": "小葱",
+        "amount": 100,
+        "unit": "克"
+      },
+      {
+        "name": "虾仁",
+        "amount": 100,
+        "unit": "克"
+      }
+    ],
+    "steps": [
+      {
+        "description": "调好面糊，葱切长段铺入锅底。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "淋上面糊并撒上海鲜，中火煎至两面金黄。",
+        "step_type": "active_cook",
+        "time_minutes": 10
+      }
+    ],
+    "tags": [
+      "中餐",
+      "海鲜",
+      "面食"
+    ],
+    "tools": "平底锅",
+    "image_prompt": "调用nano banana重新生成 海鲜葱饼 的食谱图片。风格要求：顶尖美食杂志内页/艺术解构风。构图讲究层次美学，食材间可以有自然的摆放距离甚至轻微的空间分离层次；电影级打光，质感极其细腻超清，画面开胃惹眼且非常专业。",
+    "created_at": "2026-02-19 17:31:14"
+  },
+  {
+    "title": "砂锅海鲜粥",
+    "description": "粥底软糯，海鲜鲜甜，滋补暖胃。",
+    "category": "晚餐",
+    "difficulty": "medium",
+    "prep_time": 20,
+    "cook_time": 45,
+    "ingredients": [
+      {
+        "name": "大米",
+        "amount": 150,
+        "unit": "克"
+      },
+      {
+        "name": "螃蟹",
+        "amount": 1,
+        "unit": "只"
+      },
+      {
+        "name": "鲜虾",
+        "amount": 6,
+        "unit": "只"
+      }
+    ],
+    "steps": [
+      {
+        "description": "大米熬粥，半途放入海鲜煮熟调味。",
+        "step_type": "active_cook",
+        "time_minutes": 45
+      }
+    ],
+    "tags": [
+      "中餐",
+      "海鲜",
+      "粥"
+    ],
+    "tools": "砂锅",
+    "image_prompt": "调用nano banana重新生成 砂锅海鲜粥 的食谱图片。风格要求：商业广告大片感。捕捉动感瞬间，例如食材轻微悬浮或酱汁动态飞溅；深色背景，对比强烈，景深效果明显；灯光极度讲究，高光锐利如精美工作室拍摄，边缘清晰，视觉冲击力极强。",
+    "created_at": "2026-01-18 18:23:11"
+  },
+  {
+    "title": "烤牛排骨",
+    "description": "特色：特别油腻，适合聚餐",
+    "category": "晚餐",
+    "difficulty": "medium",
+    "prep_time": 60,
+    "cook_time": 150,
+    "ingredients": [
+      {
+        "name": "牛排骨",
+        "amount": 1000,
+        "unit": "克"
+      },
+      {
+        "name": "红糖",
+        "amount": 2,
+        "unit": "克"
+      },
+      {
+        "name": "盐",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "辣椒粉",
+        "amount": 7,
+        "unit": "克"
+      },
+      {
+        "name": "蒜粉",
+        "amount": 7,
+        "unit": "克"
+      },
+      {
+        "name": "生姜粉",
+        "amount": 3,
+        "unit": "克"
+      }
+    ],
+    "steps": [
+      {
+        "description": "牛排泡水1小时，去血水",
+        "step_type": "prep",
+        "time_minutes": 60
+      },
+      {
+        "description": "抹上调料，腌过夜",
+        "step_type": "prep",
+        "time_minutes": 10
+      },
+      {
+        "description": "用锡纸包裹",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      },
+      {
+        "description": "烤箱300F，烤2.5小时",
+        "step_type": "active_cook",
+        "time_minutes": 150
+      }
+    ],
+    "tags": [
+      "中餐",
+      "牛肉",
+      "烤箱菜"
+    ],
+    "tools": "烤箱, 锡纸",
+    "image_prompt": "调用nano banana重新生成 烤牛排骨 的食谱图片。风格要求：商业广告大片感。捕捉动感瞬间，例如食材轻微悬浮或酱汁动态飞溅；深色背景，对比强烈，景深效果明显；灯光极度讲究，高光锐利如精美工作室拍摄，边缘清晰，视觉冲击力极强。",
+    "created_at": "2025-11-26 10:24:26"
+  },
+  {
+    "title": "泰式柠檬虾",
+    "description": "特色：酸甜可口，适合夏天",
+    "category": "凉菜",
+    "difficulty": "easy",
+    "prep_time": 15,
+    "cook_time": 10,
+    "ingredients": [
+      {
+        "name": "虾",
+        "amount": 300,
+        "unit": "克"
+      },
+      {
+        "name": "小墨鱼",
+        "amount": 200,
+        "unit": "克"
+      },
+      {
+        "name": "柠檬",
+        "amount": 1,
+        "unit": "个"
+      },
+      {
+        "name": "青辣椒",
+        "amount": 1,
+        "unit": "个"
+      },
+      {
+        "name": "红辣椒",
+        "amount": 1,
+        "unit": "个"
+      },
+      {
+        "name": "洋葱",
+        "amount": 0.5,
+        "unit": "个"
+      },
+      {
+        "name": "姜",
+        "amount": 3,
+        "unit": "片"
+      },
+      {
+        "name": "蒜",
+        "amount": 3,
+        "unit": "瓣"
+      },
+      {
+        "name": "香菜",
+        "amount": 5,
+        "unit": "根"
+      },
+      {
+        "name": "葱",
+        "amount": 1,
+        "unit": "根"
+      },
+      {
+        "name": "辣椒油",
+        "amount": 1,
+        "unit": "大勺"
+      },
+      {
+        "name": "生抽",
+        "amount": 3,
+        "unit": "大勺"
+      },
+      {
+        "name": "醋",
+        "amount": 2,
+        "unit": "大勺"
+      },
+      {
+        "name": "麻油",
+        "amount": 1,
+        "unit": "大勺"
+      },
+      {
+        "name": "白糖",
+        "amount": 1,
+        "unit": "小勺"
+      },
+      {
+        "name": "盐",
+        "amount": 1,
+        "unit": "小勺"
+      },
+      {
+        "name": "胡椒粉",
+        "amount": 0.33,
+        "unit": "小勺"
+      },
+      {
+        "name": "黄瓜(可选)",
+        "amount": 1,
+        "unit": "根"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将虾和小墨鱼处理干净，放入蒸锅蒸熟，取出后立即浸泡在冰水中以保持Q弹口感。",
+        "step_type": "active_cook",
+        "time_minutes": 10
+      },
+      {
+        "description": "柠檬切薄片，姜切丝，青红辣椒切圈，洋葱、蒜、香菜和葱切碎备用。",
+        "step_type": "prep",
+        "time_minutes": 10
+      },
+      {
+        "description": "将所有调味料（辣椒油、生抽、醋、麻油、白糖、盐、胡椒粉）在碗中混匀，倒入主料和配料中充分拌匀即可。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      }
+    ],
+    "tags": [
+      "泰式",
+      "海鲜",
+      "凉菜",
+      "酸甜"
+    ],
+    "tools": "蒸锅、碗",
+    "image_prompt": "调用nano banana重新生成 泰式柠檬虾 的食谱图片。风格要求：极简构图（留白多，主体突出，每张食物都摆得很“干净”）；暗调高级感（深色背景、低饱和度，营造出比较精致的餐饮广告气质）；自然光静物摄影感（食物质感很强，偏真实、克制，不是夸张鲜艳的电商风）；品牌视觉/菜单视觉风格（很像咖啡馆、轻食店、餐厅品牌官网常见的视觉方向）。",
+    "created_at": "2025-12-21 19:16:14"
+  },
+  {
+    "title": "日式溏心蛋",
+    "description": "特色：搭配面条，口感鲜美，蛋黄半熟流心。",
+    "category": "配菜",
+    "difficulty": "easy",
+    "prep_time": 10,
+    "cook_time": 15,
+    "ingredients": [
+      {
+        "name": "鸡蛋",
+        "amount": 4,
+        "unit": "个"
+      },
+      {
+        "name": "可乐",
+        "amount": 300,
+        "unit": "毫升"
+      },
+      {
+        "name": "米酒",
+        "amount": 100,
+        "unit": "毫升"
+      },
+      {
+        "name": "酱油",
+        "amount": 100,
+        "unit": "毫升"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将可乐、米酒、酱油按3:1:1的比例倒入锅中，烧开后转小火微煮。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      },
+      {
+        "description": "放入鸡蛋，煮约9分钟。",
+        "step_type": "active_cook",
+        "time_minutes": 9
+      },
+      {
+        "description": "取出鸡蛋立即浸入冰水中，彻底降温后剥去蛋壳。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "等待卤汁完全凉透，将剥好的鸡蛋放入卤汁中，密封冷藏浸泡过夜即可。",
+        "step_type": "prep",
+        "time_minutes": 5
+      }
+    ],
+    "tags": [
+      "日式",
+      "鸡蛋",
+      "溏心蛋",
+      "快手菜"
+    ],
+    "tools": "煮锅, 冰水碗",
+    "image_prompt": "调用nano banana重新生成 日式溏心蛋 的食谱图片。风格要求：商业广告大片感。捕捉动感瞬间，例如食材轻微悬浮或酱汁动态飞溅；深色背景，对比强烈，景深效果明显；灯光极度讲究，高光锐利如精美工作室拍摄，边缘清晰，视觉冲击力极强。",
+    "created_at": "2025-10-12 04:21:49"
+  },
+  {
+    "title": "烤牛仔骨",
+    "description": "经典韩式风味烤牛仔骨，肉质鲜嫩，腌制入味后通过烤箱烘烤，操作简便且美味。",
+    "category": "晚餐",
+    "difficulty": "easy",
+    "prep_time": 10,
+    "cook_time": 25,
+    "ingredients": [
+      {
+        "name": "牛小排",
+        "amount": 500,
+        "unit": "克"
+      },
+      {
+        "name": "盐",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "胡椒粉",
+        "amount": 1,
+        "unit": "克"
+      },
+      {
+        "name": "生抽",
+        "amount": 10,
+        "unit": "克"
+      },
+      {
+        "name": "韩国烤肉酱",
+        "amount": 35,
+        "unit": "克"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将牛小排清洗干净并沥干水分，加入盐、胡椒粉、生抽和韩国烤肉酱均匀涂抹并腌制。",
+        "step_type": "prep",
+        "time_minutes": 10
+      },
+      {
+        "description": "烤箱预热至 375°F (约 190°C)。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      },
+      {
+        "description": "将腌制好的牛仔骨放入烤箱中层，烘烤 20 分钟即可出炉。",
+        "step_type": "active_cook",
+        "time_minutes": 20
+      }
+    ],
+    "tags": [
+      "牛肉",
+      "烤箱菜",
+      "韩式风味"
+    ],
+    "tools": "烤箱",
+    "image_prompt": "调用nano banana重新生成 烤牛仔骨 的食谱图片。风格要求：顶尖美食杂志内页/艺术解构风。构图讲究层次美学，食材间可以有自然的摆放距离甚至轻微的空间分离层次；电影级打光，质感极其细腻超清，画面开胃惹眼且非常专业。",
+    "created_at": "2026-02-14 17:51:04"
+  },
+  {
+    "title": "烤鸡腿（辣）",
+    "description": "一款香辣入味的烤鸡腿，使用多种调料腌制，外焦里嫩，适合作为午餐或晚餐的主食。",
+    "category": "晚餐",
+    "difficulty": "medium",
+    "prep_time": 20,
+    "cook_time": 30,
+    "ingredients": [
+      {
+        "name": "鸡腿/鸡翅",
+        "amount": 500,
+        "unit": "克"
+      },
+      {
+        "name": "姜",
+        "amount": 5,
+        "unit": "片"
+      },
+      {
+        "name": "蒜",
+        "amount": 3,
+        "unit": "瓣"
+      },
+      {
+        "name": "葱",
+        "amount": 1,
+        "unit": "根"
+      },
+      {
+        "name": "西芹",
+        "amount": 1,
+        "unit": "适量"
+      },
+      {
+        "name": "生抽",
+        "amount": 20,
+        "unit": "克"
+      },
+      {
+        "name": "蚝油",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "油",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "盐",
+        "amount": 3,
+        "unit": "克"
+      },
+      {
+        "name": "胡椒粉",
+        "amount": 1,
+        "unit": "克"
+      },
+      {
+        "name": "烤鸡粉",
+        "amount": 10,
+        "unit": "克"
+      },
+      {
+        "name": "韩国辣椒粉",
+        "amount": 10,
+        "unit": "克"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将姜片、蒜片、葱圈、西芹以及所有调料倒入鸡肉中，充分抓匀后腌制过夜。",
+        "step_type": "prep",
+        "time_minutes": 15
+      },
+      {
+        "description": "将腌制好的鸡肉放入烤盘，并将腌制用的配料铺在鸡肉上面。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "烤箱预热至425°F（约218°C），将烤盘放入烤箱烤制30分钟即可。",
+        "step_type": "active_cook",
+        "time_minutes": 30
+      }
+    ],
+    "tags": [
+      "烤箱菜",
+      "鸡腿",
+      "香辣",
+      "中餐"
+    ],
+    "tools": "烤箱, 烤盘",
+    "image_prompt": "调用nano banana重新生成 烤鸡腿（辣） 的食谱图片。风格要求：顶尖美食杂志内页/艺术解构风。构图讲究层次美学，食材间可以有自然的摆放距离甚至轻微的空间分离层次；电影级打光，质感极其细腻超清，画面开胃惹眼且非常专业。",
+    "created_at": "2025-10-11 17:07:04"
+  },
+  {
+    "title": "咖喱味烤鸡腿",
+    "description": "一道简单快捷的咖喱风味烤鸡腿，口感鲜嫩，带有孜然和柠檬的清香。",
+    "category": "晚餐",
+    "difficulty": "easy",
+    "prep_time": 10,
+    "cook_time": 20,
+    "ingredients": [
+      {
+        "name": "鸡腿",
+        "amount": 4,
+        "unit": "只"
+      },
+      {
+        "name": "盐",
+        "amount": 6,
+        "unit": "克"
+      },
+      {
+        "name": "蒜粉",
+        "amount": 1,
+        "unit": "大勺"
+      },
+      {
+        "name": "孜然",
+        "amount": 1,
+        "unit": "小勺"
+      },
+      {
+        "name": "生姜沫",
+        "amount": 2,
+        "unit": "小勺"
+      },
+      {
+        "name": "植物油",
+        "amount": 0.5,
+        "unit": "杯"
+      },
+      {
+        "name": "柠檬汁",
+        "amount": 1,
+        "unit": "大勺"
+      },
+      {
+        "name": "水",
+        "amount": 1,
+        "unit": "大勺"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将鸡腿切开，方便入味。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "将盐、蒜粉、孜然、生姜沫、植物油、柠檬汁和水混合成腌料，均匀涂抹在鸡腿上。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "烤箱预热至375°F。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "将鸡腿放入烤箱中层，烘烤20分钟即可。",
+        "step_type": "active_cook",
+        "time_minutes": 20
+      }
+    ],
+    "tags": [
+      "中餐",
+      "鸡肉",
+      "烤箱菜"
+    ],
+    "tools": "烤箱",
+    "image_prompt": "调用nano banana重新生成 咖喱味烤鸡腿 的食谱图片。风格要求：具有可售卖感的高级实体商品陈列/精美餐盒展示风格。稍微偏斜的俯拍平铺视角，食物像是在精致餐器或外带盒中进行着完美的组合陈列；极其强调真实食材的油润光泽和立体拼搭。",
+    "created_at": "2026-01-24 23:55:14"
+  },
+  {
+    "title": "烤排骨",
+    "description": "简单快捷的家庭式烤排骨，使用网格烤盘中途无需翻面，口感咸鲜微甜。",
+    "category": "晚餐",
+    "difficulty": "easy",
+    "prep_time": 17,
+    "cook_time": 27,
+    "ingredients": [
+      {
+        "name": "排骨",
+        "amount": 5,
+        "unit": "根"
+      },
+      {
+        "name": "盐",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "酱油",
+        "amount": 10,
+        "unit": "克"
+      },
+      {
+        "name": "料酒",
+        "amount": 15,
+        "unit": "克"
+      },
+      {
+        "name": "排骨酱或叉烧酱",
+        "amount": 20,
+        "unit": "克"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将排骨清洗干净，加入盐、酱油和料酒，拌匀腌制15分钟。",
+        "step_type": "prep",
+        "time_minutes": 15
+      },
+      {
+        "description": "烤箱预热至400°F，将排骨放在网格状烤盘上，烘烤22分钟。使用网格状烤盘中途无需翻面。",
+        "step_type": "active_cook",
+        "time_minutes": 22
+      },
+      {
+        "description": "取出排骨，在表面均匀刷上排骨酱或叉烧酱。",
+        "step_type": "prep",
+        "time_minutes": 2
+      },
+      {
+        "description": "将烤箱调至broil（上火）模式，400°F继续烤5分钟即可。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      }
+    ],
+    "tags": [
+      "中餐",
+      "猪肉",
+      "烤箱菜"
+    ],
+    "tools": "烤箱, 网格状烤盘",
+    "image_prompt": "调用nano banana重新生成 烤排骨 的食谱图片。风格要求：商业广告大片感。捕捉动感瞬间，例如食材轻微悬浮或酱汁动态飞溅；深色背景，对比强烈，景深效果明显；灯光极度讲究，高光锐利如精美工作室拍摄，边缘清晰，视觉冲击力极强。",
+    "created_at": "2026-02-23 15:38:17"
+  },
+  {
+    "title": "鸡腿蘸料",
+    "description": "这是一道非常适合夏天的特色凉菜，口感清爽，麻辣鲜香。",
+    "category": "凉菜",
+    "difficulty": "easy",
+    "prep_time": 10,
+    "cook_time": 25,
+    "ingredients": [
+      {
+        "name": "鸡腿",
+        "amount": 1,
+        "unit": "个"
+      },
+      {
+        "name": "高汤",
+        "amount": 20,
+        "unit": "克"
+      },
+      {
+        "name": "生抽",
+        "amount": 20,
+        "unit": "克"
+      },
+      {
+        "name": "醋",
+        "amount": 10,
+        "unit": "克"
+      },
+      {
+        "name": "白糖",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "辣椒油",
+        "amount": 1,
+        "unit": "勺"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将鸡腿放入蒸锅蒸熟",
+        "step_type": "active_cook",
+        "time_minutes": 20
+      },
+      {
+        "description": "将蒸熟的鸡腿肉切成丁状",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "将高汤、生抽、醋、白糖和辣椒油混合均匀",
+        "step_type": "active_cook",
+        "time_minutes": 2
+      },
+      {
+        "description": "将调好的汁水均匀浇在鸡丁上即可",
+        "step_type": "active_cook",
+        "time_minutes": 1
+      }
+    ],
+    "tags": [
+      "中餐",
+      "鸡腿",
+      "凉菜",
+      "夏日必备"
+    ],
+    "tools": "蒸锅",
+    "image_prompt": "调用nano banana重新生成 鸡腿蘸料 的食谱图片。风格要求：极简构图（留白多，主体突出，每张食物都摆得很“干净”）；暗调高级感（深色背景、低饱和度，营造出比较精致的餐饮广告气质）；自然光静物摄影感（食物质感很强，偏真实、克制，不是夸张鲜艳的电商风）；品牌视觉/菜单视觉风格（很像咖啡馆、轻食店、餐厅品牌官网常见的视觉方向）。",
+    "created_at": "2026-02-25 18:43:23"
+  },
+  {
+    "title": "芥末虾球",
+    "description": "一道口感酥脆、清新爽口的芥末虾球，搭配沙拉酱和芥末，风味独特。",
+    "category": "正餐",
+    "difficulty": "easy",
+    "prep_time": 40,
+    "cook_time": 10,
+    "ingredients": [
+      {
+        "name": "虾",
+        "amount": 200,
+        "unit": "克"
+      },
+      {
+        "name": "面包糠",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "沙拉酱",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "芥末",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "盐",
+        "amount": 1,
+        "unit": "茶匙"
+      },
+      {
+        "name": "胡椒粉",
+        "amount": 0.33,
+        "unit": "茶匙"
+      },
+      {
+        "name": "柠檬汁",
+        "amount": 5,
+        "unit": "滴"
+      },
+      {
+        "name": "蛋黄",
+        "amount": 1,
+        "unit": "个"
+      },
+      {
+        "name": "食用油",
+        "amount": 1,
+        "unit": "汤匙"
+      },
+      {
+        "name": "芒果",
+        "amount": 0,
+        "unit": "可选"
+      }
+    ],
+    "steps": [
+      {
+        "description": "虾去头去壳，调入盐、胡椒粉、柠檬汁、蛋黄和食用油，腌制半小时。",
+        "step_type": "prep",
+        "time_minutes": 30
+      },
+      {
+        "description": "将腌好的虾球裹上面包糠（若无面包糠，可用蛋黄调入玉米淀粉替代），放入空气炸锅，400°F（约200°C）加热10分钟。",
+        "step_type": "active_cook",
+        "time_minutes": 10
+      },
+      {
+        "description": "将沙拉酱和芥末酱按个人口味混合，均匀抹在炸好的虾球上。可根据喜好加入芒果块装饰。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      }
+    ],
+    "tags": [
+      "海鲜",
+      "空气炸锅",
+      "中餐"
+    ],
+    "tools": "空气炸锅",
+    "image_prompt": "调用nano banana重新生成 芥末虾球 的食谱图片。风格要求：生活方式融合的清新旅游风。背景可以展现温暖的异国阳光、自然绿植阴影或明亮的街道模糊背景；色调明快饱满但不失真实，主打治愈系与真实的户外氛围感，不夸张。",
+    "created_at": "2025-11-10 05:46:26"
+  },
+  {
+    "title": "猪肉豆皮锅",
+    "description": "詹姆士（James）分享的家常火锅，利用豆浆和坚果酱打造浓郁滑顺、无需奶油的火锅汤底。",
+    "category": "晚餐",
+    "difficulty": "easy",
+    "prep_time": 10,
+    "cook_time": 15,
+    "ingredients": [
+      {
+        "name": "猪五花肉片",
+        "amount": 1,
+        "unit": "盒"
+      },
+      {
+        "name": "生豆皮",
+        "amount": 3,
+        "unit": "片"
+      },
+      {
+        "name": "豆瓣酱",
+        "amount": 1,
+        "unit": "大勺"
+      },
+      {
+        "name": "味噌",
+        "amount": 2,
+        "unit": "大勺"
+      },
+      {
+        "name": "无糖豆浆",
+        "amount": 200,
+        "unit": "毫升"
+      },
+      {
+        "name": "辣椒油",
+        "amount": 1,
+        "unit": "大勺"
+      },
+      {
+        "name": "花椒坚果酱",
+        "amount": 1,
+        "unit": "大勺"
+      },
+      {
+        "name": "葱花",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "白芝麻",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "水",
+        "amount": 600,
+        "unit": "毫升"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将猪五花肉片放入锅中，煸炒至出油且散发香味。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      },
+      {
+        "description": "锅中加入600毫升水、味噌、豆瓣酱和少许酱油。将生豆皮撕成条状放入锅中一同煮沸。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      },
+      {
+        "description": "加入花椒坚果酱调味。随后倒入无糖豆浆，并立即转小火，避免豆浆因高温结块。",
+        "step_type": "active_cook",
+        "time_minutes": 3
+      },
+      {
+        "description": "出锅前淋上辣椒油，撒上葱花和白芝麻增加香气即可完成。",
+        "step_type": "active_cook",
+        "time_minutes": 2
+      }
+    ],
+    "tags": [
+      "中餐",
+      "猪肉",
+      "火锅",
+      "詹姆士",
+      "家常菜"
+    ],
+    "tools": "炒锅或汤锅",
+    "image_prompt": "调用nano banana重新生成 猪肉豆皮锅 的食谱图片。风格要求：顶尖美食杂志内页/艺术解构风。构图讲究层次美学，食材间可以有自然的摆放距离甚至轻微的空间分离层次；电影级打光，质感极其细腻超清，画面开胃惹眼且非常专业。",
+    "created_at": "2025-10-18 13:41:57"
+  },
+  {
+    "title": "电饭煲红烧牛肉",
+    "description": "利用电饭煲的炖煮功能，轻松做出软烂入味、汤汁浓郁的红烧牛肉，非常适合忙碌的家庭厨师。",
+    "category": "晚餐",
+    "difficulty": "easy",
+    "prep_time": 20,
+    "cook_time": 90,
+    "ingredients": [
+      {
+        "name": "牛肉",
+        "amount": 500,
+        "unit": "克"
+      },
+      {
+        "name": "白萝卜",
+        "amount": 300,
+        "unit": "克"
+      },
+      {
+        "name": "葱",
+        "amount": 2,
+        "unit": "根"
+      },
+      {
+        "name": "姜",
+        "amount": 3,
+        "unit": "片"
+      },
+      {
+        "name": "蒜",
+        "amount": 3,
+        "unit": "瓣"
+      },
+      {
+        "name": "八角",
+        "amount": 2,
+        "unit": "个"
+      },
+      {
+        "name": "桂皮",
+        "amount": 1,
+        "unit": "片"
+      },
+      {
+        "name": "生抽",
+        "amount": 2,
+        "unit": "大勺"
+      },
+      {
+        "name": "老抽",
+        "amount": 1,
+        "unit": "大勺"
+      },
+      {
+        "name": "料酒",
+        "amount": 1,
+        "unit": "大勺"
+      },
+      {
+        "name": "冰糖",
+        "amount": 10,
+        "unit": "克"
+      },
+      {
+        "name": "盐",
+        "amount": 5,
+        "unit": "克"
+      }
+    ],
+    "steps": [
+      {
+        "description": "牛肉切成3厘米见方的块，冷水下锅，加入1勺料酒和2片姜，水开后撇去浮沫，捞出牛肉用温水冲洗干净备用。",
+        "step_type": "prep",
+        "time_minutes": 10
+      },
+      {
+        "description": "白萝卜洗净去皮，切成块；葱切段，姜切片，蒜剥好备用。",
+        "step_type": "prep",
+        "time_minutes": 10
+      },
+      {
+        "description": "将焯过水的牛肉放入电饭煲中，加入萝卜块、葱段、姜片、蒜瓣、八角、桂皮、生抽、老抽、冰糖和足量的温水（没过食材）。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      },
+      {
+        "description": "按下电饭煲的“炖煮”或“煮汤”键，设置时长为90分钟。煮至牛肉软烂即可。",
+        "step_type": "active_cook",
+        "time_minutes": 80
+      },
+      {
+        "description": "最后加入适量盐调味，出锅后撒上新鲜葱花即可享用。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      }
+    ],
+    "tags": [
+      "中餐",
+      "牛肉",
+      "电饭煲",
+      "家常菜"
+    ],
+    "tools": "电饭煲",
+    "image_prompt": "调用nano banana重新生成 电饭煲红烧牛肉 的食谱图片。风格要求：生活方式融合的清新旅游风。背景可以展现温暖的异国阳光、自然绿植阴影或明亮的街道模糊背景；色调明快饱满但不失真实，主打治愈系与真实的户外氛围感，不夸张。",
+    "created_at": "2025-10-29 22:46:39"
+  },
+  {
+    "title": "高压锅牛骨牛肉汤",
+    "description": "使用高压锅制作的牛骨汤，对比慢炖得到的白汤，高压锅版本通常为清汤。此做法加入了牛肉和萝卜，营养丰富。",
+    "category": "晚餐",
+    "difficulty": "medium",
+    "prep_time": 25,
+    "cook_time": 120,
+    "ingredients": [
+      {
+        "name": "牛骨头（腿骨、骨髓骨）",
+        "amount": 1800,
+        "unit": "克"
+      },
+      {
+        "name": "牛肉",
+        "amount": 900,
+        "unit": "克"
+      },
+      {
+        "name": "白萝卜",
+        "amount": 1,
+        "unit": "个"
+      },
+      {
+        "name": "洋葱",
+        "amount": 1,
+        "unit": "个"
+      },
+      {
+        "name": "水",
+        "amount": 3300,
+        "unit": "毫升"
+      },
+      {
+        "name": "盐",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "黑胡椒",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "葱花",
+        "amount": 0,
+        "unit": "适量"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将牛骨和牛肉放入冷水中浸泡20分钟",
+        "step_type": "prep",
+        "time_minutes": 20
+      },
+      {
+        "description": "用冷水多次冲洗牛骨，洗净杂质",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "大锅烧水（约14杯量），水开后放入牛骨和牛肉煮10分钟去血水",
+        "step_type": "active_cook",
+        "time_minutes": 10
+      },
+      {
+        "description": "将处理好的骨头放入高压锅，高压煮60分钟",
+        "step_type": "active_cook",
+        "time_minutes": 60
+      },
+      {
+        "description": "自然等待20分钟放气，然后手动快速放完余气",
+        "step_type": "active_cook",
+        "time_minutes": 20
+      },
+      {
+        "description": "加入牛肉、萝卜和洋葱，再次高压煮20分钟",
+        "step_type": "active_cook",
+        "time_minutes": 20
+      },
+      {
+        "description": "等待其自然慢速放气后开盖，加入盐、黑胡椒及葱花调味",
+        "step_type": "active_cook",
+        "time_minutes": 10
+      }
+    ],
+    "tags": [
+      "中餐",
+      "牛肉",
+      "汤"
+    ],
+    "tools": "高压锅, 大锅",
+    "image_prompt": "调用nano banana重新生成 高压锅牛骨牛肉汤 的食谱图片。风格要求：极简构图（留白多，主体突出，每张食物都摆得很“干净”）；暗调高级感（深色背景、低饱和度，营造出比较精致的餐饮广告气质）；自然光静物摄影感（食物质感很强，偏真实、克制，不是夸张鲜艳的电商风）；品牌视觉/菜单视觉风格（很像咖啡馆、轻食店、餐厅品牌官网常见的视觉方向）。",
+    "created_at": "2026-02-10 08:23:11"
+  },
+  {
+    "title": "电饭煲清炖牛肉汤面",
+    "description": "这是一款利用电饭煲制作的简易牛肉汤，汤色奶白，牛肉软烂，搭配劲道的面条和清香的葱花，既营养又美味。适合忙碌时段轻松搞定的一餐。",
+    "category": "午餐/晚餐",
+    "difficulty": "easy",
+    "prep_time": 15,
+    "cook_time": 90,
+    "ingredients": [
+      {
+        "name": "牛肉 (牛腱或牛腩)",
+        "amount": 500,
+        "unit": "克"
+      },
+      {
+        "name": "面条",
+        "amount": 200,
+        "unit": "克"
+      },
+      {
+        "name": "大葱",
+        "amount": 30,
+        "unit": "克"
+      },
+      {
+        "name": "姜片",
+        "amount": 10,
+        "unit": "克"
+      },
+      {
+        "name": "清水",
+        "amount": 1500,
+        "unit": "毫升"
+      },
+      {
+        "name": "盐",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "黑胡椒粉",
+        "amount": 2,
+        "unit": "克"
+      }
+    ],
+    "steps": [
+      {
+        "description": "牛肉洗净切成大块，冷水下锅焯水去血沫，捞出洗净备用。",
+        "step_type": "prep",
+        "time_minutes": 10
+      },
+      {
+        "description": "将焯好的牛肉、姜片放入电饭煲内胆，加入足量清水。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "开启电饭煲“煲汤”或“炖煮”模式，时间设定为90分钟。",
+        "step_type": "active_cook",
+        "time_minutes": 90
+      },
+      {
+        "description": "煮好后，加入面条煮熟（可另起锅煮熟捞入汤中），加入盐和黑胡椒调味。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      },
+      {
+        "description": "撒上大量切好的葱花即可出锅食用。",
+        "step_type": "prep",
+        "time_minutes": 2
+      }
+    ],
+    "tags": [
+      "中餐",
+      "牛肉",
+      "汤面",
+      "电饭煲菜谱"
+    ],
+    "tools": "电饭煲",
+    "image_prompt": "调用nano banana重新生成 电饭煲清炖牛肉汤面 的食谱图片。风格要求：具有可售卖感的高级实体商品陈列/精美餐盒展示风格。稍微偏斜的俯拍平铺视角，食物像是在精致餐器或外带盒中进行着完美的组合陈列；极其强调真实食材的油润光泽和立体拼搭。",
+    "created_at": "2025-12-04 06:45:43"
+  },
+  {
+    "title": "芝士蘑菇盅",
+    "description": "肉香与菌菇香完美融合，搭配浓郁芝士，口感丰富。",
+    "category": "晚餐",
+    "difficulty": "medium",
+    "prep_time": 40,
+    "cook_time": 20,
+    "ingredients": [
+      {
+        "name": "蘑菇",
+        "amount": 10,
+        "unit": "个"
+      },
+      {
+        "name": "肉糜",
+        "amount": 200,
+        "unit": "克"
+      },
+      {
+        "name": "黄酒",
+        "amount": 10,
+        "unit": "毫升"
+      },
+      {
+        "name": "黑胡椒",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "鸡蛋",
+        "amount": 1,
+        "unit": "个"
+      },
+      {
+        "name": "芝士",
+        "amount": 50,
+        "unit": "克"
+      }
+    ],
+    "steps": [
+      {
+        "description": "蘑菇洗净，将梗掰下留伞盖",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "肉糜加入黄酒、黑胡椒、鸡蛋搅拌均匀，静置半小时",
+        "step_type": "prep",
+        "time_minutes": 30
+      },
+      {
+        "description": "将肉馅填入蘑菇伞盖中",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "空气炸锅180度，烤15分钟",
+        "step_type": "active_cook",
+        "time_minutes": 15
+      },
+      {
+        "description": "撒上芝士，继续烤5分钟直到融化",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      }
+    ],
+    "tags": [
+      "空气炸锅",
+      "中餐",
+      "蘑菇",
+      "芝士"
+    ],
+    "tools": "空气炸锅",
+    "image_prompt": "调用nano banana重新生成 芝士蘑菇盅 的食谱图片。风格要求：商业广告大片感。捕捉动感瞬间，例如食材轻微悬浮或酱汁动态飞溅；深色背景，对比强烈，景深效果明显；灯光极度讲究，高光锐利如精美工作室拍摄，边缘清晰，视觉冲击力极强。",
+    "created_at": "2025-12-26 20:44:01"
+  },
+  {
+    "title": "空气炸锅茄夹",
+    "description": "外脆里嫩的经典家常菜，空气炸锅版更少油健康。",
+    "category": "晚餐",
+    "difficulty": "medium",
+    "prep_time": 45,
+    "cook_time": 15,
+    "ingredients": [
+      {
+        "name": "大茄子",
+        "amount": 1,
+        "unit": "根"
+      },
+      {
+        "name": "肉糜",
+        "amount": 200,
+        "unit": "克"
+      },
+      {
+        "name": "黄酒",
+        "amount": 10,
+        "unit": "毫升"
+      },
+      {
+        "name": "黑胡椒",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "鸡蛋",
+        "amount": 1,
+        "unit": "个"
+      },
+      {
+        "name": "食用油",
+        "amount": 10,
+        "unit": "毫升"
+      }
+    ],
+    "steps": [
+      {
+        "description": "茄子切成两片相连的夹心状",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "肉糜加入黄酒、黑胡椒、鸡蛋搅拌均匀，静置半小时",
+        "step_type": "prep",
+        "time_minutes": 30
+      },
+      {
+        "description": "将肉馅塞入茄子片中，表面刷油并撒黑胡椒",
+        "step_type": "prep",
+        "time_minutes": 10
+      },
+      {
+        "description": "空气炸锅180度，烤15分钟",
+        "step_type": "active_cook",
+        "time_minutes": 15
+      }
+    ],
+    "tags": [
+      "空气炸锅",
+      "中餐",
+      "茄子",
+      "肉糜"
+    ],
+    "tools": "空气炸锅",
+    "image_prompt": "调用nano banana重新生成 空气炸锅茄夹 的食谱图片。风格要求：极简构图（留白多，主体突出，每张食物都摆得很“干净”）；暗调高级感（深色背景、低饱和度，营造出比较精致的餐饮广告气质）；自然光静物摄影感（食物质感很强，偏真实、克制，不是夸张鲜艳的电商风）；品牌视觉/菜单视觉风格（很像咖啡馆、轻食店、餐厅品牌官网常见的视觉方向）。",
+    "created_at": "2026-02-22 13:22:21"
+  },
+  {
+    "title": "椒盐鸡软骨",
+    "description": "香脆可口的下酒好菜，油分更少更清爽。",
+    "category": "晚餐",
+    "difficulty": "easy",
+    "prep_time": 360,
+    "cook_time": 20,
+    "ingredients": [
+      {
+        "name": "鸡软骨",
+        "amount": 300,
+        "unit": "克"
+      },
+      {
+        "name": "黄酒",
+        "amount": 15,
+        "unit": "毫升"
+      },
+      {
+        "name": "黑胡椒",
+        "amount": 5,
+        "unit": "克"
+      }
+    ],
+    "steps": [
+      {
+        "description": "鸡软骨加入黄酒和黑胡椒，腌制半天以上去除腥味",
+        "step_type": "prep",
+        "time_minutes": 360
+      },
+      {
+        "description": "空气炸锅180度，烤20分钟至出油变脆",
+        "step_type": "active_cook",
+        "time_minutes": 20
+      }
+    ],
+    "tags": [
+      "空气炸锅",
+      "中餐",
+      "鸡软骨",
+      "下酒菜"
+    ],
+    "tools": "空气炸锅",
+    "image_prompt": "调用nano banana重新生成 椒盐鸡软骨 的食谱图片。风格要求：具有可售卖感的高级实体商品陈列/精美餐盒展示风格。稍微偏斜的俯拍平铺视角，食物像是在精致餐器或外带盒中进行着完美的组合陈列；极其强调真实食材的油润光泽和立体拼搭。",
+    "created_at": "2026-01-10 13:32:46"
+  },
+  {
+    "title": "烤鸡翅",
+    "description": "经典空气炸锅美食，外皮酥脆，油脂丰富。",
+    "category": "晚餐",
+    "difficulty": "easy",
+    "prep_time": 20,
+    "cook_time": 20,
+    "ingredients": [
+      {
+        "name": "鸡翅",
+        "amount": 6,
+        "unit": "只"
+      },
+      {
+        "name": "黄酒",
+        "amount": 10,
+        "unit": "毫升"
+      },
+      {
+        "name": "黑胡椒",
+        "amount": 5,
+        "unit": "克"
+      }
+    ],
+    "steps": [
+      {
+        "description": "鸡翅用黄酒和黑胡椒腌制约20分钟",
+        "step_type": "prep",
+        "time_minutes": 20
+      },
+      {
+        "description": "空气炸锅180度，烤20分钟",
+        "step_type": "active_cook",
+        "time_minutes": 20
+      }
+    ],
+    "tags": [
+      "空气炸锅",
+      "鸡翅",
+      "肉类"
+    ],
+    "tools": "空气炸锅",
+    "image_prompt": "调用nano banana重新生成 烤鸡翅 的食谱图片。风格要求：顶尖美食杂志内页/艺术解构风。构图讲究层次美学，食材间可以有自然的摆放距离甚至轻微的空间分离层次；电影级打光，质感极其细腻超清，画面开胃惹眼且非常专业。",
+    "created_at": "2026-01-02 14:18:53"
+  },
+  {
+    "title": "芝士猪排",
+    "description": "浓郁芝士覆盖在鲜嫩猪排上，西式风味十足。",
+    "category": "晚餐",
+    "difficulty": "easy",
+    "prep_time": 15,
+    "cook_time": 20,
+    "ingredients": [
+      {
+        "name": "猪排",
+        "amount": 2,
+        "unit": "块"
+      },
+      {
+        "name": "生抽",
+        "amount": 10,
+        "unit": "毫升"
+      },
+      {
+        "name": "黄酒",
+        "amount": 10,
+        "unit": "毫升"
+      },
+      {
+        "name": "黑胡椒",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "芝士",
+        "amount": 40,
+        "unit": "克"
+      }
+    ],
+    "steps": [
+      {
+        "description": "猪排用生抽、黄酒和黑胡椒腌制",
+        "step_type": "prep",
+        "time_minutes": 15
+      },
+      {
+        "description": "放入炸锅，180度烤15分钟",
+        "step_type": "active_cook",
+        "time_minutes": 15
+      },
+      {
+        "description": "铺上芝士，再烤5分钟直到融化",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      }
+    ],
+    "tags": [
+      "空气炸锅",
+      "猪排",
+      "芝士"
+    ],
+    "tools": "空气炸锅",
+    "image_prompt": "调用nano banana重新生成 芝士猪排 的食谱图片。风格要求：生活方式融合的清新旅游风。背景可以展现温暖的异国阳光、自然绿植阴影或明亮的街道模糊背景；色调明快饱满但不失真实，主打治愈系与真实的户外氛围感，不夸张。",
+    "created_at": "2026-02-07 10:14:59"
+  },
+  {
+    "title": "香椿头炖蛋",
+    "description": "季节性限定美食，香椿的独特香味与蛋液融合，口感如蛋糕般绵密。",
+    "category": "晚餐",
+    "difficulty": "easy",
+    "prep_time": 10,
+    "cook_time": 20,
+    "ingredients": [
+      {
+        "name": "香椿头",
+        "amount": 50,
+        "unit": "克"
+      },
+      {
+        "name": "鸡蛋",
+        "amount": 3,
+        "unit": "个"
+      },
+      {
+        "name": "盐",
+        "amount": 3,
+        "unit": "克"
+      },
+      {
+        "name": "味精",
+        "amount": 1,
+        "unit": "克"
+      },
+      {
+        "name": "黄油",
+        "amount": 10,
+        "unit": "克"
+      },
+      {
+        "name": "黑胡椒",
+        "amount": 2,
+        "unit": "克"
+      }
+    ],
+    "steps": [
+      {
+        "description": "香椿头切碎，与蛋液混合，加入盐、味精、融化的黄油和黑胡椒搅拌均匀",
+        "step_type": "prep",
+        "time_minutes": 10
+      },
+      {
+        "description": "空气炸锅180度，烤20分钟",
+        "step_type": "active_cook",
+        "time_minutes": 20
+      },
+      {
+        "description": "取出倒扣在盘中即可食用",
+        "step_type": "active_cook",
+        "time_minutes": 0
+      }
+    ],
+    "tags": [
+      "空气炸锅",
+      "香椿",
+      "鸡蛋",
+      "家常菜"
+    ],
+    "tools": "空气炸锅",
+    "image_prompt": "调用nano banana重新生成 香椿头炖蛋 的食谱图片。风格要求：具有可售卖感的高级实体商品陈列/精美餐盒展示风格。稍微偏斜的俯拍平铺视角，食物像是在精致餐器或外带盒中进行着完美的组合陈列；极其强调真实食材的油润光泽和立体拼搭。",
+    "created_at": "2026-02-18 00:40:32"
+  },
+  {
+    "title": "免油炸龙虾片",
+    "description": "无需油炸的酥脆零食，更加健康。",
+    "category": "甜点",
+    "difficulty": "easy",
+    "prep_time": 1,
+    "cook_time": 5,
+    "ingredients": [
+      {
+        "name": "龙虾片",
+        "amount": 20,
+        "unit": "片"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将龙虾片平铺在空气炸锅中，尽量不要重叠",
+        "step_type": "prep",
+        "time_minutes": 1
+      },
+      {
+        "description": "空气炸锅烘烤5分钟即可",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      }
+    ],
+    "tags": [
+      "空气炸锅",
+      "零食",
+      "龙虾片"
+    ],
+    "tools": "空气炸锅",
+    "image_prompt": "调用nano banana重新生成 免油炸龙虾片 的食谱图片。风格要求：生活方式融合的清新旅游风。背景可以展现温暖的异国阳光、自然绿植阴影或明亮的街道模糊背景；色调明快饱满但不失真实，主打治愈系与真实的户外氛围感，不夸张。",
+    "created_at": "2025-10-19 09:50:44"
+  },
+  {
+    "title": "早餐三明治",
+    "description": "一份营养丰富的早餐三明治，包含虾仁、午餐肉和新鲜蔬菜，简单易做。",
+    "category": "早餐",
+    "difficulty": "easy",
+    "prep_time": 5,
+    "cook_time": 10,
+    "ingredients": [
+      {
+        "name": "虾",
+        "amount": 4,
+        "unit": "只"
+      },
+      {
+        "name": "午餐肉",
+        "amount": 2,
+        "unit": "片"
+      },
+      {
+        "name": "面包",
+        "amount": 2,
+        "unit": "片"
+      },
+      {
+        "name": "鸡蛋",
+        "amount": 1,
+        "unit": "个"
+      },
+      {
+        "name": "牛油果",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "青豆",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "玉米粒",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "生菜",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "黑芝麻",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "黄油",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "番茄酱",
+        "amount": 0,
+        "unit": "适量"
+      },
+      {
+        "name": "美乃滋",
+        "amount": 0,
+        "unit": "适量"
+      }
+    ],
+    "steps": [
+      {
+        "description": "午餐肉切丁，鸡蛋打成蛋液备用。",
+        "step_type": "prep",
+        "time_minutes": 3
+      },
+      {
+        "description": "电饼铛涂油，放入午餐肉、虾、玉米粒、青豆，煎2分钟后取出。",
+        "step_type": "active_cook",
+        "time_minutes": 2
+      },
+      {
+        "description": "电饼铛倒入蛋液，放入面包，10秒后面包翻面。",
+        "step_type": "active_cook",
+        "time_minutes": 1
+      },
+      {
+        "description": "等待90秒后，将面包连同蛋饼整体翻面。",
+        "step_type": "active_cook",
+        "time_minutes": 2
+      },
+      {
+        "description": "在蛋饼上铺上之前煎好的配料，根据喜好加入牛油果、生菜等，涂上酱料。",
+        "step_type": "active_cook",
+        "time_minutes": 1
+      },
+      {
+        "description": "合上面包，中间切开成三角形即可。",
+        "step_type": "active_cook",
+        "time_minutes": 1
+      }
+    ],
+    "tags": [
+      "中餐",
+      "早餐",
+      "三明治",
+      "快捷"
+    ],
+    "tools": "电饼铛",
+    "image_prompt": "调用nano banana重新生成 早餐三明治 的食谱图片。风格要求：生活方式融合的清新旅游风。背景可以展现温暖的异国阳光、自然绿植阴影或明亮的街道模糊背景；色调明快饱满但不失真实，主打治愈系与真实的户外氛围感，不夸张。",
+    "created_at": "2025-12-24 15:23:05"
+  },
+  {
+    "title": "法棍",
+    "description": "一份快手且营养丰富的法棍小食，搭配了鲜虾、午餐肉和多种蔬菜，口感层次丰富。",
+    "category": "早餐",
+    "difficulty": "easy",
+    "prep_time": 10,
+    "cook_time": 10,
+    "ingredients": [
+      {
+        "name": "法棍",
+        "amount": 1,
+        "unit": "根"
+      },
+      {
+        "name": "虾仁",
+        "amount": 100,
+        "unit": "克"
+      },
+      {
+        "name": "胡萝卜",
+        "amount": 50,
+        "unit": "克"
+      },
+      {
+        "name": "青豆",
+        "amount": 50,
+        "unit": "克"
+      },
+      {
+        "name": "午餐肉",
+        "amount": 100,
+        "unit": "克"
+      },
+      {
+        "name": "黄油",
+        "amount": 20,
+        "unit": "克"
+      },
+      {
+        "name": "奶酪",
+        "amount": 50,
+        "unit": "克"
+      }
+    ],
+    "steps": [
+      {
+        "description": "虾仁洗净擦干，切成小丁。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "锅中放入黄油，分别将虾仁、午餐肉、胡萝卜和青豆炒熟。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      },
+      {
+        "description": "将法棍切成片，放入锅中煎制两面，每面约煎30秒直至酥脆。",
+        "step_type": "active_cook",
+        "time_minutes": 3
+      },
+      {
+        "description": "在煎好的法棍片上依次放上奶酪（Cheese）和所有炒好的食材。",
+        "step_type": "prep",
+        "time_minutes": 2
+      },
+      {
+        "description": "最后进行装盘即可食用。",
+        "step_type": "prep",
+        "time_minutes": 1
+      }
+    ],
+    "tags": [
+      "西餐",
+      "法棍",
+      "虾仁",
+      "快手菜"
+    ],
+    "tools": "平底炒锅, 刀, 案板",
+    "image_prompt": "调用nano banana重新生成 法棍 的食谱图片。风格要求：生活方式融合的清新旅游风。背景可以展现温暖的异国阳光、自然绿植阴影或明亮的街道模糊背景；色调明快饱满但不失真实，主打治愈系与真实的户外氛围感，不夸张。",
+    "created_at": "2025-11-20 08:34:53"
+  },
+  {
+    "title": "红烧肉(电饭煲)",
+    "description": "这是一款利用电饭煲制作的红烧肉，操作简单，肉质鲜嫩多汁。",
+    "category": "晚餐",
+    "difficulty": "easy",
+    "prep_time": 15,
+    "cook_time": 60,
+    "ingredients": [
+      {
+        "name": "五花肉",
+        "amount": 400,
+        "unit": "克"
+      },
+      {
+        "name": "生抽",
+        "amount": 4,
+        "unit": "汤匙"
+      },
+      {
+        "name": "老抽",
+        "amount": 0.5,
+        "unit": "汤匙"
+      },
+      {
+        "name": "冰糖",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "八角",
+        "amount": 1,
+        "unit": "个"
+      },
+      {
+        "name": "桂皮",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "生姜",
+        "amount": 1,
+        "unit": "份"
+      },
+      {
+        "name": "葱",
+        "amount": 1,
+        "unit": "份"
+      },
+      {
+        "name": "料酒",
+        "amount": 1,
+        "unit": "份"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将五花肉切块，加入料酒、葱、生姜焯水，去除血水。",
+        "step_type": "prep",
+        "time_minutes": 10
+      },
+      {
+        "description": "在电饭煲底部平铺姜片，放入焯水后的五花肉及所有调料。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "加入清水直到没过肉块。",
+        "step_type": "active_cook",
+        "time_minutes": 1
+      },
+      {
+        "description": "电饭煲选择'brown rice'模式，等待煮好。",
+        "step_type": "active_cook",
+        "time_minutes": 45
+      },
+      {
+        "description": "（可选）煮好后可加入土豆，再次选择'brown rice'模式煮一遍。",
+        "step_type": "active_cook",
+        "time_minutes": 45
+      }
+    ],
+    "tags": [
+      "中餐",
+      "猪肉",
+      "家常菜"
+    ],
+    "tools": "电饭煲",
+    "image_prompt": "调用nano banana重新生成 红烧肉(电饭煲) 的食谱图片。风格要求：生活方式融合的清新旅游风。背景可以展现温暖的异国阳光、自然绿植阴影或明亮的街道模糊背景；色调明快饱满但不失真实，主打治愈系与真实的户外氛围感，不夸张。",
+    "created_at": "2026-02-27 03:09:42"
+  },
+  {
+    "title": "麻辣拌",
+    "description": "一道简单快捷、香辣可口的家庭版麻辣拌，涵盖了海鲜、丸子和多种蔬菜，搭配自制油泼辣子和浓郁芝麻酱。",
+    "category": "晚餐",
+    "difficulty": "easy",
+    "prep_time": 10,
+    "cook_time": 10,
+    "ingredients": [
+      {
+        "name": "宽粉",
+        "amount": 1,
+        "unit": "份"
+      },
+      {
+        "name": "海鲜",
+        "amount": 200,
+        "unit": "克"
+      },
+      {
+        "name": "丸子",
+        "amount": 200,
+        "unit": "克"
+      },
+      {
+        "name": "蔬菜",
+        "amount": 150,
+        "unit": "克"
+      },
+      {
+        "name": "金针菇",
+        "amount": 100,
+        "unit": "克"
+      },
+      {
+        "name": "葱花",
+        "amount": 1,
+        "unit": "适量"
+      },
+      {
+        "name": "蒜末",
+        "amount": 1,
+        "unit": "适量"
+      },
+      {
+        "name": "辣椒粉",
+        "amount": 1,
+        "unit": "适量"
+      },
+      {
+        "name": "白芝麻",
+        "amount": 1,
+        "unit": "适量"
+      },
+      {
+        "name": "食用油",
+        "amount": 30,
+        "unit": "毫升"
+      },
+      {
+        "name": "生抽",
+        "amount": 2,
+        "unit": "Tbsp"
+      },
+      {
+        "name": "醋",
+        "amount": 2,
+        "unit": "Tbsp"
+      },
+      {
+        "name": "芝麻酱",
+        "amount": 2,
+        "unit": "Tbsp"
+      },
+      {
+        "name": "蚝油",
+        "amount": 1,
+        "unit": "Tbsp"
+      },
+      {
+        "name": "盐",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "糖",
+        "amount": 0.33,
+        "unit": "tsp"
+      }
+    ],
+    "steps": [
+      {
+        "description": "处理海鲜、蔬菜并清洗干净备用。",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "烧一锅开水，放入海鲜煮2分钟，蔬菜煮2分钟（冷冻蔬菜煮3分钟），丸子煮的时间稍长一些直至熟透。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      },
+      {
+        "description": "在碗中放入葱花、蒜末、辣椒粉、白芝麻，淋上烧热的油激发出香味。",
+        "step_type": "prep",
+        "time_minutes": 2
+      },
+      {
+        "description": "加入生抽、醋、芝麻酱、蚝油、盐和糖，搅拌均匀调成拌料。",
+        "step_type": "prep",
+        "time_minutes": 2
+      },
+      {
+        "description": "将煮熟沥干水分的食材放入调料碗中，混匀拌入即可食用。",
+        "step_type": "active_cook",
+        "time_minutes": 1
+      }
+    ],
+    "tags": [
+      "中餐",
+      "麻辣",
+      "拌菜",
+      "快手菜"
+    ],
+    "tools": "煮锅、大碗、炒锅（用于加热油）",
+    "image_prompt": "调用nano banana重新生成 麻辣拌 的食谱图片。风格要求：顶尖美食杂志内页/艺术解构风。构图讲究层次美学，食材间可以有自然的摆放距离甚至轻微的空间分离层次；电影级打光，质感极其细腻超清，画面开胃惹眼且非常专业。",
+    "created_at": "2026-02-21 16:48:36"
+  },
+  {
+    "title": "Old Bay 美式海鲜",
+    "description": "经典美式手抓海鲜，以 Old Bay 调料为灵魂，搭配黄油、大蒜和柠檬，口感丰富且充满浓郁的美式风味。",
+    "category": "正餐",
+    "difficulty": "medium",
+    "prep_time": 15,
+    "cook_time": 30,
+    "ingredients": [
+      {
+        "name": "虾",
+        "amount": 500,
+        "unit": "克"
+      },
+      {
+        "name": "土豆",
+        "amount": 2,
+        "unit": "个"
+      },
+      {
+        "name": "玉米",
+        "amount": 2,
+        "unit": "根"
+      },
+      {
+        "name": "香肠",
+        "amount": 2,
+        "unit": "根"
+      },
+      {
+        "name": "扇贝",
+        "amount": 4,
+        "unit": "个"
+      },
+      {
+        "name": "青口",
+        "amount": 6,
+        "unit": "个"
+      },
+      {
+        "name": "墨鱼",
+        "amount": 1,
+        "unit": "只"
+      },
+      {
+        "name": "Old Bay 调料",
+        "amount": 5,
+        "unit": "汤匙"
+      },
+      {
+        "name": "蒜泥",
+        "amount": 4,
+        "unit": "瓣"
+      },
+      {
+        "name": "黄油",
+        "amount": 1,
+        "unit": "条"
+      },
+      {
+        "name": "辣椒面",
+        "amount": 1,
+        "unit": "汤匙"
+      },
+      {
+        "name": "黄柠檬",
+        "amount": 2,
+        "unit": "个"
+      },
+      {
+        "name": "糖",
+        "amount": 0.33,
+        "unit": "茶匙"
+      },
+      {
+        "name": "盐",
+        "amount": 2,
+        "unit": "茶匙"
+      }
+    ],
+    "steps": [
+      {
+        "description": "准备食材：清洗海鲜（虾、扇贝、青口、墨鱼）；土豆切块，玉米切段，香肠切片。",
+        "step_type": "prep",
+        "time_minutes": 10
+      },
+      {
+        "description": "制作拌料：小火融化一整条黄油，加入蒜泥、半个柠檬挤出的汁和糖，搅拌均匀备用。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      },
+      {
+        "description": "煮制蔬菜：锅中加水，量以没过玉米和土豆为准。放入 2 汤匙 Old Bay、2 茶匙盐和半个柠檬。水开后放入土豆、玉米和香肠煮 20 分钟，煮熟后捞出。",
+        "step_type": "active_cook",
+        "time_minutes": 20
+      },
+      {
+        "description": "煮制海鲜：在同一锅煮过蔬菜的水中放入各类海鲜，水开后再煮 5 分钟至熟，捞出滤水。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      },
+      {
+        "description": "混合调味：将煮好的蔬菜、香肠和海鲜混合。倒入预先准备好的黄油拌料，再加入 3 汤匙 Old Bay 调料、1 汤匙辣椒面，以及一个切片的柠檬，充分搅拌均匀即可。",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      }
+    ],
+    "tags": [
+      "美式",
+      "海鲜",
+      "手抓海鲜",
+      "Old Bay"
+    ],
+    "tools": "大锅, 小平底锅",
+    "image_prompt": "调用nano banana重新生成 Old Bay 美式海鲜 的食谱图片。风格要求：商业广告大片感。捕捉动感瞬间，例如食材轻微悬浮或酱汁动态飞溅；深色背景，对比强烈，景深效果明显；灯光极度讲究，高光锐利如精美工作室拍摄，边缘清晰，视觉冲击力极强。",
+    "created_at": "2026-02-12 06:26:21"
+  },
+  {
+    "title": "红茶汤",
+    "description": "作为果茶和奶茶的基础茶底，具有浓郁的茶香。",
+    "category": "饮品",
+    "difficulty": "easy",
+    "prep_time": 2,
+    "cook_time": 5,
+    "ingredients": [
+      {
+        "name": "红茶粉",
+        "amount": 15,
+        "unit": "克"
+      },
+      {
+        "name": "水",
+        "amount": 500,
+        "unit": "毫升"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将水煮开",
+        "step_type": "active_cook",
+        "time_minutes": 3
+      },
+      {
+        "description": "加入红茶粉，关火焖1分钟入味",
+        "step_type": "active_cook",
+        "time_minutes": 1
+      },
+      {
+        "description": "过滤出茶汤备用",
+        "step_type": "prep",
+        "time_minutes": 1
+      }
+    ],
+    "tags": [
+      "饮品",
+      "茶底"
+    ],
+    "tools": "煮锅, 滤网",
+    "image_prompt": "调用nano banana重新生成 红茶汤 的饮品图片。风格要求：明亮温暖的环境背景。构图通透清爽，像是沐浴在阳光下的桌面或窗边；光线能微微打透杯壁或液体，展现出冰块冰冷剔透的质感或者热气上升的氤氲感；整体色调明朗、治愈，极具诱人解渴或放松的高级质感。",
+    "created_at": "2025-10-05 19:26:41"
+  },
+  {
+    "title": "一颗青柠茶",
+    "description": "清爽解腻的青柠饮品，不含茶汤。",
+    "category": "饮品",
+    "difficulty": "easy",
+    "prep_time": 5,
+    "cook_time": 0,
+    "ingredients": [
+      {
+        "name": "果糖",
+        "amount": 40,
+        "unit": "毫升"
+      },
+      {
+        "name": "金桔汁",
+        "amount": 20,
+        "unit": "毫升"
+      },
+      {
+        "name": "小青柠",
+        "amount": 1,
+        "unit": "个"
+      },
+      {
+        "name": "大青柠",
+        "amount": 2,
+        "unit": "片"
+      },
+      {
+        "name": "冰块",
+        "amount": 0,
+        "unit": "八分满"
+      },
+      {
+        "name": "水",
+        "amount": 0,
+        "unit": "加满"
+      }
+    ],
+    "steps": [
+      {
+        "description": "小青柠切片备用",
+        "step_type": "prep",
+        "time_minutes": 2
+      },
+      {
+        "description": "杯中依次加入果糖、金桔汁、青柠片",
+        "step_type": "prep",
+        "time_minutes": 1
+      },
+      {
+        "description": "加入冰块至八分满，加满纯净水即可",
+        "step_type": "prep",
+        "time_minutes": 2
+      }
+    ],
+    "tags": [
+      "果茶",
+      "清爽"
+    ],
+    "tools": "出品杯",
+    "image_prompt": "调用nano banana重新生成 一颗青柠茶 的饮品图片。风格要求：明亮温暖的环境背景。构图通透清爽，像是沐浴在阳光下的桌面或窗边；光线能微微打透杯壁或液体，展现出冰块冰冷剔透的质感或者热气上升的氤氲感；整体色调明朗、治愈，极具诱人解渴或放松的高级质感。",
+    "created_at": "2025-10-27 00:49:42"
+  },
+  {
+    "title": "霸气橙子",
+    "description": "富含维C的橙香红茶饮品。",
+    "category": "饮品",
+    "difficulty": "easy",
+    "prep_time": 5,
+    "cook_time": 0,
+    "ingredients": [
+      {
+        "name": "橙汁",
+        "amount": 15,
+        "unit": "克"
+      },
+      {
+        "name": "果糖",
+        "amount": 20,
+        "unit": "毫升"
+      },
+      {
+        "name": "红茶汤",
+        "amount": 200,
+        "unit": "毫升"
+      },
+      {
+        "name": "橙子",
+        "amount": 0.5,
+        "unit": "个"
+      },
+      {
+        "name": "黄柠檬",
+        "amount": 2,
+        "unit": "片"
+      },
+      {
+        "name": "青柠",
+        "amount": 1,
+        "unit": "片"
+      },
+      {
+        "name": "冰块",
+        "amount": 0,
+        "unit": "八分满"
+      }
+    ],
+    "steps": [
+      {
+        "description": "切好橙子和柠檬片",
+        "step_type": "prep",
+        "time_minutes": 2
+      },
+      {
+        "description": "杯中加入橙汁、果糖和红茶汤",
+        "step_type": "prep",
+        "time_minutes": 1
+      },
+      {
+        "description": "放入水果片，加入冰块至八分满",
+        "step_type": "prep",
+        "time_minutes": 2
+      }
+    ],
+    "tags": [
+      "果茶",
+      "红茶",
+      "橙子"
+    ],
+    "tools": "出品杯",
+    "image_prompt": "调用nano banana重新生成 霸气橙子 的饮品图片。风格要求：明亮温暖的环境背景。构图通透清爽，像是沐浴在阳光下的桌面或窗边；光线能微微打透杯壁或液体，展现出冰块冰冷剔透的质感或者热气上升的氤氲感；整体色调明朗、治愈，极具诱人解渴或放松的高级质感。",
+    "created_at": "2026-01-17 14:51:01"
+  },
+  {
+    "title": "黑糖珍珠脏脏茶",
+    "description": "经典的黑糖珍珠鲜奶，口感香甜浓郁。",
+    "category": "饮品",
+    "difficulty": "medium",
+    "prep_time": 10,
+    "cook_time": 5,
+    "ingredients": [
+      {
+        "name": "黑糖",
+        "amount": 50,
+        "unit": "克"
+      },
+      {
+        "name": "水",
+        "amount": 35,
+        "unit": "克"
+      },
+      {
+        "name": "煮好的珍珠",
+        "amount": 60,
+        "unit": "克"
+      },
+      {
+        "name": "牛奶",
+        "amount": 280,
+        "unit": "克"
+      },
+      {
+        "name": "冰块",
+        "amount": 100,
+        "unit": "克"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将黑糖和水熬煮成黑糖浆，混合珍珠",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      },
+      {
+        "description": "将黑糖珍珠挂壁倒入杯中",
+        "step_type": "prep",
+        "time_minutes": 2
+      },
+      {
+        "description": "加入冰块，最后倒入鲜牛奶",
+        "step_type": "prep",
+        "time_minutes": 3
+      }
+    ],
+    "tags": [
+      "脏脏茶",
+      "黑糖",
+      "珍珠"
+    ],
+    "tools": "煮锅, 出品杯",
+    "image_prompt": "调用nano banana重新生成 黑糖珍珠脏脏茶 的饮品图片。风格要求：明亮温暖的环境背景。构图通透清爽，像是沐浴在阳光下的桌面或窗边；光线能微微打透杯壁或液体，展现出冰块冰冷剔透的质感或者热气上升的氤氲感；整体色调明朗、治愈，极具诱人解渴或放松的高级质感。",
+    "created_at": "2025-11-20 18:23:36"
+  },
+  {
+    "title": "抹茶红豆冰沙",
+    "description": "和风口味的清凉抹茶冰沙。",
+    "category": "饮品",
+    "difficulty": "medium",
+    "prep_time": 5,
+    "cook_time": 2,
+    "ingredients": [
+      {
+        "name": "果糖",
+        "amount": 20,
+        "unit": "毫升"
+      },
+      {
+        "name": "抹茶粉",
+        "amount": 8,
+        "unit": "克"
+      },
+      {
+        "name": "红豆",
+        "amount": 40,
+        "unit": "克"
+      },
+      {
+        "name": "淡奶油",
+        "amount": 50,
+        "unit": "克"
+      },
+      {
+        "name": "冰块",
+        "amount": 350,
+        "unit": "克"
+      },
+      {
+        "name": "水",
+        "amount": 50,
+        "unit": "毫升"
+      }
+    ],
+    "steps": [
+      {
+        "description": "在冰沙杯中加入果糖、抹茶粉、红豆和淡奶油",
+        "step_type": "prep",
+        "time_minutes": 1
+      },
+      {
+        "description": "加入冰块和水",
+        "step_type": "prep",
+        "time_minutes": 1
+      },
+      {
+        "description": "使用冰沙机搅拌均匀，装杯后以红豆点缀",
+        "step_type": "active_cook",
+        "time_minutes": 2
+      }
+    ],
+    "tags": [
+      "冰沙",
+      "抹茶",
+      "甜品饮品"
+    ],
+    "tools": "冰沙机",
+    "image_prompt": "调用nano banana重新生成 抹茶红豆冰沙 的饮品图片。风格要求：明亮温暖的环境背景。构图通透清爽，像是沐浴在阳光下的桌面或窗边；光线能微微打透杯壁或液体，展现出冰块冰冷剔透的质感或者热气上升的氤氲感；整体色调明朗、治愈，极具诱人解渴或放松的高级质感。",
+    "created_at": "2026-02-11 05:55:00"
+  },
+  {
+    "title": "蛋挞",
+    "description": "酥脆香甜的经典法式甜点。",
+    "category": "甜点",
+    "difficulty": "medium",
+    "prep_time": 10,
+    "cook_time": 25,
+    "ingredients": [
+      {
+        "name": "淡奶油",
+        "amount": 200,
+        "unit": "克"
+      },
+      {
+        "name": "牛奶",
+        "amount": 60,
+        "unit": "克"
+      },
+      {
+        "name": "糖",
+        "amount": 40,
+        "unit": "克"
+      },
+      {
+        "name": "全蛋",
+        "amount": 1,
+        "unit": "个"
+      },
+      {
+        "name": "蛋黄",
+        "amount": 2,
+        "unit": "个"
+      },
+      {
+        "name": "蛋挞皮",
+        "amount": 10,
+        "unit": "个"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将淡奶油、牛奶、糖混合搅拌均匀至糖融化",
+        "step_type": "prep",
+        "time_minutes": 3
+      },
+      {
+        "description": "加入全蛋和蛋黄，搅拌均匀过筛成蛋挞液",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "将液倒入蛋挞皮，放入烤箱上火200度下火220度烤25分钟",
+        "step_type": "active_cook",
+        "time_minutes": 25
+      }
+    ],
+    "tags": [
+      "烘焙",
+      "下午茶"
+    ],
+    "tools": "烤箱, 搅拌碗",
+    "image_prompt": "调用nano banana重新生成 蛋挞 的食谱图片。风格要求：生活方式融合的清新旅游风。背景可以展现温暖的异国阳光、自然绿植阴影或明亮的街道模糊背景；色调明快饱满但不失真实，主打治愈系与真实的户外氛围感，不夸张。",
+    "created_at": "2026-01-08 05:54:27"
+  },
+  {
+    "title": "焦糖布丁",
+    "description": "带有浓郁焦糖香气的滑嫩布丁。",
+    "category": "甜点",
+    "difficulty": "hard",
+    "prep_time": 20,
+    "cook_time": 40,
+    "ingredients": [
+      {
+        "name": "凉水(焦糖)",
+        "amount": 140,
+        "unit": "克"
+      },
+      {
+        "name": "糖(焦糖)",
+        "amount": 30,
+        "unit": "克"
+      },
+      {
+        "name": "开水(焦糖)",
+        "amount": 15,
+        "unit": "克"
+      },
+      {
+        "name": "鸡蛋",
+        "amount": 2,
+        "unit": "个"
+      },
+      {
+        "name": "糖(布丁)",
+        "amount": 30,
+        "unit": "克"
+      },
+      {
+        "name": "牛奶",
+        "amount": 210,
+        "unit": "克"
+      },
+      {
+        "name": "朗姆酒",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "香草精",
+        "amount": 2,
+        "unit": "滴"
+      }
+    ],
+    "steps": [
+      {
+        "description": "熬制焦糖：水和糖煮至琥珀色加入开水，倒入瓶底",
+        "step_type": "active_cook",
+        "time_minutes": 10
+      },
+      {
+        "description": "混合鸡蛋、糖、牛奶、酒和香草精，过筛",
+        "step_type": "prep",
+        "time_minutes": 10
+      },
+      {
+        "description": "倒入瓶中，上火160度下火160度烤40分钟",
+        "step_type": "active_cook",
+        "time_minutes": 40
+      }
+    ],
+    "tags": [
+      "甜点",
+      "烘焙",
+      "焦糖"
+    ],
+    "tools": "烤箱, 煮锅",
+    "image_prompt": "调用nano banana重新生成 焦糖布丁 的食谱图片。风格要求：商业广告大片感。捕捉动感瞬间，例如食材轻微悬浮或酱汁动态飞溅；深色背景，对比强烈，景深效果明显；灯光极度讲究，高光锐利如精美工作室拍摄，边缘清晰，视觉冲击力极强。",
+    "created_at": "2026-02-25 21:04:10"
+  },
+  {
+    "title": "椰风抹茶拿铁",
+    "description": "抹茶与椰奶的完美结合，热饮更香浓。",
+    "category": "饮品",
+    "difficulty": "easy",
+    "prep_time": 3,
+    "cook_time": 5,
+    "ingredients": [
+      {
+        "name": "抹茶粉",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "开水",
+        "amount": 40,
+        "unit": "毫升"
+      },
+      {
+        "name": "牛奶",
+        "amount": 200,
+        "unit": "毫升"
+      },
+      {
+        "name": "椰浆",
+        "amount": 20,
+        "unit": "毫升"
+      },
+      {
+        "name": "果糖",
+        "amount": 20,
+        "unit": "毫升"
+      }
+    ],
+    "steps": [
+      {
+        "description": "抹茶粉用热水化开搅拌均匀",
+        "step_type": "prep",
+        "time_minutes": 2
+      },
+      {
+        "description": "加入椰浆和果糖搅拌",
+        "step_type": "prep",
+        "time_minutes": 1
+      },
+      {
+        "description": "加入热牛奶搅拌均匀即可",
+        "step_type": "active_cook",
+        "time_minutes": 2
+      }
+    ],
+    "tags": [
+      "热饮",
+      "抹茶",
+      "椰奶"
+    ],
+    "tools": "拉花缸或搅拌棒",
+    "image_prompt": "调用nano banana重新生成 椰风抹茶拿铁 的饮品图片。风格要求：明亮温暖的环境背景。构图通透清爽，像是沐浴在阳光下的桌面或窗边；光线能微微打透杯壁或液体，展现出冰块冰冷剔透的质感或者热气上升的氤氲感；整体色调明朗、治愈，极具诱人解渴或放松的高级质感。",
+    "created_at": "2025-11-07 05:17:31"
+  },
+  {
+    "title": "红茶汤 (基础茶底)",
+    "description": "蒙太奇饮品基础红茶汤，用于调制各类茶饮。",
+    "category": "饮品",
+    "difficulty": "easy",
+    "prep_time": 2,
+    "cook_time": 5,
+    "ingredients": [
+      {
+        "name": "红茶粉",
+        "amount": 15,
+        "unit": "克"
+      },
+      {
+        "name": "水",
+        "amount": 500,
+        "unit": "毫升"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将水煮开",
+        "step_type": "active_cook",
+        "time_minutes": 3
+      },
+      {
+        "description": "加入红茶粉，关火静置入味",
+        "step_type": "active_cook",
+        "time_minutes": 1
+      },
+      {
+        "description": "过滤出红茶汤备用",
+        "step_type": "prep",
+        "time_minutes": 1
+      }
+    ],
+    "tags": [
+      "基础",
+      "红茶"
+    ],
+    "tools": "煮锅, 过滤网",
+    "image_prompt": "调用nano banana重新生成 红茶汤 (基础茶底) 的饮品图片。风格要求：明亮温暖的环境背景。构图通透清爽，像是沐浴在阳光下的桌面或窗边；光线能微微打透杯壁或液体，展现出冰块冰冷剔透的质感或者热气上升的氤氲感；整体色调明朗、治愈，极具诱人解渴或放松的高级质感。",
+    "created_at": "2026-01-28 05:35:23"
+  },
+  {
+    "title": "海盐奶盖 (配料)",
+    "description": "咸甜适口、质地丝滑的奶盖。",
+    "category": "饮品",
+    "difficulty": "medium",
+    "prep_time": 10,
+    "cook_time": 0,
+    "ingredients": [
+      {
+        "name": "牛奶",
+        "amount": 250,
+        "unit": "克"
+      },
+      {
+        "name": "安佳奶酪",
+        "amount": 100,
+        "unit": "克"
+      },
+      {
+        "name": "海盐",
+        "amount": 1,
+        "unit": "克"
+      },
+      {
+        "name": "安佳淡奶油",
+        "amount": 150,
+        "unit": "克"
+      },
+      {
+        "name": "砂糖",
+        "amount": 30,
+        "unit": "克"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将奶酪室温软化",
+        "step_type": "prep",
+        "time_minutes": 5
+      },
+      {
+        "description": "加入砂糖、海盐和少量牛奶打至顺滑",
+        "step_type": "prep",
+        "time_minutes": 3
+      },
+      {
+        "description": "加入剩余牛奶和淡奶油，打发至有纹路但具有流动性",
+        "step_type": "prep",
+        "time_minutes": 2
+      }
+    ],
+    "tags": [
+      "奶盖",
+      "配料"
+    ],
+    "tools": "电动打蛋器",
+    "image_prompt": "调用nano banana重新生成 海盐奶盖 (配料) 的饮品图片。风格要求：明亮温暖的环境背景。构图通透清爽，像是沐浴在阳光下的桌面或窗边；光线能微微打透杯壁或液体，展现出冰块冰冷剔透的质感或者热气上升的氤氲感；整体色调明朗、治愈，极具诱人解渴或放松的高级质感。",
+    "created_at": "2025-12-20 08:16:22"
+  },
+  {
+    "title": "港式拉茶",
+    "description": "正宗港式风味，通过反复拉制增加醇厚度。",
+    "category": "饮品",
+    "difficulty": "medium",
+    "prep_time": 5,
+    "cook_time": 10,
+    "ingredients": [
+      {
+        "name": "水",
+        "amount": 1000,
+        "unit": "克"
+      },
+      {
+        "name": "锡兰红茶",
+        "amount": 50,
+        "unit": "克"
+      }
+    ],
+    "steps": [
+      {
+        "description": "将水煮沸",
+        "step_type": "active_cook",
+        "time_minutes": 5
+      },
+      {
+        "description": "茶粉放入拉茶袋",
+        "step_type": "prep",
+        "time_minutes": 1
+      },
+      {
+        "description": "开水倒入茶袋，来回冲拉6-8次",
+        "step_type": "active_cook",
+        "time_minutes": 4
+      }
+    ],
+    "tags": [
+      "港式",
+      "茶"
+    ],
+    "tools": "拉茶袋, 煮锅",
+    "image_prompt": "调用nano banana重新生成 港式拉茶 的饮品图片。风格要求：明亮温暖的环境背景。构图通透清爽，像是沐浴在阳光下的桌面或窗边；光线能微微打透杯壁或液体，展现出冰块冰冷剔透的质感或者热气上升的氤氲感；整体色调明朗、治愈，极具诱人解渴或放松的高级质感。",
+    "created_at": "2026-01-25 19:52:47"
+  },
+  {
+    "title": "蛋黄酥",
+    "description": "传统中式糕点，口感层叠酥脆。",
+    "category": "甜点",
+    "difficulty": "hard",
+    "prep_time": 40,
+    "cook_time": 30,
+    "ingredients": [
+      {
+        "name": "中筋粉",
+        "amount": 225,
+        "unit": "g"
+      },
+      {
+        "name": "猪油(油皮)",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "糖粉",
+        "amount": 45,
+        "unit": "g"
+      },
+      {
+        "name": "水",
+        "amount": 90,
+        "unit": "g"
+      },
+      {
+        "name": "低筋面粉",
+        "amount": 180,
+        "unit": "g"
+      },
+      {
+        "name": "猪油(油酥)",
+        "amount": 90,
+        "unit": "g"
+      },
+      {
+        "name": "紫薯粉",
+        "amount": 4,
+        "unit": "g"
+      },
+      {
+        "name": "绿茶粉",
+        "amount": 3,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "description": "制作油皮：混合中筋粉、猪油、糖粉和水揉至出膜。",
+        "step_type": "prep",
+        "time_minutes": 15
+      },
+      {
+        "description": "制作油酥：混合低筋粉和猪油，分出三份分别加入紫薯粉和绿茶粉。",
+        "step_type": "prep",
+        "time_minutes": 15
+      },
+      {
+        "description": "包馅成型：油皮包裹油酥，经两次擀卷后包入蛋黄豆沙馅。",
+        "step_type": "active_cook",
+        "time_minutes": 10
+      },
+      {
+        "description": "放入烤箱烘烤至表面金黄酥脆。",
+        "step_type": "active_cook",
+        "time_minutes": 30
+      }
+    ],
+    "tags": [
+      "中式点心",
+      "猪油",
+      "烘焙"
+    ],
+    "tools": "烤箱, 擀面杖, 电子秤",
+    "image_prompt": "调用nano banana重新生成 蛋黄酥 的食谱图片。风格要求：顶尖美食杂志内页/艺术解构风。构图讲究层次美学，食材间可以有自然的摆放距离甚至轻微的空间分离层次；电影级打光，质感极其细腻超清，画面开胃惹眼且非常专业。",
+    "created_at": "2025-11-29 16:59:04"
+  }
+]
